@@ -1,497 +1,2607 @@
 [
 	{
-	  "groupId": 433,
-	  "priority": 6,
-	  "title": "LaLiga League Player",
-	  "subTitle": "Complete this set to earn Untradeable Rewards. Hold onto the Group Reward for an additional upgrade opportunity.",
-	  "groupType": 4,
-	  "groupState": 1,
-	  "awardsList": [
-		{
-		  "value": 50538238,
-		  "untradeable": true,
-		  "halId": 0,
-		  "awardType": "item",
-		  "assetId": 0,
-		  "count": 1,
-		  "setId": 328747,
-		  "itemData": null,
-		  "itemDataReduced": {
-			"id": 0,
-			"untradeable": true,
-			"assetId": 206590,
-			"rating": 86,
-			"itemType": "player",
-			"resourceId": 50538238,
-			"discardValue": 0,
-			"cardsubtypeid": 2,
-			"preferredPosition": "CM",
-			"attributeArray": [
-			  80,
-			  85,
-			  87,
-			  85,
-			  60,
-			  72
-			],
-			"teamId": 483,
-			"rareflag": 85,
-			"leagueId": 0,
-			"nation": 45,
-			"guidAssetId": "11cdeec86bfb465d8e0a0b63c2258dfb"
-		  }
-		}
-	  ],
-	  "objectives": [
-		{
-		  "objectiveId": 23290,
-		  "name": "FC Barcelona",
-		  "description": "Score a goal in 2 separate wins with FC Barcelona players in Rivals",
-		  "takeMeThereLink": "GotoOnlineRivals",
-		  "gameArea": 1,
-		  "isWeb": false,
-		  "awards": [
+		"groupId": 47,
+		"priority": 1,
+		"title": "Squad Battles",
+		"subTitle": "Keep battling over the year to prove you are the Battle Master. All rewards are Untradeable",
+		"groupType": 4,
+		"groupState": 1,
+		"awardsList": [
 			{
-			  "value": 511,
-			  "untradeable": true,
-			  "halId": 4,
-			  "awardType": "pack",
-			  "assetId": 4,
-			  "count": 1,
-			  "setId": 177278,
-			  "itemData": null
+				"value": 6500089,
+				"untradeable": true,
+				"halId": 0,
+				"awardType": "item",
+				"assetId": 0,
+				"count": 1,
+				"setId": 335640,
+				"itemData": null,
+				"itemDataReduced": {
+					"id": 0,
+					"untradeable": true,
+					"assetId": 6500089,
+					"rating": 85,
+					"itemType": "tifo",
+					"resourceId": 6500089,
+					"discardValue": 0,
+					"cardsubtypeid": 13,
+					"attributeList": [],
+					"teamId": 0,
+					"rareflag": 1,
+					"leagueId": 0,
+					"cardassetid": 65
+				}
 			}
-		  ],
-		  "state": "REDEEMED",
-		  "currentProgress": 2,
-		  "multiplier": 2,
-		  "priority": 20
-		},
-		{
-		  "objectiveId": 23292,
-		  "name": "Atlético Madrid",
-		  "description": "Score a goal in 2 separate wins with Atlético Madrid players in Rivals",
-		  "takeMeThereLink": "GotoOnlineRivals",
-		  "gameArea": 1,
-		  "isWeb": false,
-		  "awards": [
+		],
+		"objectives": [
 			{
-			  "value": 511,
-			  "untradeable": true,
-			  "halId": 4,
-			  "awardType": "pack",
-			  "assetId": 4,
-			  "count": 1,
-			  "setId": 177279,
-			  "itemData": null
-			}
-		  ],
-		  "multiplier": 2,
-		  "priority": 19
-		},
-		{
-		  "objectiveId": 23293,
-		  "name": "Real Madrid",
-		  "description": "Score a goal in 2 separate wins with Real Madrid players in Rivals",
-		  "takeMeThereLink": "GotoOnlineRivals",
-		  "gameArea": 1,
-		  "isWeb": false,
-		  "awards": [
+				"objectiveId": 20212,
+				"name": "10 Squad Battles",
+				"description": "Win 10 Squad Battles (min. difficulty Semi-Pro)",
+				"takeMeThereLink": "GotoSquadBattle",
+				"gameArea": 1,
+				"isWeb": false,
+				"awards": [
+					{
+						"value": 511,
+						"untradeable": true,
+						"halId": 4,
+						"awardType": "pack",
+						"assetId": 4,
+						"count": 1,
+						"setId": 105796,
+						"itemData": null
+					}
+				],
+				"state": "REDEEMED",
+				"currentProgress": 10,
+				"multiplier": 10,
+				"priority": 6
+			},
 			{
-			  "value": 511,
-			  "untradeable": true,
-			  "halId": 4,
-			  "awardType": "pack",
-			  "assetId": 4,
-			  "count": 1,
-			  "setId": 177280,
-			  "itemData": null
-			}
-		  ],
-		  "state": "REDEEMED",
-		  "currentProgress": 2,
-		  "multiplier": 2,
-		  "priority": 18
-		},
-		{
-		  "objectiveId": 23294,
-		  "name": "Valencia CF",
-		  "description": "Score a goal in 2 separate wins with Valencia CF players in Rivals",
-		  "takeMeThereLink": "GotoOnlineRivals",
-		  "gameArea": 1,
-		  "isWeb": false,
-		  "awards": [
+				"objectiveId": 20213,
+				"name": "25 Squad Battles",
+				"description": "Win 25 Squad Battles (min. difficulty Semi-Pro)",
+				"takeMeThereLink": "GotoSquadBattle",
+				"gameArea": 5,
+				"isWeb": false,
+				"awards": [
+					{
+						"value": 512,
+						"untradeable": true,
+						"halId": 4,
+						"awardType": "pack",
+						"assetId": 4,
+						"count": 1,
+						"setId": 105797,
+						"itemData": null
+					}
+				],
+				"state": "REDEEMED",
+				"currentProgress": 25,
+				"multiplier": 25,
+				"priority": 5
+			},
 			{
-			  "value": 511,
-			  "untradeable": true,
-			  "halId": 4,
-			  "awardType": "pack",
-			  "assetId": 4,
-			  "count": 1,
-			  "setId": 177281,
-			  "itemData": null
-			}
-		  ],
-		  "state": "IN_PROGRESS",
-		  "currentProgress": 1,
-		  "multiplier": 2,
-		  "priority": 17
-		},
-		{
-		  "objectiveId": 23295,
-		  "name": "Getafe CF",
-		  "description": "Score a goal in 2 separate wins with Getafe CF players in Rivals",
-		  "takeMeThereLink": "GotoOnlineRivals",
-		  "gameArea": 1,
-		  "isWeb": false,
-		  "awards": [
+				"objectiveId": 20214,
+				"name": "50 Squad Battles",
+				"description": "Win 50 Squad Battles (min. difficulty Semi-Pro)",
+				"takeMeThereLink": "GotoSquadBattle",
+				"gameArea": 5,
+				"isWeb": false,
+				"awards": [
+					{
+						"value": 305,
+						"untradeable": true,
+						"halId": 3,
+						"awardType": "pack",
+						"assetId": 4,
+						"count": 1,
+						"setId": 105798,
+						"itemData": null
+					}
+				],
+				"state": "REDEEMED",
+				"currentProgress": 50,
+				"multiplier": 50,
+				"priority": 4
+			},
 			{
-			  "value": 512,
-			  "untradeable": true,
-			  "halId": 4,
-			  "awardType": "pack",
-			  "assetId": 4,
-			  "count": 1,
-			  "setId": 177282,
-			  "itemData": null
-			}
-		  ],
-		  "multiplier": 2,
-		  "priority": 16
-		},
-		{
-		  "objectiveId": 23296,
-		  "name": "Sevilla FC",
-		  "description": "Score a goal in 2 separate wins with Sevilla FC players in Rivals",
-		  "takeMeThereLink": "GotoOnlineRivals",
-		  "gameArea": 1,
-		  "isWeb": false,
-		  "awards": [
+				"objectiveId": 20215,
+				"name": "100 Squad Battles",
+				"description": "Win 100 Squad Battles (min. difficulty Semi-Pro)",
+				"takeMeThereLink": "GotoSquadBattle",
+				"gameArea": 6,
+				"isWeb": false,
+				"awards": [
+					{
+						"value": 401,
+						"untradeable": true,
+						"halId": 4,
+						"awardType": "pack",
+						"assetId": 4,
+						"count": 1,
+						"setId": 105799,
+						"itemData": null
+					}
+				],
+				"state": "REDEEMED",
+				"currentProgress": 100,
+				"multiplier": 100,
+				"priority": 3
+			},
 			{
-			  "value": 512,
-			  "untradeable": true,
-			  "halId": 4,
-			  "awardType": "pack",
-			  "assetId": 4,
-			  "count": 1,
-			  "setId": 177283,
-			  "itemData": null
-			}
-		  ],
-		  "multiplier": 2,
-		  "priority": 15
-		},
-		{
-		  "objectiveId": 23297,
-		  "name": "RCD Espanyol",
-		  "description": "Score a goal in 2 separate wins with RCD Espanyol players in Rivals",
-		  "takeMeThereLink": "GotoOnlineRivals",
-		  "gameArea": 1,
-		  "isWeb": false,
-		  "awards": [
+				"objectiveId": 20216,
+				"name": "200 Squad Battles",
+				"description": "Win 200 Squad Battles (min. difficulty Semi-Pro)",
+				"takeMeThereLink": "GotoSquadBattle",
+				"gameArea": 6,
+				"isWeb": false,
+				"awards": [
+					{
+						"value": 402,
+						"untradeable": true,
+						"halId": 4,
+						"awardType": "pack",
+						"assetId": 4,
+						"count": 1,
+						"setId": 105800,
+						"itemData": null
+					}
+				],
+				"state": "IN_PROGRESS",
+				"currentProgress": 140,
+				"multiplier": 200,
+				"priority": 2
+			},
 			{
-			  "value": 512,
-			  "untradeable": true,
-			  "halId": 4,
-			  "awardType": "pack",
-			  "assetId": 4,
-			  "count": 1,
-			  "setId": 177284,
-			  "itemData": null
+				"objectiveId": 20217,
+				"name": "300 Squad Battles",
+				"description": "Win 300 Squad Battles (min. difficulty Semi-Pro)",
+				"takeMeThereLink": "GotoSquadBattle",
+				"gameArea": 7,
+				"isWeb": false,
+				"awards": [
+					{
+						"value": 405,
+						"untradeable": true,
+						"halId": 4,
+						"awardType": "pack",
+						"assetId": 4,
+						"count": 1,
+						"setId": 105801,
+						"itemData": null
+					}
+				],
+				"state": "IN_PROGRESS",
+				"currentProgress": 140,
+				"multiplier": 300,
+				"priority": 1
 			}
-		  ],
-		  "multiplier": 2,
-		  "priority": 14
-		},
-		{
-		  "objectiveId": 23298,
-		  "name": "Athletic Club",
-		  "description": "Score a goal in 2 separate wins with Athletic Club players in Rivals",
-		  "takeMeThereLink": "GotoOnlineRivals",
-		  "gameArea": 1,
-		  "isWeb": false,
-		  "awards": [
+		],
+		"objectivesNumber": 6
+	},
+	{
+		"groupId": 48,
+		"priority": 2,
+		"title": "Rivals",
+		"subTitle": "Beat your Rivals to prove you are the G.O.A.T. All rewards are Untradeable",
+		"groupType": 4,
+		"groupState": 1,
+		"awardsList": [
 			{
-			  "value": 512,
-			  "untradeable": true,
-			  "halId": 4,
-			  "awardType": "pack",
-			  "assetId": 4,
-			  "count": 1,
-			  "setId": 177285,
-			  "itemData": null
+				"value": 6500067,
+				"untradeable": true,
+				"halId": 0,
+				"awardType": "item",
+				"assetId": 0,
+				"count": 1,
+				"setId": 335639,
+				"itemData": null,
+				"itemDataReduced": {
+					"id": 0,
+					"untradeable": true,
+					"assetId": 6500067,
+					"rating": 80,
+					"itemType": "tifo",
+					"resourceId": 6500067,
+					"discardValue": 0,
+					"cardsubtypeid": 13,
+					"attributeList": [],
+					"teamId": 0,
+					"rareflag": 0,
+					"leagueId": 0,
+					"cardassetid": 65
+				}
 			}
-		  ],
-		  "multiplier": 2,
-		  "priority": 13
-		},
-		{
-		  "objectiveId": 23299,
-		  "name": "Real Sociedad",
-		  "description": "Score a goal in 2 separate wins with Real Sociedad players in Rivals",
-		  "takeMeThereLink": "GotoOnlineRivals",
-		  "gameArea": 1,
-		  "isWeb": false,
-		  "awards": [
+		],
+		"objectives": [
 			{
-			  "value": 512,
-			  "untradeable": true,
-			  "halId": 4,
-			  "awardType": "pack",
-			  "assetId": 4,
-			  "count": 1,
-			  "setId": 177286,
-			  "itemData": null
-			}
-		  ],
-		  "state": "REDEEMED",
-		  "currentProgress": 2,
-		  "multiplier": 2,
-		  "priority": 12
-		},
-		{
-		  "objectiveId": 23300,
-		  "name": "Real Betis",
-		  "description": "Score a goal in 2 separate wins with Real Betis players in Rivals",
-		  "takeMeThereLink": "GotoOnlineRivals",
-		  "gameArea": 1,
-		  "isWeb": false,
-		  "awards": [
+				"objectiveId": 20218,
+				"name": "10 Rivals",
+				"description": "Win 10 Rivals Matches",
+				"takeMeThereLink": "GotoOnlineRivals",
+				"gameArea": 5,
+				"isWeb": false,
+				"awards": [
+					{
+						"value": 511,
+						"untradeable": true,
+						"halId": 4,
+						"awardType": "pack",
+						"assetId": 4,
+						"count": 1,
+						"setId": 105802,
+						"itemData": null
+					}
+				],
+				"state": "REDEEMED",
+				"currentProgress": 10,
+				"multiplier": 10,
+				"priority": 6
+			},
 			{
-			  "value": 512,
-			  "untradeable": true,
-			  "halId": 4,
-			  "awardType": "pack",
-			  "assetId": 4,
-			  "count": 1,
-			  "setId": 177287,
-			  "itemData": null
-			}
-		  ],
-		  "multiplier": 2,
-		  "priority": 11
-		},
-		{
-		  "objectiveId": 23301,
-		  "name": "D. Alavés",
-		  "description": "Score a goal in 2 separate wins with D. Alavés players in Rivals",
-		  "takeMeThereLink": "GotoOnlineRivals",
-		  "gameArea": 1,
-		  "isWeb": false,
-		  "awards": [
+				"objectiveId": 20219,
+				"name": "25 Rivals",
+				"description": "Win 25 Rivals Matches",
+				"takeMeThereLink": "GotoOnlineRivals",
+				"gameArea": 5,
+				"isWeb": false,
+				"awards": [
+					{
+						"value": 512,
+						"untradeable": true,
+						"halId": 4,
+						"awardType": "pack",
+						"assetId": 4,
+						"count": 1,
+						"setId": 105803,
+						"itemData": null
+					}
+				],
+				"state": "REDEEMED",
+				"currentProgress": 25,
+				"multiplier": 25,
+				"priority": 5
+			},
 			{
-			  "value": 512,
-			  "untradeable": true,
-			  "halId": 4,
-			  "awardType": "pack",
-			  "assetId": 4,
-			  "count": 1,
-			  "setId": 177288,
-			  "itemData": null
-			}
-		  ],
-		  "multiplier": 2,
-		  "priority": 10
-		},
-		{
-		  "objectiveId": 23302,
-		  "name": "SD Eibar",
-		  "description": "Score a goal in 2 separate wins with SD Eibar players in Rivals",
-		  "takeMeThereLink": "GotoOnlineRivals",
-		  "gameArea": 1,
-		  "isWeb": false,
-		  "awards": [
+				"objectiveId": 20220,
+				"name": "50 Rivals",
+				"description": "Win 50 Rivals Matches",
+				"takeMeThereLink": "GotoOnlineRivals",
+				"gameArea": 5,
+				"isWeb": false,
+				"awards": [
+					{
+						"value": 305,
+						"untradeable": true,
+						"halId": 4,
+						"awardType": "pack",
+						"assetId": 4,
+						"count": 1,
+						"setId": 105804,
+						"itemData": null
+					}
+				],
+				"state": "REDEEMED",
+				"currentProgress": 50,
+				"multiplier": 50,
+				"priority": 4
+			},
 			{
-			  "value": 512,
-			  "untradeable": true,
-			  "halId": 4,
-			  "awardType": "pack",
-			  "assetId": 4,
-			  "count": 1,
-			  "setId": 177289,
-			  "itemData": null
-			}
-		  ],
-		  "multiplier": 2,
-		  "priority": 9
-		},
-		{
-		  "objectiveId": 23303,
-		  "name": "CD Leganés",
-		  "description": "Score a goal in 2 separate wins with CD Leganés players in Rivals",
-		  "takeMeThereLink": "GotoOnlineRivals",
-		  "gameArea": 1,
-		  "isWeb": false,
-		  "awards": [
+				"objectiveId": 20221,
+				"name": "100 Rivals",
+				"description": "Win 100 Rivals Matches",
+				"takeMeThereLink": "GotoOnlineRivals",
+				"gameArea": 5,
+				"isWeb": false,
+				"awards": [
+					{
+						"value": 401,
+						"untradeable": true,
+						"halId": 4,
+						"awardType": "pack",
+						"assetId": 4,
+						"count": 1,
+						"setId": 105805,
+						"itemData": null
+					}
+				],
+				"state": "REDEEMED",
+				"currentProgress": 100,
+				"multiplier": 100,
+				"priority": 3
+			},
 			{
-			  "value": 512,
-			  "untradeable": true,
-			  "halId": 4,
-			  "awardType": "pack",
-			  "assetId": 4,
-			  "count": 1,
-			  "setId": 177290,
-			  "itemData": null
-			}
-		  ],
-		  "multiplier": 2,
-		  "priority": 8
-		},
-		{
-		  "objectiveId": 23304,
-		  "name": "Villarreal CF",
-		  "description": "Score a goal in 2 separate wins with Villarreal CF players in Rivals",
-		  "takeMeThereLink": "GotoOnlineRivals",
-		  "gameArea": 1,
-		  "isWeb": false,
-		  "awards": [
+				"objectiveId": 20222,
+				"name": "200 Rivals",
+				"description": "Win 200 Rivals Matches",
+				"takeMeThereLink": "GotoOnlineRivals",
+				"gameArea": 5,
+				"isWeb": false,
+				"awards": [
+					{
+						"value": 402,
+						"untradeable": true,
+						"halId": 4,
+						"awardType": "pack",
+						"assetId": 4,
+						"count": 1,
+						"setId": 105806,
+						"itemData": null
+					}
+				],
+				"state": "REDEEMED",
+				"currentProgress": 200,
+				"multiplier": 200,
+				"priority": 2
+			},
 			{
-			  "value": 512,
-			  "untradeable": true,
-			  "halId": 4,
-			  "awardType": "pack",
-			  "assetId": 4,
-			  "count": 1,
-			  "setId": 177291,
-			  "itemData": null
+				"objectiveId": 20400,
+				"name": "300 Rivals",
+				"description": "Win 300 Rivals Matches",
+				"takeMeThereLink": "GotoAuctionSearch",
+				"gameArea": 1,
+				"isWeb": false,
+				"awards": [
+					{
+						"value": 405,
+						"untradeable": true,
+						"halId": 4,
+						"awardType": "pack",
+						"assetId": 4,
+						"count": 1,
+						"setId": 105807,
+						"itemData": null
+					}
+				],
+				"state": "IN_PROGRESS",
+				"currentProgress": 246,
+				"multiplier": 300,
+				"priority": 1
 			}
-		  ],
-		  "multiplier": 2,
-		  "priority": 7
-		},
-		{
-		  "objectiveId": 23305,
-		  "name": "Levante UD",
-		  "description": "Score a goal in 2 separate wins with Levante UD players in Rivals",
-		  "takeMeThereLink": "GotoOnlineRivals",
-		  "gameArea": 1,
-		  "isWeb": false,
-		  "awards": [
+		],
+		"objectivesNumber": 6
+	},
+	{
+		"groupId": 49,
+		"priority": 3,
+		"title": "Champions",
+		"subTitle": "Show everyone you have what it takes to be the Golden G.O.A.T. All rewards are Untradeable",
+		"groupType": 4,
+		"groupState": 1,
+		"awardsList": [
 			{
-			  "value": 512,
-			  "untradeable": true,
-			  "halId": 4,
-			  "awardType": "pack",
-			  "assetId": 4,
-			  "count": 1,
-			  "setId": 177292,
-			  "itemData": null
+				"value": 6500068,
+				"untradeable": true,
+				"halId": 0,
+				"awardType": "item",
+				"assetId": 0,
+				"count": 1,
+				"setId": 335638,
+				"itemData": null,
+				"itemDataReduced": {
+					"id": 0,
+					"untradeable": true,
+					"assetId": 6500068,
+					"rating": 85,
+					"itemType": "tifo",
+					"resourceId": 6500068,
+					"discardValue": 0,
+					"cardsubtypeid": 13,
+					"attributeList": [],
+					"teamId": 0,
+					"rareflag": 1,
+					"leagueId": 0,
+					"cardassetid": 65
+				}
 			}
-		  ],
-		  "multiplier": 2,
-		  "priority": 6
-		},
-		{
-		  "objectiveId": 23306,
-		  "name": "R. Valladolid CF",
-		  "description": "Score a goal in 2 separate wins with R. Valladolid CF players in Rivals",
-		  "takeMeThereLink": "GotoOnlineRivals",
-		  "gameArea": 1,
-		  "isWeb": false,
-		  "awards": [
+		],
+		"objectives": [
 			{
-			  "value": 512,
-			  "untradeable": true,
-			  "halId": 4,
-			  "awardType": "pack",
-			  "assetId": 4,
-			  "count": 1,
-			  "setId": 177293,
-			  "itemData": null
-			}
-		  ],
-		  "multiplier": 2,
-		  "priority": 5
-		},
-		{
-		  "objectiveId": 23307,
-		  "name": "RC Celta",
-		  "description": "Score a goal in 2 separate wins with RC Celta players in Rivals",
-		  "takeMeThereLink": "GotoOnlineRivals",
-		  "gameArea": 1,
-		  "isWeb": false,
-		  "awards": [
+				"objectiveId": 20223,
+				"name": "10 FUT Champions",
+				"description": "Win 10 FUT Champions Matches",
+				"takeMeThereLink": "",
+				"gameArea": 5,
+				"isWeb": false,
+				"awards": [
+					{
+						"value": 511,
+						"untradeable": true,
+						"halId": 4,
+						"awardType": "pack",
+						"assetId": 4,
+						"count": 1,
+						"setId": 105808,
+						"itemData": null
+					}
+				],
+				"state": "REDEEMED",
+				"currentProgress": 10,
+				"multiplier": 10,
+				"priority": 6
+			},
 			{
-			  "value": 512,
-			  "untradeable": true,
-			  "halId": 4,
-			  "awardType": "pack",
-			  "assetId": 4,
-			  "count": 1,
-			  "setId": 177294,
-			  "itemData": null
-			}
-		  ],
-		  "multiplier": 2,
-		  "priority": 4
-		},
-		{
-		  "objectiveId": 23308,
-		  "name": "CA Osasuna",
-		  "description": "Score a goal in 2 separate matches with CA Osasuna players in Rivals",
-		  "takeMeThereLink": "GotoOnlineRivals",
-		  "gameArea": 1,
-		  "isWeb": false,
-		  "awards": [
+				"objectiveId": 20224,
+				"name": "25 FUT Champions",
+				"description": "Win 25 FUT Champions Matches",
+				"takeMeThereLink": "",
+				"gameArea": 6,
+				"isWeb": false,
+				"awards": [
+					{
+						"value": 512,
+						"untradeable": true,
+						"halId": 4,
+						"awardType": "pack",
+						"assetId": 4,
+						"count": 1,
+						"setId": 105809,
+						"itemData": null
+					}
+				],
+				"state": "REDEEMED",
+				"currentProgress": 25,
+				"multiplier": 25,
+				"priority": 5
+			},
 			{
-			  "value": 512,
-			  "untradeable": true,
-			  "halId": 4,
-			  "awardType": "pack",
-			  "assetId": 4,
-			  "count": 1,
-			  "setId": 177295,
-			  "itemData": null
-			}
-		  ],
-		  "multiplier": 2,
-		  "priority": 3
-		},
-		{
-		  "objectiveId": 23309,
-		  "name": "Granada CF",
-		  "description": "Score a goal in 2 separate matches with Granada CF players in Rivals",
-		  "takeMeThereLink": "GotoOnlineRivals",
-		  "gameArea": 1,
-		  "isWeb": false,
-		  "awards": [
+				"objectiveId": 20225,
+				"name": "50 FUT Champions",
+				"description": "Win 50 FUT Champions Matches",
+				"takeMeThereLink": "",
+				"gameArea": 5,
+				"isWeb": false,
+				"awards": [
+					{
+						"value": 305,
+						"untradeable": true,
+						"halId": 4,
+						"awardType": "pack",
+						"assetId": 4,
+						"count": 1,
+						"setId": 105810,
+						"itemData": null
+					}
+				],
+				"state": "REDEEMED",
+				"currentProgress": 50,
+				"multiplier": 50,
+				"priority": 4
+			},
 			{
-			  "value": 512,
-			  "untradeable": true,
-			  "halId": 4,
-			  "awardType": "pack",
-			  "assetId": 4,
-			  "count": 1,
-			  "setId": 177296,
-			  "itemData": null
-			}
-		  ],
-		  "multiplier": 2,
-		  "priority": 2
-		},
-		{
-		  "objectiveId": 23310,
-		  "name": "RCD Mallorca",
-		  "description": "Score a goal in 2 separate matches with RCD Mallorca players in Rivals",
-		  "takeMeThereLink": "GotoOnlineRivals",
-		  "gameArea": 1,
-		  "isWeb": false,
-		  "awards": [
+				"objectiveId": 20226,
+				"name": "100 FUT Champions",
+				"description": "Win 100 FUT Champions Matches",
+				"takeMeThereLink": "",
+				"gameArea": 7,
+				"isWeb": false,
+				"awards": [
+					{
+						"value": 401,
+						"untradeable": true,
+						"halId": 4,
+						"awardType": "pack",
+						"assetId": 4,
+						"count": 1,
+						"setId": 105811,
+						"itemData": null
+					}
+				],
+				"state": "REDEEMED",
+				"currentProgress": 100,
+				"multiplier": 100,
+				"priority": 3
+			},
 			{
-			  "value": 512,
-			  "untradeable": true,
-			  "halId": 4,
-			  "awardType": "pack",
-			  "assetId": 4,
-			  "count": 1,
-			  "setId": 177297,
-			  "itemData": null
+				"objectiveId": 20227,
+				"name": "200 FUT Champions",
+				"description": "Win 200 FUT Champions Matches",
+				"takeMeThereLink": "",
+				"gameArea": 5,
+				"isWeb": false,
+				"awards": [
+					{
+						"value": 402,
+						"untradeable": true,
+						"halId": 4,
+						"awardType": "pack",
+						"assetId": 4,
+						"count": 1,
+						"setId": 105812,
+						"itemData": null
+					}
+				],
+				"state": "IN_PROGRESS",
+				"currentProgress": 127,
+				"multiplier": 200,
+				"priority": 2
+			},
+			{
+				"objectiveId": 20228,
+				"name": "300 FUT Champions",
+				"description": "Win 300 FUT Champions Matches",
+				"takeMeThereLink": "",
+				"gameArea": 5,
+				"isWeb": false,
+				"awards": [
+					{
+						"value": 405,
+						"untradeable": true,
+						"halId": 4,
+						"awardType": "pack",
+						"assetId": 4,
+						"count": 1,
+						"setId": 105813,
+						"itemData": null
+					}
+				],
+				"state": "IN_PROGRESS",
+				"currentProgress": 127,
+				"multiplier": 300,
+				"priority": 1
 			}
-		  ],
-		  "multiplier": 2,
-		  "priority": 1
-		}
-	  ],
-	  "objectivesNumber": 20
+		],
+		"objectivesNumber": 6
+	},
+	{
+		"groupId": 402,
+		"priority": 5,
+		"title": "PL League Player",
+		"subTitle": "Complete this set to earn Untradeable Rewards. Hold onto the Group Reward for an additional upgrade opportunity.",
+		"groupType": 4,
+		"groupState": 1,
+		"awardsList": [
+			{
+				"value": 50539069,
+				"untradeable": true,
+				"halId": 0,
+				"awardType": "item",
+				"assetId": 0,
+				"count": 1,
+				"setId": 335636,
+				"itemData": null,
+				"itemDataReduced": {
+					"id": 0,
+					"untradeable": true,
+					"assetId": 207421,
+					"rating": 85,
+					"itemType": "player",
+					"resourceId": 50539069,
+					"discardValue": 0,
+					"cardsubtypeid": 3,
+					"preferredPosition": "LW",
+					"attributeArray": [
+						89,
+						85,
+						84,
+						88,
+						35,
+						72
+					],
+					"teamId": 1808,
+					"rareflag": 85,
+					"leagueId": 0,
+					"nation": 7,
+					"guidAssetId": "9a0e3fa90ff849d0b3b2325aadc3aa49"
+				}
+			}
+		],
+		"objectives": [
+			{
+				"objectiveId": 23109,
+				"name": "Manchester City",
+				"description": "Score a goal in 2 separate wins with Manchester City players in Rivals",
+				"takeMeThereLink": "GotoOnlineRivals",
+				"gameArea": 1,
+				"isWeb": false,
+				"awards": [
+					{
+						"value": 511,
+						"untradeable": true,
+						"halId": 4,
+						"awardType": "pack",
+						"assetId": 4,
+						"count": 1,
+						"setId": 152732,
+						"itemData": null
+					}
+				],
+				"state": "REDEEMED",
+				"currentProgress": 2,
+				"multiplier": 2,
+				"priority": 20
+			},
+			{
+				"objectiveId": 23110,
+				"name": "Liverpool",
+				"description": "Score a goal in 2 separate wins with Liverpool players in Rivals",
+				"takeMeThereLink": "GotoOnlineRivals",
+				"gameArea": 1,
+				"isWeb": false,
+				"awards": [
+					{
+						"value": 511,
+						"untradeable": true,
+						"halId": 4,
+						"awardType": "pack",
+						"assetId": 4,
+						"count": 1,
+						"setId": 152733,
+						"itemData": null
+					}
+				],
+				"state": "IN_PROGRESS",
+				"currentProgress": 1,
+				"multiplier": 2,
+				"priority": 19
+			},
+			{
+				"objectiveId": 23111,
+				"name": "Chelsea",
+				"description": "Score a goal in 2 separate wins with Chelsea players in Rivals",
+				"takeMeThereLink": "GotoOnlineRivals",
+				"gameArea": 1,
+				"isWeb": false,
+				"awards": [
+					{
+						"value": 511,
+						"untradeable": true,
+						"halId": 4,
+						"awardType": "pack",
+						"assetId": 4,
+						"count": 1,
+						"setId": 152734,
+						"itemData": null
+					}
+				],
+				"state": "REDEEMED",
+				"currentProgress": 2,
+				"multiplier": 2,
+				"priority": 18
+			},
+			{
+				"objectiveId": 23112,
+				"name": "Tottenham Hotspur",
+				"description": "Score a goal in 2 separate wins with Tottenham Hotspur players in Rivals",
+				"takeMeThereLink": "GotoOnlineRivals",
+				"gameArea": 1,
+				"isWeb": false,
+				"awards": [
+					{
+						"value": 511,
+						"untradeable": true,
+						"halId": 4,
+						"awardType": "pack",
+						"assetId": 4,
+						"count": 1,
+						"setId": 152735,
+						"itemData": null
+					}
+				],
+				"state": "REDEEMED",
+				"currentProgress": 2,
+				"multiplier": 2,
+				"priority": 17
+			},
+			{
+				"objectiveId": 23113,
+				"name": "Arsenal",
+				"description": "Score a goal in 2 separate wins with Arsenal players in Rivals",
+				"takeMeThereLink": "GotoOnlineRivals",
+				"gameArea": 1,
+				"isWeb": false,
+				"awards": [
+					{
+						"value": 511,
+						"untradeable": true,
+						"halId": 4,
+						"awardType": "pack",
+						"assetId": 4,
+						"count": 1,
+						"setId": 152736,
+						"itemData": null
+					}
+				],
+				"multiplier": 2,
+				"priority": 16
+			},
+			{
+				"objectiveId": 23114,
+				"name": "Manchester United",
+				"description": "Score a goal in 2 separate wins with Manchester United players in Rivals",
+				"takeMeThereLink": "GotoOnlineRivals",
+				"gameArea": 1,
+				"isWeb": false,
+				"awards": [
+					{
+						"value": 512,
+						"untradeable": true,
+						"halId": 4,
+						"awardType": "pack",
+						"assetId": 4,
+						"count": 1,
+						"setId": 152737,
+						"itemData": null
+					}
+				],
+				"state": "REDEEMED",
+				"currentProgress": 2,
+				"multiplier": 2,
+				"priority": 15
+			},
+			{
+				"objectiveId": 23115,
+				"name": "Wolverhampton Wanderers",
+				"description": "Score a goal in 2 separate wins with Wolverhampton Wanderers players in Rivals",
+				"takeMeThereLink": "GotoOnlineRivals",
+				"gameArea": 1,
+				"isWeb": false,
+				"awards": [
+					{
+						"value": 512,
+						"untradeable": true,
+						"halId": 4,
+						"awardType": "pack",
+						"assetId": 4,
+						"count": 1,
+						"setId": 152738,
+						"itemData": null
+					}
+				],
+				"multiplier": 2,
+				"priority": 14
+			},
+			{
+				"objectiveId": 23116,
+				"name": "Everton",
+				"description": "Score a goal in 2 separate wins with Everton players in Rivals",
+				"takeMeThereLink": "GotoOnlineRivals",
+				"gameArea": 1,
+				"isWeb": false,
+				"awards": [
+					{
+						"value": 512,
+						"untradeable": true,
+						"halId": 4,
+						"awardType": "pack",
+						"assetId": 4,
+						"count": 1,
+						"setId": 152739,
+						"itemData": null
+					}
+				],
+				"multiplier": 2,
+				"priority": 13
+			},
+			{
+				"objectiveId": 23117,
+				"name": "Leicester City",
+				"description": "Score a goal in 2 separate wins with Leicester City players in Rivals",
+				"takeMeThereLink": "GotoOnlineRivals",
+				"gameArea": 1,
+				"isWeb": false,
+				"awards": [
+					{
+						"value": 512,
+						"untradeable": true,
+						"halId": 4,
+						"awardType": "pack",
+						"assetId": 4,
+						"count": 1,
+						"setId": 152740,
+						"itemData": null
+					}
+				],
+				"state": "REDEEMED",
+				"currentProgress": 2,
+				"multiplier": 2,
+				"priority": 12
+			},
+			{
+				"objectiveId": 23118,
+				"name": "West Ham United",
+				"description": "Score a goal in 2 separate wins with West Ham players in Rivals",
+				"takeMeThereLink": "GotoOnlineRivals",
+				"gameArea": 1,
+				"isWeb": false,
+				"awards": [
+					{
+						"value": 512,
+						"untradeable": true,
+						"halId": 4,
+						"awardType": "pack",
+						"assetId": 4,
+						"count": 1,
+						"setId": 152741,
+						"itemData": null
+					}
+				],
+				"state": "REDEEMED",
+				"currentProgress": 2,
+				"multiplier": 2,
+				"priority": 11
+			},
+			{
+				"objectiveId": 23119,
+				"name": "Watford",
+				"description": "Score a goal in 2 separate wins with Watford players in Rivals",
+				"takeMeThereLink": "GotoOnlineRivals",
+				"gameArea": 1,
+				"isWeb": false,
+				"awards": [
+					{
+						"value": 512,
+						"untradeable": true,
+						"halId": 4,
+						"awardType": "pack",
+						"assetId": 4,
+						"count": 1,
+						"setId": 152742,
+						"itemData": null
+					}
+				],
+				"multiplier": 2,
+				"priority": 10
+			},
+			{
+				"objectiveId": 23120,
+				"name": "Crystal Palace",
+				"description": "Score a goal in 2 separate wins with Crystal Palace players in Rivals",
+				"takeMeThereLink": "GotoOnlineRivals",
+				"gameArea": 1,
+				"isWeb": false,
+				"awards": [
+					{
+						"value": 512,
+						"untradeable": true,
+						"halId": 4,
+						"awardType": "pack",
+						"assetId": 4,
+						"count": 1,
+						"setId": 152743,
+						"itemData": null
+					}
+				],
+				"multiplier": 2,
+				"priority": 9
+			},
+			{
+				"objectiveId": 23121,
+				"name": "Newcastle United",
+				"description": "Score a goal in 2 separate wins with Newcastle United players in Rivals",
+				"takeMeThereLink": "GotoOnlineRivals",
+				"gameArea": 1,
+				"isWeb": false,
+				"awards": [
+					{
+						"value": 512,
+						"untradeable": true,
+						"halId": 4,
+						"awardType": "pack",
+						"assetId": 4,
+						"count": 1,
+						"setId": 152744,
+						"itemData": null
+					}
+				],
+				"multiplier": 2,
+				"priority": 8
+			},
+			{
+				"objectiveId": 23122,
+				"name": "AFC Bournemouth",
+				"description": "Score a goal in 2 separate wins with AFC Bournemouth players in Rivals",
+				"takeMeThereLink": "GotoOnlineRivals",
+				"gameArea": 1,
+				"isWeb": false,
+				"awards": [
+					{
+						"value": 512,
+						"untradeable": true,
+						"halId": 4,
+						"awardType": "pack",
+						"assetId": 4,
+						"count": 1,
+						"setId": 152745,
+						"itemData": null
+					}
+				],
+				"multiplier": 2,
+				"priority": 7
+			},
+			{
+				"objectiveId": 23123,
+				"name": "Burnley",
+				"description": "Score a goal in 2 separate wins with Burnley players in Rivals",
+				"takeMeThereLink": "GotoOnlineRivals",
+				"gameArea": 1,
+				"isWeb": false,
+				"awards": [
+					{
+						"value": 512,
+						"untradeable": true,
+						"halId": 4,
+						"awardType": "pack",
+						"assetId": 4,
+						"count": 1,
+						"setId": 152746,
+						"itemData": null
+					}
+				],
+				"multiplier": 2,
+				"priority": 6
+			},
+			{
+				"objectiveId": 23124,
+				"name": "Southampton",
+				"description": "Score a goal in 2 separate wins with Southampton players in Rivals",
+				"takeMeThereLink": "GotoOnlineRivals",
+				"gameArea": 1,
+				"isWeb": false,
+				"awards": [
+					{
+						"value": 512,
+						"untradeable": true,
+						"halId": 4,
+						"awardType": "pack",
+						"assetId": 4,
+						"count": 1,
+						"setId": 152747,
+						"itemData": null
+					}
+				],
+				"multiplier": 2,
+				"priority": 5
+			},
+			{
+				"objectiveId": 23125,
+				"name": "Brighton & Hove Albion",
+				"description": "Score a goal in 2 separate wins with Brighton & Hove Albion players in Rivals",
+				"takeMeThereLink": "GotoOnlineRivals",
+				"gameArea": 1,
+				"isWeb": false,
+				"awards": [
+					{
+						"value": 512,
+						"untradeable": true,
+						"halId": 4,
+						"awardType": "pack",
+						"assetId": 4,
+						"count": 1,
+						"setId": 152748,
+						"itemData": null
+					}
+				],
+				"multiplier": 2,
+				"priority": 4
+			},
+			{
+				"objectiveId": 23126,
+				"name": "Norwich City",
+				"description": "Score a goal in 2 separate matches with Norwich City players in Rivals",
+				"takeMeThereLink": "GotoOnlineRivals",
+				"gameArea": 1,
+				"isWeb": false,
+				"awards": [
+					{
+						"value": 512,
+						"untradeable": true,
+						"halId": 4,
+						"awardType": "pack",
+						"assetId": 4,
+						"count": 1,
+						"setId": 152749,
+						"itemData": null
+					}
+				],
+				"multiplier": 2,
+				"priority": 3
+			},
+			{
+				"objectiveId": 23127,
+				"name": "Sheffield United",
+				"description": "Score a goal in 2 separate matches with Sheffield United players in Rivals",
+				"takeMeThereLink": "GotoOnlineRivals",
+				"gameArea": 1,
+				"isWeb": false,
+				"awards": [
+					{
+						"value": 512,
+						"untradeable": true,
+						"halId": 4,
+						"awardType": "pack",
+						"assetId": 4,
+						"count": 1,
+						"setId": 152750,
+						"itemData": null
+					}
+				],
+				"multiplier": 2,
+				"priority": 2
+			},
+			{
+				"objectiveId": 23128,
+				"name": "Aston Villa",
+				"description": "Score a goal in 2 separate matches with Aston Villa players in Rivals",
+				"takeMeThereLink": "GotoOnlineRivals",
+				"gameArea": 1,
+				"isWeb": false,
+				"awards": [
+					{
+						"value": 512,
+						"untradeable": true,
+						"halId": 4,
+						"awardType": "pack",
+						"assetId": 4,
+						"count": 1,
+						"setId": 152751,
+						"itemData": null
+					}
+				],
+				"state": "IN_PROGRESS",
+				"currentProgress": 1,
+				"multiplier": 2,
+				"priority": 2
+			}
+		],
+		"objectivesNumber": 20
+	},
+	{
+		"groupId": 433,
+		"priority": 6,
+		"title": "LaLiga League Player",
+		"subTitle": "Complete this set to earn Untradeable Rewards. Hold onto the Group Reward for an additional upgrade opportunity.",
+		"groupType": 4,
+		"groupState": 1,
+		"awardsList": [
+			{
+				"value": 50538238,
+				"untradeable": true,
+				"halId": 0,
+				"awardType": "item",
+				"assetId": 0,
+				"count": 1,
+				"setId": 328747,
+				"itemData": null,
+				"itemDataReduced": {
+					"id": 0,
+					"untradeable": true,
+					"assetId": 206590,
+					"rating": 86,
+					"itemType": "player",
+					"resourceId": 50538238,
+					"discardValue": 0,
+					"cardsubtypeid": 2,
+					"preferredPosition": "CM",
+					"attributeArray": [
+						80,
+						85,
+						87,
+						85,
+						60,
+						72
+					],
+					"teamId": 483,
+					"rareflag": 85,
+					"leagueId": 0,
+					"nation": 45,
+					"guidAssetId": "11cdeec86bfb465d8e0a0b63c2258dfb"
+				}
+			}
+		],
+		"objectives": [
+			{
+				"objectiveId": 23290,
+				"name": "FC Barcelona",
+				"description": "Score a goal in 2 separate wins with FC Barcelona players in Rivals",
+				"takeMeThereLink": "GotoOnlineRivals",
+				"gameArea": 1,
+				"isWeb": false,
+				"awards": [
+					{
+						"value": 511,
+						"untradeable": true,
+						"halId": 4,
+						"awardType": "pack",
+						"assetId": 4,
+						"count": 1,
+						"setId": 177278,
+						"itemData": null
+					}
+				],
+				"state": "REDEEMED",
+				"currentProgress": 2,
+				"multiplier": 2,
+				"priority": 20
+			},
+			{
+				"objectiveId": 23292,
+				"name": "Atlético Madrid",
+				"description": "Score a goal in 2 separate wins with Atlético Madrid players in Rivals",
+				"takeMeThereLink": "GotoOnlineRivals",
+				"gameArea": 1,
+				"isWeb": false,
+				"awards": [
+					{
+						"value": 511,
+						"untradeable": true,
+						"halId": 4,
+						"awardType": "pack",
+						"assetId": 4,
+						"count": 1,
+						"setId": 177279,
+						"itemData": null
+					}
+				],
+				"multiplier": 2,
+				"priority": 19
+			},
+			{
+				"objectiveId": 23293,
+				"name": "Real Madrid",
+				"description": "Score a goal in 2 separate wins with Real Madrid players in Rivals",
+				"takeMeThereLink": "GotoOnlineRivals",
+				"gameArea": 1,
+				"isWeb": false,
+				"awards": [
+					{
+						"value": 511,
+						"untradeable": true,
+						"halId": 4,
+						"awardType": "pack",
+						"assetId": 4,
+						"count": 1,
+						"setId": 177280,
+						"itemData": null
+					}
+				],
+				"state": "REDEEMED",
+				"currentProgress": 2,
+				"multiplier": 2,
+				"priority": 18
+			},
+			{
+				"objectiveId": 23294,
+				"name": "Valencia CF",
+				"description": "Score a goal in 2 separate wins with Valencia CF players in Rivals",
+				"takeMeThereLink": "GotoOnlineRivals",
+				"gameArea": 1,
+				"isWeb": false,
+				"awards": [
+					{
+						"value": 511,
+						"untradeable": true,
+						"halId": 4,
+						"awardType": "pack",
+						"assetId": 4,
+						"count": 1,
+						"setId": 177281,
+						"itemData": null
+					}
+				],
+				"state": "IN_PROGRESS",
+				"currentProgress": 1,
+				"multiplier": 2,
+				"priority": 17
+			},
+			{
+				"objectiveId": 23295,
+				"name": "Getafe CF",
+				"description": "Score a goal in 2 separate wins with Getafe CF players in Rivals",
+				"takeMeThereLink": "GotoOnlineRivals",
+				"gameArea": 1,
+				"isWeb": false,
+				"awards": [
+					{
+						"value": 512,
+						"untradeable": true,
+						"halId": 4,
+						"awardType": "pack",
+						"assetId": 4,
+						"count": 1,
+						"setId": 177282,
+						"itemData": null
+					}
+				],
+				"multiplier": 2,
+				"priority": 16
+			},
+			{
+				"objectiveId": 23296,
+				"name": "Sevilla FC",
+				"description": "Score a goal in 2 separate wins with Sevilla FC players in Rivals",
+				"takeMeThereLink": "GotoOnlineRivals",
+				"gameArea": 1,
+				"isWeb": false,
+				"awards": [
+					{
+						"value": 512,
+						"untradeable": true,
+						"halId": 4,
+						"awardType": "pack",
+						"assetId": 4,
+						"count": 1,
+						"setId": 177283,
+						"itemData": null
+					}
+				],
+				"multiplier": 2,
+				"priority": 15
+			},
+			{
+				"objectiveId": 23297,
+				"name": "RCD Espanyol",
+				"description": "Score a goal in 2 separate wins with RCD Espanyol players in Rivals",
+				"takeMeThereLink": "GotoOnlineRivals",
+				"gameArea": 1,
+				"isWeb": false,
+				"awards": [
+					{
+						"value": 512,
+						"untradeable": true,
+						"halId": 4,
+						"awardType": "pack",
+						"assetId": 4,
+						"count": 1,
+						"setId": 177284,
+						"itemData": null
+					}
+				],
+				"multiplier": 2,
+				"priority": 14
+			},
+			{
+				"objectiveId": 23298,
+				"name": "Athletic Club",
+				"description": "Score a goal in 2 separate wins with Athletic Club players in Rivals",
+				"takeMeThereLink": "GotoOnlineRivals",
+				"gameArea": 1,
+				"isWeb": false,
+				"awards": [
+					{
+						"value": 512,
+						"untradeable": true,
+						"halId": 4,
+						"awardType": "pack",
+						"assetId": 4,
+						"count": 1,
+						"setId": 177285,
+						"itemData": null
+					}
+				],
+				"multiplier": 2,
+				"priority": 13
+			},
+			{
+				"objectiveId": 23299,
+				"name": "Real Sociedad",
+				"description": "Score a goal in 2 separate wins with Real Sociedad players in Rivals",
+				"takeMeThereLink": "GotoOnlineRivals",
+				"gameArea": 1,
+				"isWeb": false,
+				"awards": [
+					{
+						"value": 512,
+						"untradeable": true,
+						"halId": 4,
+						"awardType": "pack",
+						"assetId": 4,
+						"count": 1,
+						"setId": 177286,
+						"itemData": null
+					}
+				],
+				"state": "REDEEMED",
+				"currentProgress": 2,
+				"multiplier": 2,
+				"priority": 12
+			},
+			{
+				"objectiveId": 23300,
+				"name": "Real Betis",
+				"description": "Score a goal in 2 separate wins with Real Betis players in Rivals",
+				"takeMeThereLink": "GotoOnlineRivals",
+				"gameArea": 1,
+				"isWeb": false,
+				"awards": [
+					{
+						"value": 512,
+						"untradeable": true,
+						"halId": 4,
+						"awardType": "pack",
+						"assetId": 4,
+						"count": 1,
+						"setId": 177287,
+						"itemData": null
+					}
+				],
+				"multiplier": 2,
+				"priority": 11
+			},
+			{
+				"objectiveId": 23301,
+				"name": "D. Alavés",
+				"description": "Score a goal in 2 separate wins with D. Alavés players in Rivals",
+				"takeMeThereLink": "GotoOnlineRivals",
+				"gameArea": 1,
+				"isWeb": false,
+				"awards": [
+					{
+						"value": 512,
+						"untradeable": true,
+						"halId": 4,
+						"awardType": "pack",
+						"assetId": 4,
+						"count": 1,
+						"setId": 177288,
+						"itemData": null
+					}
+				],
+				"multiplier": 2,
+				"priority": 10
+			},
+			{
+				"objectiveId": 23302,
+				"name": "SD Eibar",
+				"description": "Score a goal in 2 separate wins with SD Eibar players in Rivals",
+				"takeMeThereLink": "GotoOnlineRivals",
+				"gameArea": 1,
+				"isWeb": false,
+				"awards": [
+					{
+						"value": 512,
+						"untradeable": true,
+						"halId": 4,
+						"awardType": "pack",
+						"assetId": 4,
+						"count": 1,
+						"setId": 177289,
+						"itemData": null
+					}
+				],
+				"multiplier": 2,
+				"priority": 9
+			},
+			{
+				"objectiveId": 23303,
+				"name": "CD Leganés",
+				"description": "Score a goal in 2 separate wins with CD Leganés players in Rivals",
+				"takeMeThereLink": "GotoOnlineRivals",
+				"gameArea": 1,
+				"isWeb": false,
+				"awards": [
+					{
+						"value": 512,
+						"untradeable": true,
+						"halId": 4,
+						"awardType": "pack",
+						"assetId": 4,
+						"count": 1,
+						"setId": 177290,
+						"itemData": null
+					}
+				],
+				"multiplier": 2,
+				"priority": 8
+			},
+			{
+				"objectiveId": 23304,
+				"name": "Villarreal CF",
+				"description": "Score a goal in 2 separate wins with Villarreal CF players in Rivals",
+				"takeMeThereLink": "GotoOnlineRivals",
+				"gameArea": 1,
+				"isWeb": false,
+				"awards": [
+					{
+						"value": 512,
+						"untradeable": true,
+						"halId": 4,
+						"awardType": "pack",
+						"assetId": 4,
+						"count": 1,
+						"setId": 177291,
+						"itemData": null
+					}
+				],
+				"multiplier": 2,
+				"priority": 7
+			},
+			{
+				"objectiveId": 23305,
+				"name": "Levante UD",
+				"description": "Score a goal in 2 separate wins with Levante UD players in Rivals",
+				"takeMeThereLink": "GotoOnlineRivals",
+				"gameArea": 1,
+				"isWeb": false,
+				"awards": [
+					{
+						"value": 512,
+						"untradeable": true,
+						"halId": 4,
+						"awardType": "pack",
+						"assetId": 4,
+						"count": 1,
+						"setId": 177292,
+						"itemData": null
+					}
+				],
+				"multiplier": 2,
+				"priority": 6
+			},
+			{
+				"objectiveId": 23306,
+				"name": "R. Valladolid CF",
+				"description": "Score a goal in 2 separate wins with R. Valladolid CF players in Rivals",
+				"takeMeThereLink": "GotoOnlineRivals",
+				"gameArea": 1,
+				"isWeb": false,
+				"awards": [
+					{
+						"value": 512,
+						"untradeable": true,
+						"halId": 4,
+						"awardType": "pack",
+						"assetId": 4,
+						"count": 1,
+						"setId": 177293,
+						"itemData": null
+					}
+				],
+				"multiplier": 2,
+				"priority": 5
+			},
+			{
+				"objectiveId": 23307,
+				"name": "RC Celta",
+				"description": "Score a goal in 2 separate wins with RC Celta players in Rivals",
+				"takeMeThereLink": "GotoOnlineRivals",
+				"gameArea": 1,
+				"isWeb": false,
+				"awards": [
+					{
+						"value": 512,
+						"untradeable": true,
+						"halId": 4,
+						"awardType": "pack",
+						"assetId": 4,
+						"count": 1,
+						"setId": 177294,
+						"itemData": null
+					}
+				],
+				"multiplier": 2,
+				"priority": 4
+			},
+			{
+				"objectiveId": 23308,
+				"name": "CA Osasuna",
+				"description": "Score a goal in 2 separate matches with CA Osasuna players in Rivals",
+				"takeMeThereLink": "GotoOnlineRivals",
+				"gameArea": 1,
+				"isWeb": false,
+				"awards": [
+					{
+						"value": 512,
+						"untradeable": true,
+						"halId": 4,
+						"awardType": "pack",
+						"assetId": 4,
+						"count": 1,
+						"setId": 177295,
+						"itemData": null
+					}
+				],
+				"multiplier": 2,
+				"priority": 3
+			},
+			{
+				"objectiveId": 23309,
+				"name": "Granada CF",
+				"description": "Score a goal in 2 separate matches with Granada CF players in Rivals",
+				"takeMeThereLink": "GotoOnlineRivals",
+				"gameArea": 1,
+				"isWeb": false,
+				"awards": [
+					{
+						"value": 512,
+						"untradeable": true,
+						"halId": 4,
+						"awardType": "pack",
+						"assetId": 4,
+						"count": 1,
+						"setId": 177296,
+						"itemData": null
+					}
+				],
+				"multiplier": 2,
+				"priority": 2
+			},
+			{
+				"objectiveId": 23310,
+				"name": "RCD Mallorca",
+				"description": "Score a goal in 2 separate matches with RCD Mallorca players in Rivals",
+				"takeMeThereLink": "GotoOnlineRivals",
+				"gameArea": 1,
+				"isWeb": false,
+				"awards": [
+					{
+						"value": 512,
+						"untradeable": true,
+						"halId": 4,
+						"awardType": "pack",
+						"assetId": 4,
+						"count": 1,
+						"setId": 177297,
+						"itemData": null
+					}
+				],
+				"multiplier": 2,
+				"priority": 1
+			}
+		],
+		"objectivesNumber": 20
+	},
+	{
+		"groupId": 434,
+		"priority": 7,
+		"title": "Ligue 1 League Player",
+		"subTitle": "Complete this set to earn Untradeable Rewards. Hold onto the Group Reward for an additional upgrade opportunity.",
+		"groupType": 4,
+		"groupState": 1,
+		"awardsList": [
+			{
+				"value": 50564517,
+				"untradeable": true,
+				"halId": 0,
+				"awardType": "item",
+				"assetId": 0,
+				"count": 1,
+				"setId": 335634,
+				"itemData": null,
+				"itemDataReduced": {
+					"id": 0,
+					"untradeable": true,
+					"assetId": 232869,
+					"rating": 86,
+					"itemType": "player",
+					"resourceId": 50564517,
+					"discardValue": 0,
+					"cardsubtypeid": 1,
+					"preferredPosition": "CB",
+					"attributeArray": [
+						85,
+						46,
+						70,
+						75,
+						84,
+						86
+					],
+					"teamId": 1809,
+					"rareflag": 85,
+					"leagueId": 0,
+					"nation": 163,
+					"guidAssetId": "370cf9a1437b4887918ca36fd7e15653"
+				}
+			}
+		],
+		"objectives": [
+			{
+				"objectiveId": 23311,
+				"name": "PSG",
+				"description": "Score a goal in 2 separate wins with PSG players in Rivals",
+				"takeMeThereLink": "GotoOnlineRivals",
+				"gameArea": 1,
+				"isWeb": false,
+				"awards": [
+					{
+						"value": 511,
+						"untradeable": true,
+						"halId": 4,
+						"awardType": "pack",
+						"assetId": 4,
+						"count": 1,
+						"setId": 179278,
+						"itemData": null
+					}
+				],
+				"state": "REDEEMED",
+				"currentProgress": 2,
+				"multiplier": 2,
+				"priority": 20
+			},
+			{
+				"objectiveId": 23313,
+				"name": "LOSC Lille",
+				"description": "Score a goal in 2 separate wins with LOSC Lille players in Rivals",
+				"takeMeThereLink": "GotoOnlineRivals",
+				"gameArea": 1,
+				"isWeb": false,
+				"awards": [
+					{
+						"value": 511,
+						"untradeable": true,
+						"halId": 4,
+						"awardType": "pack",
+						"assetId": 4,
+						"count": 1,
+						"setId": 179279,
+						"itemData": null
+					}
+				],
+				"state": "REDEEMED",
+				"currentProgress": 2,
+				"multiplier": 2,
+				"priority": 19
+			},
+			{
+				"objectiveId": 23314,
+				"name": "Lyon",
+				"description": "Score a goal in 2 separate wins with Lyon players in Rivals",
+				"takeMeThereLink": "GotoOnlineRivals",
+				"gameArea": 1,
+				"isWeb": false,
+				"awards": [
+					{
+						"value": 511,
+						"untradeable": true,
+						"halId": 4,
+						"awardType": "pack",
+						"assetId": 4,
+						"count": 1,
+						"setId": 179280,
+						"itemData": null
+					}
+				],
+				"state": "REDEEMED",
+				"currentProgress": 2,
+				"multiplier": 2,
+				"priority": 18
+			},
+			{
+				"objectiveId": 23315,
+				"name": "Saint-Étienne",
+				"description": "Score a goal in 2 separate wins with Saint-Étienne players in Rivals",
+				"takeMeThereLink": "GotoOnlineRivals",
+				"gameArea": 1,
+				"isWeb": false,
+				"awards": [
+					{
+						"value": 511,
+						"untradeable": true,
+						"halId": 4,
+						"awardType": "pack",
+						"assetId": 4,
+						"count": 1,
+						"setId": 179281,
+						"itemData": null
+					}
+				],
+				"multiplier": 2,
+				"priority": 17
+			},
+			{
+				"objectiveId": 23316,
+				"name": "Marseille",
+				"description": "Score a goal in 2 separate wins with Marseille players in Rivals",
+				"takeMeThereLink": "GotoOnlineRivals",
+				"gameArea": 1,
+				"isWeb": false,
+				"awards": [
+					{
+						"value": 512,
+						"untradeable": true,
+						"halId": 4,
+						"awardType": "pack",
+						"assetId": 4,
+						"count": 1,
+						"setId": 179282,
+						"itemData": null
+					}
+				],
+				"multiplier": 2,
+				"priority": 16
+			},
+			{
+				"objectiveId": 23317,
+				"name": "Montpellier HSC",
+				"description": "Score a goal in 2 separate wins with Montpellier HSC players in Rivals",
+				"takeMeThereLink": "GotoOnlineRivals",
+				"gameArea": 1,
+				"isWeb": false,
+				"awards": [
+					{
+						"value": 512,
+						"untradeable": true,
+						"halId": 4,
+						"awardType": "pack",
+						"assetId": 4,
+						"count": 1,
+						"setId": 179283,
+						"itemData": null
+					}
+				],
+				"multiplier": 2,
+				"priority": 15
+			},
+			{
+				"objectiveId": 23318,
+				"name": "OGC Nice",
+				"description": "Score a goal in 2 separate wins with OGC Nice players in Rivals",
+				"takeMeThereLink": "GotoOnlineRivals",
+				"gameArea": 1,
+				"isWeb": false,
+				"awards": [
+					{
+						"value": 512,
+						"untradeable": true,
+						"halId": 4,
+						"awardType": "pack",
+						"assetId": 4,
+						"count": 1,
+						"setId": 179284,
+						"itemData": null
+					}
+				],
+				"multiplier": 2,
+				"priority": 14
+			},
+			{
+				"objectiveId": 23319,
+				"name": "Stade de Reims",
+				"description": "Score a goal in 2 separate wins with Stade de Reims players in Rivals",
+				"takeMeThereLink": "GotoOnlineRivals",
+				"gameArea": 1,
+				"isWeb": false,
+				"awards": [
+					{
+						"value": 512,
+						"untradeable": true,
+						"halId": 4,
+						"awardType": "pack",
+						"assetId": 4,
+						"count": 1,
+						"setId": 179285,
+						"itemData": null
+					}
+				],
+				"multiplier": 2,
+				"priority": 13
+			},
+			{
+				"objectiveId": 23320,
+				"name": "Nîmes Olympique",
+				"description": "Score a goal in 2 separate wins with Nîmes Olympique players in Rivals",
+				"takeMeThereLink": "GotoOnlineRivals",
+				"gameArea": 1,
+				"isWeb": false,
+				"awards": [
+					{
+						"value": 512,
+						"untradeable": true,
+						"halId": 4,
+						"awardType": "pack",
+						"assetId": 4,
+						"count": 1,
+						"setId": 179286,
+						"itemData": null
+					}
+				],
+				"multiplier": 2,
+				"priority": 12
+			},
+			{
+				"objectiveId": 23321,
+				"name": "Stade Rennais",
+				"description": "Score a goal in 2 separate wins with Stade Rennais players in Rivals",
+				"takeMeThereLink": "GotoOnlineRivals",
+				"gameArea": 1,
+				"isWeb": false,
+				"awards": [
+					{
+						"value": 512,
+						"untradeable": true,
+						"halId": 4,
+						"awardType": "pack",
+						"assetId": 4,
+						"count": 1,
+						"setId": 179287,
+						"itemData": null
+					}
+				],
+				"state": "IN_PROGRESS",
+				"currentProgress": 1,
+				"multiplier": 2,
+				"priority": 11
+			},
+			{
+				"objectiveId": 23322,
+				"name": "RC Strasbourg",
+				"description": "Score a goal in 2 separate wins with RC Strasbourg players in Rivals",
+				"takeMeThereLink": "GotoOnlineRivals",
+				"gameArea": 1,
+				"isWeb": false,
+				"awards": [
+					{
+						"value": 512,
+						"untradeable": true,
+						"halId": 4,
+						"awardType": "pack",
+						"assetId": 4,
+						"count": 1,
+						"setId": 179288,
+						"itemData": null
+					}
+				],
+				"multiplier": 2,
+				"priority": 10
+			},
+			{
+				"objectiveId": 23323,
+				"name": "FC Nantes",
+				"description": "Score a goal in 2 separate wins with FC Nantes players in Rivals",
+				"takeMeThereLink": "GotoOnlineRivals",
+				"gameArea": 1,
+				"isWeb": false,
+				"awards": [
+					{
+						"value": 512,
+						"untradeable": true,
+						"halId": 4,
+						"awardType": "pack",
+						"assetId": 4,
+						"count": 1,
+						"setId": 179289,
+						"itemData": null
+					}
+				],
+				"multiplier": 2,
+				"priority": 9
+			},
+			{
+				"objectiveId": 23324,
+				"name": "Angers SCO",
+				"description": "Score a goal in 2 separate wins with Angers SCO players in Rivals",
+				"takeMeThereLink": "GotoOnlineRivals",
+				"gameArea": 1,
+				"isWeb": false,
+				"awards": [
+					{
+						"value": 512,
+						"untradeable": true,
+						"halId": 4,
+						"awardType": "pack",
+						"assetId": 4,
+						"count": 1,
+						"setId": 179290,
+						"itemData": null
+					}
+				],
+				"multiplier": 2,
+				"priority": 8
+			},
+			{
+				"objectiveId": 23325,
+				"name": "Girondins de Bx",
+				"description": "Score a goal in 2 separate wins with Girondins de Bx players in Rivals",
+				"takeMeThereLink": "GotoOnlineRivals",
+				"gameArea": 1,
+				"isWeb": false,
+				"awards": [
+					{
+						"value": 512,
+						"untradeable": true,
+						"halId": 4,
+						"awardType": "pack",
+						"assetId": 4,
+						"count": 1,
+						"setId": 179291,
+						"itemData": null
+					}
+				],
+				"multiplier": 2,
+				"priority": 7
+			},
+			{
+				"objectiveId": 23326,
+				"name": "Amiens SC",
+				"description": "Score a goal in 2 separate wins with Amiens SC players in Rivals",
+				"takeMeThereLink": "GotoOnlineRivals",
+				"gameArea": 1,
+				"isWeb": false,
+				"awards": [
+					{
+						"value": 512,
+						"untradeable": true,
+						"halId": 4,
+						"awardType": "pack",
+						"assetId": 4,
+						"count": 1,
+						"setId": 179292,
+						"itemData": null
+					}
+				],
+				"multiplier": 2,
+				"priority": 6
+			},
+			{
+				"objectiveId": 23327,
+				"name": "Toulouse FC",
+				"description": "Score a goal in 2 separate wins with Toulouse FC players in Rivals",
+				"takeMeThereLink": "GotoOnlineRivals",
+				"gameArea": 1,
+				"isWeb": false,
+				"awards": [
+					{
+						"value": 512,
+						"untradeable": true,
+						"halId": 4,
+						"awardType": "pack",
+						"assetId": 4,
+						"count": 1,
+						"setId": 179293,
+						"itemData": null
+					}
+				],
+				"multiplier": 2,
+				"priority": 5
+			},
+			{
+				"objectiveId": 23328,
+				"name": "AS Monaco",
+				"description": "Score a goal in 2 separate wins with AS Monaco players in Rivals",
+				"takeMeThereLink": "GotoOnlineRivals",
+				"gameArea": 1,
+				"isWeb": false,
+				"awards": [
+					{
+						"value": 512,
+						"untradeable": true,
+						"halId": 4,
+						"awardType": "pack",
+						"assetId": 4,
+						"count": 1,
+						"setId": 179294,
+						"itemData": null
+					}
+				],
+				"state": "IN_PROGRESS",
+				"currentProgress": 1,
+				"multiplier": 2,
+				"priority": 4
+			},
+			{
+				"objectiveId": 23329,
+				"name": "Dijon FCO",
+				"description": "Score a goal in 2 separate matches with Dijon FCO players in Rivals",
+				"takeMeThereLink": "GotoOnlineRivals",
+				"gameArea": 1,
+				"isWeb": false,
+				"awards": [
+					{
+						"value": 512,
+						"untradeable": true,
+						"halId": 4,
+						"awardType": "pack",
+						"assetId": 4,
+						"count": 1,
+						"setId": 179295,
+						"itemData": null
+					}
+				],
+				"multiplier": 2,
+				"priority": 3
+			},
+			{
+				"objectiveId": 23330,
+				"name": "FC Metz",
+				"description": "Score a goal in 2 separate matches with FC Metz players in Rivals",
+				"takeMeThereLink": "GotoOnlineRivals",
+				"gameArea": 1,
+				"isWeb": false,
+				"awards": [
+					{
+						"value": 512,
+						"untradeable": true,
+						"halId": 4,
+						"awardType": "pack",
+						"assetId": 4,
+						"count": 1,
+						"setId": 179296,
+						"itemData": null
+					}
+				],
+				"multiplier": 2,
+				"priority": 2
+			},
+			{
+				"objectiveId": 23331,
+				"name": "Stade Brestois",
+				"description": "Score a goal in 2 separate matches with Stade Brestois players in Rivals",
+				"takeMeThereLink": "GotoOnlineRivals",
+				"gameArea": 1,
+				"isWeb": false,
+				"awards": [
+					{
+						"value": 512,
+						"untradeable": true,
+						"halId": 4,
+						"awardType": "pack",
+						"assetId": 4,
+						"count": 1,
+						"setId": 179297,
+						"itemData": null
+					}
+				],
+				"multiplier": 2,
+				"priority": 1
+			}
+		],
+		"objectivesNumber": 20
+	},
+	{
+		"groupId": 517,
+		"priority": 8,
+		"title": "Bundesliga League Player",
+		"subTitle": "Complete this set to earn Untradeable Rewards. Hold onto the Group Reward for an additional upgrade opportunity.",
+		"groupType": 4,
+		"groupState": 1,
+		"awardsList": [
+			{
+				"value": 50542479,
+				"untradeable": true,
+				"halId": 0,
+				"awardType": "item",
+				"assetId": 0,
+				"count": 1,
+				"setId": 335633,
+				"itemData": null,
+				"itemDataReduced": {
+					"id": 0,
+					"untradeable": true,
+					"assetId": 210831,
+					"rating": 86,
+					"itemType": "player",
+					"resourceId": 50542479,
+					"discardValue": 0,
+					"cardsubtypeid": 2,
+					"preferredPosition": "CDM",
+					"attributeArray": [
+						83,
+						70,
+						84,
+						82,
+						83,
+						85
+					],
+					"teamId": 31,
+					"rareflag": 85,
+					"leagueId": 0,
+					"nation": 7,
+					"guidAssetId": "4db4f60be88244699f1702b385613d6b"
+				}
+			}
+		],
+		"objectives": [
+			{
+				"objectiveId": 23627,
+				"name": "Bayern Munich",
+				"description": "Score a goal in 2 separate wins with Bayern Munich players in Rivals",
+				"takeMeThereLink": "GotoOnlineRivals",
+				"gameArea": 1,
+				"isWeb": false,
+				"awards": [
+					{
+						"value": 511,
+						"untradeable": true,
+						"halId": 4,
+						"awardType": "pack",
+						"assetId": 4,
+						"count": 1,
+						"setId": 203596,
+						"itemData": null
+					}
+				],
+				"state": "REDEEMED",
+				"currentProgress": 2,
+				"multiplier": 2,
+				"priority": 18
+			},
+			{
+				"objectiveId": 23628,
+				"name": "Borussia Dortmund",
+				"description": "Score a goal in 2 separate wins with Borussia Dortmund players in Rivals",
+				"takeMeThereLink": "GotoOnlineRivals",
+				"gameArea": 1,
+				"isWeb": false,
+				"awards": [
+					{
+						"value": 511,
+						"untradeable": true,
+						"halId": 4,
+						"awardType": "pack",
+						"assetId": 4,
+						"count": 1,
+						"setId": 203597,
+						"itemData": null
+					}
+				],
+				"state": "IN_PROGRESS",
+				"currentProgress": 1,
+				"multiplier": 2,
+				"priority": 17
+			},
+			{
+				"objectiveId": 23629,
+				"name": "RB Leipzig",
+				"description": "Score a goal in 2 separate wins with RB Leipzig players in Rivals",
+				"takeMeThereLink": "GotoOnlineRivals",
+				"gameArea": 1,
+				"isWeb": false,
+				"awards": [
+					{
+						"value": 511,
+						"untradeable": true,
+						"halId": 4,
+						"awardType": "pack",
+						"assetId": 4,
+						"count": 1,
+						"setId": 203598,
+						"itemData": null
+					}
+				],
+				"multiplier": 2,
+				"priority": 16
+			},
+			{
+				"objectiveId": 23630,
+				"name": "Bayer Leverkusen",
+				"description": "Score a goal in 2 separate wins with Bayer Leverkusen players in Rivals",
+				"takeMeThereLink": "GotoOnlineRivals",
+				"gameArea": 1,
+				"isWeb": false,
+				"awards": [
+					{
+						"value": 511,
+						"untradeable": true,
+						"halId": 4,
+						"awardType": "pack",
+						"assetId": 4,
+						"count": 1,
+						"setId": 203599,
+						"itemData": null
+					}
+				],
+				"multiplier": 2,
+				"priority": 15
+			},
+			{
+				"objectiveId": 23631,
+				"name": "Borussia Mönchengladbach",
+				"description": "Score a goal in 2 separate wins with Borussia Mönchengladbach players in Rivals",
+				"takeMeThereLink": "GotoOnlineRivals",
+				"gameArea": 1,
+				"isWeb": false,
+				"awards": [
+					{
+						"value": 512,
+						"untradeable": true,
+						"halId": 4,
+						"awardType": "pack",
+						"assetId": 4,
+						"count": 1,
+						"setId": 203600,
+						"itemData": null
+					}
+				],
+				"state": "REDEEMED",
+				"currentProgress": 2,
+				"multiplier": 2,
+				"priority": 14
+			},
+			{
+				"objectiveId": 23632,
+				"name": "VfL Wolfsburg",
+				"description": "Score a goal in 2 separate wins with VfL Wolfsburg players in Rivals",
+				"takeMeThereLink": "GotoOnlineRivals",
+				"gameArea": 1,
+				"isWeb": false,
+				"awards": [
+					{
+						"value": 512,
+						"untradeable": true,
+						"halId": 4,
+						"awardType": "pack",
+						"assetId": 4,
+						"count": 1,
+						"setId": 203601,
+						"itemData": null
+					}
+				],
+				"multiplier": 2,
+				"priority": 13
+			},
+			{
+				"objectiveId": 23633,
+				"name": "Eintracht Frankfurt",
+				"description": "Score a goal in 2 separate wins with Eintracht Frankfurt players in Rivals",
+				"takeMeThereLink": "GotoOnlineRivals",
+				"gameArea": 1,
+				"isWeb": false,
+				"awards": [
+					{
+						"value": 512,
+						"untradeable": true,
+						"halId": 4,
+						"awardType": "pack",
+						"assetId": 4,
+						"count": 1,
+						"setId": 203602,
+						"itemData": null
+					}
+				],
+				"multiplier": 2,
+				"priority": 12
+			},
+			{
+				"objectiveId": 23634,
+				"name": "Werder Bremen",
+				"description": "Score a goal in 2 separate wins with Werder Bremen players in Rivals",
+				"takeMeThereLink": "GotoOnlineRivals",
+				"gameArea": 1,
+				"isWeb": false,
+				"awards": [
+					{
+						"value": 512,
+						"untradeable": true,
+						"halId": 4,
+						"awardType": "pack",
+						"assetId": 4,
+						"count": 1,
+						"setId": 203603,
+						"itemData": null
+					}
+				],
+				"multiplier": 2,
+				"priority": 11
+			},
+			{
+				"objectiveId": 23635,
+				"name": "1899 Hoffenheim",
+				"description": "Score a goal in 2 separate wins with 1899 Hoffenheim players in Rivals",
+				"takeMeThereLink": "GotoOnlineRivals",
+				"gameArea": 1,
+				"isWeb": false,
+				"awards": [
+					{
+						"value": 512,
+						"untradeable": true,
+						"halId": 4,
+						"awardType": "pack",
+						"assetId": 4,
+						"count": 1,
+						"setId": 203604,
+						"itemData": null
+					}
+				],
+				"multiplier": 2,
+				"priority": 10
+			},
+			{
+				"objectiveId": 23636,
+				"name": "Fortuna Düsseldorf",
+				"description": "Score a goal in 2 separate wins with Fortuna Düsseldorf players in Rivals",
+				"takeMeThereLink": "GotoOnlineRivals",
+				"gameArea": 1,
+				"isWeb": false,
+				"awards": [
+					{
+						"value": 512,
+						"untradeable": true,
+						"halId": 4,
+						"awardType": "pack",
+						"assetId": 4,
+						"count": 1,
+						"setId": 203605,
+						"itemData": null
+					}
+				],
+				"multiplier": 2,
+				"priority": 9
+			},
+			{
+				"objectiveId": 23637,
+				"name": "Hertha BSC",
+				"description": "Score a goal in 2 separate wins with Hertha BSC players in Rivals",
+				"takeMeThereLink": "GotoOnlineRivals",
+				"gameArea": 1,
+				"isWeb": false,
+				"awards": [
+					{
+						"value": 512,
+						"untradeable": true,
+						"halId": 4,
+						"awardType": "pack",
+						"assetId": 4,
+						"count": 1,
+						"setId": 203606,
+						"itemData": null
+					}
+				],
+				"multiplier": 2,
+				"priority": 8
+			},
+			{
+				"objectiveId": 23638,
+				"name": "Mainz 05",
+				"description": "Score a goal in 2 separate wins with Mainz 05 players in Rivals",
+				"takeMeThereLink": "GotoOnlineRivals",
+				"gameArea": 1,
+				"isWeb": false,
+				"awards": [
+					{
+						"value": 512,
+						"untradeable": true,
+						"halId": 4,
+						"awardType": "pack",
+						"assetId": 4,
+						"count": 1,
+						"setId": 203607,
+						"itemData": null
+					}
+				],
+				"multiplier": 2,
+				"priority": 7
+			},
+			{
+				"objectiveId": 23639,
+				"name": "SC Freiburg",
+				"description": "Score a goal in 2 separate wins with SC Freiburg players in Rivals",
+				"takeMeThereLink": "GotoOnlineRivals",
+				"gameArea": 1,
+				"isWeb": false,
+				"awards": [
+					{
+						"value": 512,
+						"untradeable": true,
+						"halId": 4,
+						"awardType": "pack",
+						"assetId": 4,
+						"count": 1,
+						"setId": 203608,
+						"itemData": null
+					}
+				],
+				"multiplier": 2,
+				"priority": 6
+			},
+			{
+				"objectiveId": 23640,
+				"name": "Schalke 04",
+				"description": "Score a goal in 2 separate wins with Schalke 04 players in Rivals",
+				"takeMeThereLink": "GotoOnlineRivals",
+				"gameArea": 1,
+				"isWeb": false,
+				"awards": [
+					{
+						"value": 512,
+						"untradeable": true,
+						"halId": 4,
+						"awardType": "pack",
+						"assetId": 4,
+						"count": 1,
+						"setId": 203609,
+						"itemData": null
+					}
+				],
+				"multiplier": 2,
+				"priority": 5
+			},
+			{
+				"objectiveId": 23641,
+				"name": "FC Augsburg",
+				"description": "Score a goal in 2 separate wins with FC Augsburg players in Rivals",
+				"takeMeThereLink": "GotoOnlineRivals",
+				"gameArea": 1,
+				"isWeb": false,
+				"awards": [
+					{
+						"value": 512,
+						"untradeable": true,
+						"halId": 4,
+						"awardType": "pack",
+						"assetId": 4,
+						"count": 1,
+						"setId": 203610,
+						"itemData": null
+					}
+				],
+				"multiplier": 2,
+				"priority": 4
+			},
+			{
+				"objectiveId": 23642,
+				"name": "FC Köln",
+				"description": "Score a goal in 2 separate matches with FC Köln players in Rivals",
+				"takeMeThereLink": "GotoOnlineRivals",
+				"gameArea": 1,
+				"isWeb": false,
+				"awards": [
+					{
+						"value": 512,
+						"untradeable": true,
+						"halId": 4,
+						"awardType": "pack",
+						"assetId": 4,
+						"count": 1,
+						"setId": 203611,
+						"itemData": null
+					}
+				],
+				"multiplier": 2,
+				"priority": 3
+			},
+			{
+				"objectiveId": 23643,
+				"name": "Paderborn",
+				"description": "Score a goal in 2 separate matches with Paderborn players in Rivals",
+				"takeMeThereLink": "GotoOnlineRivals",
+				"gameArea": 1,
+				"isWeb": false,
+				"awards": [
+					{
+						"value": 512,
+						"untradeable": true,
+						"halId": 4,
+						"awardType": "pack",
+						"assetId": 4,
+						"count": 1,
+						"setId": 203612,
+						"itemData": null
+					}
+				],
+				"multiplier": 2,
+				"priority": 2
+			},
+			{
+				"objectiveId": 23644,
+				"name": "Union Berlin",
+				"description": "Score a goal in 2 separate matches with Union Berlin players in Rivals",
+				"takeMeThereLink": "GotoOnlineRivals",
+				"gameArea": 1,
+				"isWeb": false,
+				"awards": [
+					{
+						"value": 512,
+						"untradeable": true,
+						"halId": 4,
+						"awardType": "pack",
+						"assetId": 4,
+						"count": 1,
+						"setId": 203613,
+						"itemData": null
+					}
+				],
+				"multiplier": 2,
+				"priority": 2
+			}
+		],
+		"objectivesNumber": 18
+	},
+	{
+		"groupId": 634,
+		"priority": 9,
+		"title": "Serie A League Player Upgrade",
+		"subTitle": "Upgrade your Serie A League Player by completing this set of Objectives. All rewards are Untradeable",
+		"groupType": 4,
+		"groupState": 1,
+		"awardsList": [
+			{
+				"value": 100879705,
+				"untradeable": true,
+				"halId": 0,
+				"awardType": "item",
+				"assetId": 0,
+				"count": 1,
+				"setId": 335632,
+				"itemData": null,
+				"itemDataReduced": {
+					"id": 0,
+					"untradeable": true,
+					"assetId": 216409,
+					"rating": 89,
+					"itemType": "player",
+					"resourceId": 100879705,
+					"discardValue": 0,
+					"cardsubtypeid": 2,
+					"preferredPosition": "RM",
+					"attributeArray": [
+						93,
+						87,
+						87,
+						90,
+						48,
+						70
+					],
+					"teamId": 48,
+					"rareflag": 85,
+					"leagueId": 0,
+					"nation": 27,
+					"guidAssetId": "57c39d41120148a982166cc8554f55ae"
+				}
+			}
+		],
+		"objectives": [
+			{
+				"objectiveId": 24050,
+				"name": "Ace Attacker",
+				"description": "Score a goal using 87 OVR League Player Politano in 6 separate Rivals wins with 11 Serie A players in your starting squad",
+				"takeMeThereLink": "GotoOnlineRivals",
+				"gameArea": 1,
+				"isWeb": false,
+				"awards": [
+					{
+						"value": 511,
+						"untradeable": true,
+						"halId": 4,
+						"awardType": "pack",
+						"assetId": 4,
+						"count": 1,
+						"setId": 240295,
+						"itemData": null
+					}
+				],
+				"multiplier": 6,
+				"priority": 3
+			},
+			{
+				"objectiveId": 24051,
+				"name": "Speedy Crosser",
+				"description": "Assist 7 goals with Crosses using 87 OVR League Player Politano in Rivals",
+				"takeMeThereLink": "GotoOnlineRivals",
+				"gameArea": 1,
+				"isWeb": false,
+				"awards": [
+					{
+						"value": 511,
+						"untradeable": true,
+						"halId": 4,
+						"awardType": "pack",
+						"assetId": 4,
+						"count": 1,
+						"setId": 240296,
+						"itemData": null
+					}
+				],
+				"state": "IN_PROGRESS",
+				"currentProgress": 2,
+				"multiplier": 7,
+				"priority": 2
+			},
+			{
+				"objectiveId": 24052,
+				"name": "Finesse Winger",
+				"description": "Score 3 Finesse goals using 87 OVR League Player Politano in Rivals",
+				"takeMeThereLink": "GotoOnlineRivals",
+				"gameArea": 1,
+				"isWeb": false,
+				"awards": [
+					{
+						"value": 511,
+						"untradeable": true,
+						"halId": 4,
+						"awardType": "pack",
+						"assetId": 4,
+						"count": 1,
+						"setId": 240297,
+						"itemData": null
+					}
+				],
+				"multiplier": 3,
+				"priority": 2
+			}
+		],
+		"objectivesNumber": 3
 	}
-  ]
+]
