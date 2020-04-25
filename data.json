@@ -1,5 +1,1763 @@
 [
 	{
+		"groupId": 912,
+		"endTime": 1588352399,
+		"priority": 94,
+		"title": "TOTSSF Toney",
+		"subTitle": "Community TOTSSF is here! Complete these objectives to earn TOTSSF Toney! All rewards Untradeable",
+		"groupType": 3,
+		"groupState": 0,
+		"awardsList": [
+			{
+				"value": 117652740,
+				"untradeable": true,
+				"halId": 0,
+				"awardType": "item",
+				"assetId": 0,
+				"count": 1,
+				"setId": 339581,
+				"itemData": null,
+				"itemDataReduced": {
+					"id": 0,
+					"untradeable": true,
+					"assetId": 212228,
+					"rating": 88,
+					"itemType": "player",
+					"resourceId": 117652740,
+					"discardValue": 0,
+					"cardsubtypeid": 3,
+					"preferredPosition": "ST",
+					"attributeArray": [
+						92,
+						88,
+						81,
+						88,
+						61,
+						89
+					],
+					"teamId": 1938,
+					"rareflag": 66,
+					"leagueId": 0,
+					"nation": 14,
+					"guidAssetId": "2af19d6807204d04b70062e151e6aec1"
+				}
+			},
+			{
+				"value": 300,
+				"untradeable": true,
+				"halId": 0,
+				"awardType": "xp",
+				"assetId": 0,
+				"count": 1,
+				"setId": 339581,
+				"itemData": null
+			}
+		],
+		"objectives": [
+			{
+				"objectiveId": 25068,
+				"name": "EFL Excellence",
+				"description": "Score in 4 separate Squad Battles matches on min. World Class difficulty (or Rivals) using at least 1 player from each EFL league in your starting squad: Championship, League One, League Two",
+				"takeMeThereLink": "GotoSquadBattle",
+				"gameArea": 1,
+				"isWeb": false,
+				"awards": [
+					{
+						"value": 511,
+						"untradeable": true,
+						"halId": 4,
+						"awardType": "pack",
+						"assetId": 4,
+						"count": 1,
+						"setId": 334402,
+						"itemData": null
+					},
+					{
+						"value": 300,
+						"untradeable": true,
+						"halId": 0,
+						"awardType": "xp",
+						"assetId": 0,
+						"count": 1,
+						"setId": 334402,
+						"itemData": null
+					}
+				],
+				"multiplier": 4,
+				"priority": 4
+			},
+			{
+				"objectiveId": 25069,
+				"name": "Give and Get Goals",
+				"description": "Assist and Score in 3 separate Squad Battles matches on min. Professional difficulty (or Rivals) using EFL League One Players",
+				"takeMeThereLink": "GotoSquadBattle",
+				"gameArea": 1,
+				"isWeb": false,
+				"awards": [
+					{
+						"value": 300,
+						"untradeable": true,
+						"halId": 4,
+						"awardType": "pack",
+						"assetId": 3,
+						"count": 1,
+						"setId": 334403,
+						"itemData": null
+					},
+					{
+						"value": 300,
+						"untradeable": true,
+						"halId": 0,
+						"awardType": "xp",
+						"assetId": 0,
+						"count": 1,
+						"setId": 334403,
+						"itemData": null
+					}
+				],
+				"multiplier": 3,
+				"priority": 3
+			},
+			{
+				"objectiveId": 25070,
+				"name": "Through Toney",
+				"description": "Assist 2 goals with Through Balls in 3 separate Squad Battles matches on min. World Class difficulty (or Rivals) using English players",
+				"takeMeThereLink": "GotoSquadBattle",
+				"gameArea": 1,
+				"isWeb": false,
+				"awards": [
+					{
+						"value": 519,
+						"untradeable": true,
+						"halId": 4,
+						"awardType": "pack",
+						"assetId": 4,
+						"count": 1,
+						"setId": 334404,
+						"itemData": null
+					},
+					{
+						"value": 300,
+						"untradeable": true,
+						"halId": 0,
+						"awardType": "xp",
+						"assetId": 0,
+						"count": 1,
+						"setId": 334404,
+						"itemData": null
+					}
+				],
+				"multiplier": 3,
+				"priority": 2
+			},
+			{
+				"objectiveId": 25071,
+				"name": "The Posh Precision",
+				"description": "Score a Finesse goal in 5 separate Squad Battles wins on min. World Class difficulty (or Rivals) using players with min. 85 PAC",
+				"takeMeThereLink": "GotoSquadBattle",
+				"gameArea": 1,
+				"isWeb": false,
+				"awards": [
+					{
+						"value": 515,
+						"untradeable": true,
+						"halId": 4,
+						"awardType": "pack",
+						"assetId": 4,
+						"count": 1,
+						"setId": 334405,
+						"itemData": null
+					},
+					{
+						"value": 300,
+						"untradeable": true,
+						"halId": 0,
+						"awardType": "xp",
+						"assetId": 0,
+						"count": 1,
+						"setId": 334405,
+						"itemData": null
+					}
+				],
+				"multiplier": 5,
+				"priority": 1
+			}
+		],
+		"objectivesNumber": 4
+	},
+	{
+		"groupId": 911,
+		"endTime": 1588352399,
+		"priority": 95,
+		"title": "TOTSSF Thuram",
+		"subTitle": "Community TOTSSF is here! Complete these objectives to earn TOTSSF Thuram! All rewards Untradeable",
+		"groupType": 3,
+		"groupState": 0,
+		"awardsList": [
+			{
+				"value": 100891389,
+				"untradeable": true,
+				"halId": 0,
+				"awardType": "item",
+				"assetId": 0,
+				"count": 1,
+				"setId": 339580,
+				"itemData": null,
+				"itemDataReduced": {
+					"id": 0,
+					"untradeable": true,
+					"assetId": 228093,
+					"rating": 89,
+					"itemType": "player",
+					"resourceId": 100891389,
+					"discardValue": 0,
+					"cardsubtypeid": 2,
+					"preferredPosition": "ST",
+					"attributeArray": [
+						93,
+						90,
+						80,
+						91,
+						55,
+						89
+					],
+					"teamId": 23,
+					"rareflag": 66,
+					"leagueId": 0,
+					"nation": 18,
+					"guidAssetId": "a2698bc476df42cb981e7a73b55f0cb2"
+				}
+			},
+			{
+				"value": 300,
+				"untradeable": true,
+				"halId": 0,
+				"awardType": "xp",
+				"assetId": 0,
+				"count": 1,
+				"setId": 339580,
+				"itemData": null
+			}
+		],
+		"objectives": [
+			{
+				"objectiveId": 25063,
+				"name": "Scoring Strength",
+				"description": "Score 2 goals in 2 separate Rivals matches using players with min. 85 PHY",
+				"takeMeThereLink": "GotoOnlineRivals",
+				"gameArea": 1,
+				"isWeb": false,
+				"awards": [
+					{
+						"value": 511,
+						"untradeable": true,
+						"halId": 4,
+						"awardType": "pack",
+						"assetId": 4,
+						"count": 1,
+						"setId": 334398,
+						"itemData": null
+					},
+					{
+						"value": 300,
+						"untradeable": true,
+						"halId": 0,
+						"awardType": "xp",
+						"assetId": 0,
+						"count": 1,
+						"setId": 334398,
+						"itemData": null
+					}
+				],
+				"multiplier": 2,
+				"priority": 4
+			},
+			{
+				"objectiveId": 25064,
+				"name": "Creative Crosser",
+				"description": "Assist with a Cross in 2 separate Rivals matches using Bundesliga players",
+				"takeMeThereLink": "GotoOnlineRivals",
+				"gameArea": 1,
+				"isWeb": false,
+				"awards": [
+					{
+						"value": 300,
+						"untradeable": true,
+						"halId": 3,
+						"awardType": "pack",
+						"assetId": 3,
+						"count": 1,
+						"setId": 334399,
+						"itemData": null
+					},
+					{
+						"value": 300,
+						"untradeable": true,
+						"halId": 0,
+						"awardType": "xp",
+						"assetId": 0,
+						"count": 1,
+						"setId": 334399,
+						"itemData": null
+					}
+				],
+				"multiplier": 2,
+				"priority": 3
+			},
+			{
+				"objectiveId": 25065,
+				"name": "Finesse Finisher",
+				"description": "Score a Finesse goal in 5 separate Rivals matches using Bundesliga Forwards",
+				"takeMeThereLink": "GotoOnlineRivals",
+				"gameArea": 1,
+				"isWeb": false,
+				"awards": [
+					{
+						"value": 519,
+						"untradeable": true,
+						"halId": 4,
+						"awardType": "pack",
+						"assetId": 4,
+						"count": 1,
+						"setId": 334400,
+						"itemData": null
+					},
+					{
+						"value": 300,
+						"untradeable": true,
+						"halId": 0,
+						"awardType": "xp",
+						"assetId": 0,
+						"count": 1,
+						"setId": 334400,
+						"itemData": null
+					}
+				],
+				"multiplier": 5,
+				"priority": 2
+			},
+			{
+				"objectiveId": 25066,
+				"name": "Terrific Thuram",
+				"description": "Score and Assist in 6 separate Rivals wins using French players",
+				"takeMeThereLink": "GotoOnlineRivals",
+				"gameArea": 1,
+				"isWeb": false,
+				"awards": [
+					{
+						"value": 515,
+						"untradeable": true,
+						"halId": 4,
+						"awardType": "pack",
+						"assetId": 4,
+						"count": 1,
+						"setId": 334401,
+						"itemData": null
+					},
+					{
+						"value": 300,
+						"untradeable": true,
+						"halId": 0,
+						"awardType": "xp",
+						"assetId": 0,
+						"count": 1,
+						"setId": 334401,
+						"itemData": null
+					}
+				],
+				"multiplier": 6,
+				"priority": 2
+			}
+		],
+		"objectivesNumber": 4
+	},
+	{
+		"groupId": 902,
+		"endTime": 1591376399,
+		"priority": 9,
+		"title": "Play Online",
+		"subTitle": "Level up for playing Rivals (or Champions)",
+		"groupType": 3,
+		"groupState": 0,
+		"awardsList": [
+			{
+				"value": 400,
+				"untradeable": true,
+				"halId": 0,
+				"awardType": "xp",
+				"assetId": 0,
+				"count": 1,
+				"setId": 339590,
+				"itemData": null
+			}
+		],
+		"objectives": [
+			{
+				"objectiveId": 25025,
+				"name": "Score in 10",
+				"description": "Play and score at least one goal in 10 Rivals (or Champions) Matches",
+				"takeMeThereLink": "GotoOnlineRivals",
+				"gameArea": 1,
+				"isWeb": false,
+				"awards": [
+					{
+						"value": 400,
+						"untradeable": true,
+						"halId": 0,
+						"awardType": "xp",
+						"assetId": 0,
+						"count": 1,
+						"setId": 334482,
+						"itemData": null
+					}
+				],
+				"multiplier": 10,
+				"priority": 4
+			},
+			{
+				"objectiveId": 25026,
+				"name": "Score in 20",
+				"description": "Play and score at least one goal in 20 Rivals (or Champions) Matches",
+				"takeMeThereLink": "GotoOnlineRivals",
+				"gameArea": 1,
+				"isWeb": false,
+				"awards": [
+					{
+						"value": 400,
+						"untradeable": true,
+						"halId": 0,
+						"awardType": "xp",
+						"assetId": 0,
+						"count": 1,
+						"setId": 334483,
+						"itemData": null
+					}
+				],
+				"multiplier": 20,
+				"priority": 3
+			},
+			{
+				"objectiveId": 25027,
+				"name": "Score in 40",
+				"description": "Play and score at least one goal in 40 Rivals (or Champions) Matches",
+				"takeMeThereLink": "GotoOnlineRivals",
+				"gameArea": 1,
+				"isWeb": false,
+				"awards": [
+					{
+						"value": 400,
+						"untradeable": true,
+						"halId": 0,
+						"awardType": "xp",
+						"assetId": 0,
+						"count": 1,
+						"setId": 334484,
+						"itemData": null
+					}
+				],
+				"multiplier": 40,
+				"priority": 2
+			},
+			{
+				"objectiveId": 25028,
+				"name": "Score in 60",
+				"description": "Play and score at least one goal in 60 Rivals (or Champions) Matches",
+				"takeMeThereLink": "GotoOnlineRivals",
+				"gameArea": 1,
+				"isWeb": false,
+				"awards": [
+					{
+						"value": 400,
+						"untradeable": true,
+						"halId": 0,
+						"awardType": "xp",
+						"assetId": 0,
+						"count": 1,
+						"setId": 334485,
+						"itemData": null
+					}
+				],
+				"multiplier": 60,
+				"priority": 1
+			}
+		],
+		"objectivesNumber": 4
+	},
+	{
+		"groupId": 903,
+		"endTime": 1591376399,
+		"priority": 8,
+		"title": "Squad Battles",
+		"subTitle": "Level up for playing Squad Battles",
+		"groupType": 3,
+		"groupState": 0,
+		"awardsList": [
+			{
+				"value": 400,
+				"untradeable": true,
+				"halId": 0,
+				"awardType": "xp",
+				"assetId": 0,
+				"count": 1,
+				"setId": 339591,
+				"itemData": null
+			}
+		],
+		"objectives": [
+			{
+				"objectiveId": 25029,
+				"name": "Score in 10",
+				"description": "Play and score at least one goal in 10 Squad Battles Matches",
+				"takeMeThereLink": "GotoSquadBattle",
+				"gameArea": 1,
+				"isWeb": false,
+				"awards": [
+					{
+						"value": 400,
+						"untradeable": true,
+						"halId": 0,
+						"awardType": "xp",
+						"assetId": 0,
+						"count": 1,
+						"setId": 334486,
+						"itemData": null
+					}
+				],
+				"multiplier": 10,
+				"priority": 4
+			},
+			{
+				"objectiveId": 25030,
+				"name": "Score in 20",
+				"description": "Play and score at least one goal in 20 Squad Battles Matches",
+				"takeMeThereLink": "GotoSquadBattle",
+				"gameArea": 1,
+				"isWeb": false,
+				"awards": [
+					{
+						"value": 400,
+						"untradeable": true,
+						"halId": 0,
+						"awardType": "xp",
+						"assetId": 0,
+						"count": 1,
+						"setId": 334487,
+						"itemData": null
+					}
+				],
+				"multiplier": 20,
+				"priority": 3
+			},
+			{
+				"objectiveId": 25031,
+				"name": "Score in 40",
+				"description": "Play and score at least one goal in 40 Squad Battles Matches",
+				"takeMeThereLink": "GotoSquadBattle",
+				"gameArea": 1,
+				"isWeb": false,
+				"awards": [
+					{
+						"value": 400,
+						"untradeable": true,
+						"halId": 0,
+						"awardType": "xp",
+						"assetId": 0,
+						"count": 1,
+						"setId": 334488,
+						"itemData": null
+					}
+				],
+				"multiplier": 40,
+				"priority": 2
+			},
+			{
+				"objectiveId": 25032,
+				"name": "Score in 60",
+				"description": "Play and score at least one goal in 60 Squad Battles Matches",
+				"takeMeThereLink": "GotoSquadBattle",
+				"gameArea": 1,
+				"isWeb": false,
+				"awards": [
+					{
+						"value": 400,
+						"untradeable": true,
+						"halId": 0,
+						"awardType": "xp",
+						"assetId": 0,
+						"count": 1,
+						"setId": 334489,
+						"itemData": null
+					}
+				],
+				"multiplier": 60,
+				"priority": 1
+			}
+		],
+		"objectivesNumber": 4
+	},
+	{
+		"groupId": 905,
+		"endTime": 1588957199,
+		"priority": 35,
+		"title": "Week 1 - Bronze",
+		"subTitle": "Week 1 begins",
+		"groupType": 3,
+		"groupState": 0,
+		"awardsList": [
+			{
+				"value": 200,
+				"untradeable": true,
+				"halId": 0,
+				"awardType": "xp",
+				"assetId": 0,
+				"count": 1,
+				"setId": 339585,
+				"itemData": null
+			}
+		],
+		"objectives": [
+			{
+				"objectiveId": 25037,
+				"name": "Assist 2",
+				"description": "Assist 2 goals in any FUT game mode",
+				"takeMeThereLink": "",
+				"gameArea": 1,
+				"isWeb": false,
+				"awards": [
+					{
+						"value": 300,
+						"untradeable": true,
+						"halId": 0,
+						"awardType": "xp",
+						"assetId": 0,
+						"count": 1,
+						"setId": 334434,
+						"itemData": null
+					}
+				],
+				"multiplier": 2,
+				"priority": 4
+			},
+			{
+				"objectiveId": 25038,
+				"name": "Play 4",
+				"description": "Play 4 matches in any FUT game mode",
+				"takeMeThereLink": "",
+				"gameArea": 1,
+				"isWeb": false,
+				"awards": [
+					{
+						"value": 700,
+						"untradeable": true,
+						"halId": 0,
+						"awardType": "xp",
+						"assetId": 0,
+						"count": 1,
+						"setId": 334435,
+						"itemData": null
+					}
+				],
+				"multiplier": 4,
+				"priority": 3
+			},
+			{
+				"objectiveId": 25039,
+				"name": "Win 2",
+				"description": "Win 2 matches in any game mode",
+				"takeMeThereLink": "",
+				"gameArea": 1,
+				"isWeb": false,
+				"awards": [
+					{
+						"value": 500,
+						"untradeable": true,
+						"halId": 0,
+						"awardType": "xp",
+						"assetId": 0,
+						"count": 1,
+						"setId": 334436,
+						"itemData": null
+					}
+				],
+				"multiplier": 2,
+				"priority": 2
+			},
+			{
+				"objectiveId": 25040,
+				"name": "Score 3",
+				"description": "Score 3 goals in any FUT game mode",
+				"takeMeThereLink": "",
+				"gameArea": 1,
+				"isWeb": false,
+				"awards": [
+					{
+						"value": 300,
+						"untradeable": true,
+						"halId": 0,
+						"awardType": "xp",
+						"assetId": 0,
+						"count": 1,
+						"setId": 334437,
+						"itemData": null
+					}
+				],
+				"multiplier": 3,
+				"priority": 1
+			}
+		],
+		"objectivesNumber": 4
+	},{
+		"groupId": 904,
+		"endTime": 1591376399,
+		"priority": 7,
+		"title": "Master Passer",
+		"subTitle": "Assist some goals to level up",
+		"groupType": 3,
+		"groupState": 0,
+		"awardsList": [
+			{
+				"value": 400,
+				"untradeable": true,
+				"halId": 0,
+				"awardType": "xp",
+				"assetId": 0,
+				"count": 1,
+				"setId": 339592,
+				"itemData": null
+			}
+		],
+		"objectives": [
+			{
+				"objectiveId": 25033,
+				"name": "Assist 10",
+				"description": "Get 10 Assists in any FUT game mode",
+				"takeMeThereLink": "",
+				"gameArea": 1,
+				"isWeb": false,
+				"awards": [
+					{
+						"value": 400,
+						"untradeable": true,
+						"halId": 0,
+						"awardType": "xp",
+						"assetId": 0,
+						"count": 1,
+						"setId": 334490,
+						"itemData": null
+					}
+				],
+				"multiplier": 10,
+				"priority": 4
+			},
+			{
+				"objectiveId": 25034,
+				"name": "Assist 20",
+				"description": "Get 20 Assists in any FUT game mode",
+				"takeMeThereLink": "",
+				"gameArea": 1,
+				"isWeb": false,
+				"awards": [
+					{
+						"value": 400,
+						"untradeable": true,
+						"halId": 0,
+						"awardType": "xp",
+						"assetId": 0,
+						"count": 1,
+						"setId": 334491,
+						"itemData": null
+					}
+				],
+				"multiplier": 20,
+				"priority": 3
+			},
+			{
+				"objectiveId": 25035,
+				"name": "Assist 30",
+				"description": "Get 30 Assists in any FUT game mode",
+				"takeMeThereLink": "",
+				"gameArea": 1,
+				"isWeb": false,
+				"awards": [
+					{
+						"value": 400,
+						"untradeable": true,
+						"halId": 0,
+						"awardType": "xp",
+						"assetId": 0,
+						"count": 1,
+						"setId": 334492,
+						"itemData": null
+					}
+				],
+				"multiplier": 30,
+				"priority": 2
+			},
+			{
+				"objectiveId": 25036,
+				"name": "Assist 40",
+				"description": "Get 40 Assists in any FUT game mode",
+				"takeMeThereLink": "",
+				"gameArea": 1,
+				"isWeb": false,
+				"awards": [
+					{
+						"value": 400,
+						"untradeable": true,
+						"halId": 0,
+						"awardType": "xp",
+						"assetId": 0,
+						"count": 1,
+						"setId": 334493,
+						"itemData": null
+					}
+				],
+				"multiplier": 40,
+				"priority": 1
+			}
+		],
+		"objectivesNumber": 4
+	},
+	{
+		"groupId": 908,
+		"endTime": 1591376399,
+		"priority": 14,
+		"title": "Figo's Story",
+		"subTitle": "Roll back the years with Figo and earn Untradeable rewards",
+		"groupType": 3,
+		"groupState": 0,
+		"awardsList": [
+			{
+				"value": 6500137,
+				"untradeable": true,
+				"halId": 0,
+				"awardType": "item",
+				"assetId": 0,
+				"count": 1,
+				"setId": 339588,
+				"itemData": null,
+				"itemDataReduced": {
+					"id": 0,
+					"untradeable": true,
+					"assetId": 5589,
+					"rating": 80,
+					"itemType": "tifo",
+					"resourceId": 6500137,
+					"discardValue": 0,
+					"cardsubtypeid": 13,
+					"attributeList": [],
+					"teamId": 0,
+					"rareflag": 0,
+					"leagueId": 0,
+					"cardassetid": 66
+				}
+			},
+			{
+				"value": 425,
+				"untradeable": true,
+				"halId": 0,
+				"awardType": "xp",
+				"assetId": 0,
+				"count": 1,
+				"setId": 339588,
+				"itemData": null
+			}
+		],
+		"objectives": [
+			{
+				"objectiveId": 25050,
+				"name": "Portuguese Prince",
+				"description": "Win 2 matches in any FUT game mode with Icon Moments Figo and at least 4 Portuguese players in your starting squad",
+				"takeMeThereLink": "",
+				"gameArea": 1,
+				"isWeb": false,
+				"awards": [
+					{
+						"value": 425,
+						"untradeable": true,
+						"halId": 0,
+						"awardType": "xp",
+						"assetId": 0,
+						"count": 1,
+						"setId": 334447,
+						"itemData": null
+					}
+				],
+				"multiplier": 2,
+				"priority": 3
+			},
+			{
+				"objectiveId": 25051,
+				"name": "La Liga Legend",
+				"description": "Assist a goal in 2 separate matches in any FUT game mode using Icon Moments Figo with at least 4 LaLiga players in your starting squad",
+				"takeMeThereLink": "",
+				"gameArea": 1,
+				"isWeb": false,
+				"awards": [
+					{
+						"value": 425,
+						"untradeable": true,
+						"halId": 0,
+						"awardType": "xp",
+						"assetId": 0,
+						"count": 1,
+						"setId": 334448,
+						"itemData": null
+					}
+				],
+				"multiplier": 2,
+				"priority": 2
+			},
+			{
+				"objectiveId": 25052,
+				"name": "Galácticos",
+				"description": "Score a Finesse goal in any FUT game mode using Icon Moments Figo with at least 2 Real Madrid players in your starting squad",
+				"takeMeThereLink": "",
+				"gameArea": 1,
+				"isWeb": false,
+				"awards": [
+					{
+						"value": 425,
+						"untradeable": true,
+						"halId": 0,
+						"awardType": "xp",
+						"assetId": 0,
+						"count": 1,
+						"setId": 334449,
+						"itemData": null
+					}
+				],
+				"multiplier": 1,
+				"priority": 1
+			}
+		],
+		"objectivesNumber": 3
+	},
+	{
+		"groupId": 909,
+		"endTime": 1591376399,
+		"priority": 13,
+		"title": "Sócrates' Story",
+		"subTitle": "Roll back the years with Sócrates and earn Untradeable rewards",
+		"groupType": 3,
+		"groupState": 0,
+		"awardsList": [
+			{
+				"value": 6500154,
+				"untradeable": true,
+				"halId": 0,
+				"awardType": "item",
+				"assetId": 0,
+				"count": 1,
+				"setId": 339589,
+				"itemData": null,
+				"itemDataReduced": {
+					"id": 0,
+					"untradeable": true,
+					"assetId": 190046,
+					"rating": 80,
+					"itemType": "tifo",
+					"resourceId": 6500154,
+					"discardValue": 0,
+					"cardsubtypeid": 13,
+					"attributeList": [],
+					"teamId": 0,
+					"rareflag": 0,
+					"leagueId": 0,
+					"cardassetid": 66
+				}
+			},
+			{
+				"value": 425,
+				"untradeable": true,
+				"halId": 0,
+				"awardType": "xp",
+				"assetId": 0,
+				"count": 1,
+				"setId": 339589,
+				"itemData": null
+			}
+		],
+		"objectives": [
+			{
+				"objectiveId": 25056,
+				"name": "Seleção",
+				"description": "Win 2 matches in any FUT game mode with Icon Moments Sócrates and at least 4 Brazilian players in your starting squad",
+				"takeMeThereLink": "",
+				"gameArea": 1,
+				"isWeb": false,
+				"awards": [
+					{
+						"value": 425,
+						"untradeable": true,
+						"halId": 0,
+						"awardType": "xp",
+						"assetId": 0,
+						"count": 1,
+						"setId": 334450,
+						"itemData": null
+					}
+				],
+				"multiplier": 2,
+				"priority": 3
+			},
+			{
+				"objectiveId": 25057,
+				"name": "Serie A Season",
+				"description": "Assist a goal in 2 separate matches in any FUT game mode using Icon Moments Sócrates with at least 4 Serie A players in your starting squad",
+				"takeMeThereLink": "",
+				"gameArea": 1,
+				"isWeb": false,
+				"awards": [
+					{
+						"value": 425,
+						"untradeable": true,
+						"halId": 0,
+						"awardType": "xp",
+						"assetId": 0,
+						"count": 1,
+						"setId": 334451,
+						"itemData": null
+					}
+				],
+				"multiplier": 2,
+				"priority": 2
+			},
+			{
+				"objectiveId": 25058,
+				"name": "Doctor Sócrates",
+				"description": "Score and Assist in 2 separate matches in any FUT game mode using Icon Moments Sócrates",
+				"takeMeThereLink": "",
+				"gameArea": 1,
+				"isWeb": false,
+				"awards": [
+					{
+						"value": 425,
+						"untradeable": true,
+						"halId": 0,
+						"awardType": "xp",
+						"assetId": 0,
+						"count": 1,
+						"setId": 334452,
+						"itemData": null
+					}
+				],
+				"multiplier": 2,
+				"priority": 1
+			}
+		],
+		"objectivesNumber": 3
+	},
+	{
+		"groupId": 910,
+		"endTime": 1591376399,
+		"priority": 38,
+		"title": "Icon Swaps Single Player",
+		"subTitle": "Continue your Icon Swaps journey! Complete these objectives to earn Untradeable Icon Swaps Items",
+		"groupType": 3,
+		"groupState": 0,
+		"awardsList": [
+			{
+				"value": 300,
+				"untradeable": true,
+				"halId": 0,
+				"awardType": "xp",
+				"assetId": 0,
+				"count": 1,
+				"setId": 339584,
+				"itemData": null
+			}
+		],
+		"objectives": [
+			{
+				"objectiveId": 25059,
+				"name": "Die Mannschaft",
+				"description": "Win 6 Squad Battles matches on min. Legendary difficulty using 11 German players in your starting squad",
+				"takeMeThereLink": "GotoSquadBattle",
+				"gameArea": 1,
+				"isWeb": false,
+				"awards": [
+					{
+						"value": 50576989,
+						"untradeable": true,
+						"halId": 0,
+						"awardType": "item",
+						"assetId": 0,
+						"count": 1,
+						"setId": 334394,
+						"itemData": null,
+						"itemDataReduced": {
+							"id": 0,
+							"untradeable": true,
+							"assetId": 245341,
+							"rating": 60,
+							"itemType": "player",
+							"resourceId": 50576989,
+							"discardValue": 0,
+							"cardsubtypeid": 2,
+							"preferredPosition": "CM",
+							"attributeArray": [
+								61,
+								51,
+								60,
+								61,
+								55,
+								57
+							],
+							"teamId": 694,
+							"rareflag": 94,
+							"leagueId": 0,
+							"nation": 95
+						}
+					},
+					{
+						"value": 300,
+						"untradeable": true,
+						"halId": 0,
+						"awardType": "xp",
+						"assetId": 0,
+						"count": 1,
+						"setId": 334394,
+						"itemData": null
+					}
+				],
+				"multiplier": 6,
+				"priority": 1
+			},
+			{
+				"objectiveId": 25060,
+				"name": "EFL Championships",
+				"description": "Win 5 Squad Battles matches on min. World Class difficulty using 11 EFL Championship players in your starting squad",
+				"takeMeThereLink": "GotoSquadBattle",
+				"gameArea": 1,
+				"isWeb": false,
+				"awards": [
+					{
+						"value": 50569884,
+						"untradeable": true,
+						"halId": 0,
+						"awardType": "item",
+						"assetId": 0,
+						"count": 1,
+						"setId": 334395,
+						"itemData": null,
+						"itemDataReduced": {
+							"id": 0,
+							"untradeable": true,
+							"assetId": 238236,
+							"rating": 60,
+							"itemType": "player",
+							"resourceId": 50569884,
+							"discardValue": 0,
+							"cardsubtypeid": 2,
+							"preferredPosition": "LM",
+							"attributeArray": [
+								72,
+								53,
+								52,
+								65,
+								43,
+								54
+							],
+							"teamId": 917,
+							"rareflag": 94,
+							"leagueId": 0,
+							"nation": 36
+						}
+					},
+					{
+						"value": 300,
+						"untradeable": true,
+						"halId": 0,
+						"awardType": "xp",
+						"assetId": 0,
+						"count": 1,
+						"setId": 334395,
+						"itemData": null
+					}
+				],
+				"multiplier": 5,
+				"priority": 2
+			},
+			{
+				"objectiveId": 25061,
+				"name": "CONMEBOL",
+				"description": "Win 5 Squad Battles matches on min. World Class difficulty using 11 CONMEBOL players in your starting squad",
+				"takeMeThereLink": "GotoSquadBattle",
+				"gameArea": 1,
+				"isWeb": false,
+				"awards": [
+					{
+						"value": 50570773,
+						"untradeable": true,
+						"halId": 0,
+						"awardType": "item",
+						"assetId": 0,
+						"count": 1,
+						"setId": 334396,
+						"itemData": null,
+						"itemDataReduced": {
+							"id": 0,
+							"untradeable": true,
+							"assetId": 239125,
+							"rating": 60,
+							"itemType": "player",
+							"resourceId": 50570773,
+							"discardValue": 0,
+							"cardsubtypeid": 3,
+							"preferredPosition": "ST",
+							"attributeArray": [
+								65,
+								61,
+								40,
+								57,
+								27,
+								57
+							],
+							"teamId": 298,
+							"rareflag": 94,
+							"leagueId": 0,
+							"nation": 36
+						}
+					},
+					{
+						"value": 300,
+						"untradeable": true,
+						"halId": 0,
+						"awardType": "xp",
+						"assetId": 0,
+						"count": 1,
+						"setId": 334396,
+						"itemData": null
+					}
+				],
+				"multiplier": 5,
+				"priority": 3
+			},
+			{
+				"objectiveId": 25062,
+				"name": "The Stars and Stripes",
+				"description": "Win 5 Squad Battles matches on min. World Class difficulty using 11 United States players in your starting squad",
+				"takeMeThereLink": "GotoSquadBattle",
+				"gameArea": 1,
+				"isWeb": false,
+				"awards": [
+					{
+						"value": 50524233,
+						"untradeable": true,
+						"halId": 0,
+						"awardType": "item",
+						"assetId": 0,
+						"count": 1,
+						"setId": 334397,
+						"itemData": null,
+						"itemDataReduced": {
+							"id": 0,
+							"untradeable": true,
+							"assetId": 192585,
+							"rating": 60,
+							"itemType": "player",
+							"resourceId": 50524233,
+							"discardValue": 0,
+							"cardsubtypeid": 2,
+							"preferredPosition": "CDM",
+							"attributeArray": [
+								56,
+								47,
+								57,
+								57,
+								58,
+								65
+							],
+							"teamId": 113391,
+							"rareflag": 94,
+							"leagueId": 0,
+							"nation": 33,
+							"guidAssetId": "61b31bb680d5420cbcd865e1699dbfc1"
+						}
+					},
+					{
+						"value": 300,
+						"untradeable": true,
+						"halId": 0,
+						"awardType": "xp",
+						"assetId": 0,
+						"count": 1,
+						"setId": 334397,
+						"itemData": null
+					}
+				],
+				"multiplier": 5,
+				"priority": 4
+			}
+		],
+		"objectivesNumber": 4
+	},
+	{
+    "groupId": 867,
+    "endTime": 1591376399,
+    "priority": 39,
+    "title": "Icon Swaps Online",
+    "subTitle": "Continue your Icon Swaps journey! Complete these objectives to earn Untradeable Icon Swaps Items",
+    "groupType": 3,
+    "groupState": 0,
+    "awardsList": [
+        {
+            "value": 300,
+            "untradeable": true,
+            "halId": 0,
+            "awardType": "xp",
+            "assetId": 0,
+            "count": 1,
+            "setId": 339583,
+            "itemData": null
+        }
+    ],
+    "objectives": [
+        {
+            "objectiveId": 24915,
+            "name": "Premier League",
+            "description": "Win 4 Rivals matches using 9 First Owned Premier League players in your starting squad",
+            "takeMeThereLink": "GotoOnlineRivals",
+            "gameArea": 1,
+            "isWeb": false,
+            "awards": [
+                {
+                    "value": 50531709,
+                    "untradeable": true,
+                    "halId": 100,
+                    "awardType": "item",
+                    "assetId": 0,
+                    "count": 1,
+                    "setId": 334386,
+                    "itemData": null,
+                    "itemDataReduced": {
+                        "id": 0,
+                        "untradeable": true,
+                        "assetId": 200061,
+                        "rating": 60,
+                        "itemType": "player",
+                        "resourceId": 50531709,
+                        "discardValue": 0,
+                        "cardsubtypeid": 2,
+                        "preferredPosition": "CM",
+                        "attributeArray": [
+                            62,
+                            61,
+                            59,
+                            60,
+                            57,
+                            64
+                        ],
+                        "teamId": 357,
+                        "rareflag": 94,
+                        "leagueId": 0,
+                        "nation": 14
+                    }
+                },
+                {
+                    "value": 300,
+                    "untradeable": true,
+                    "halId": 0,
+                    "awardType": "xp",
+                    "assetId": 0,
+                    "count": 1,
+                    "setId": 334386,
+                    "itemData": null
+                }
+            ],
+            "multiplier": 4,
+            "priority": 1
+        },
+        {
+            "objectiveId": 25018,
+            "name": "Ligue 1",
+            "description": "Win 4 Rivals matches using 9 First Owned Ligue 1 players in your starting squad",
+            "takeMeThereLink": "GotoOnlineRivals",
+            "gameArea": 1,
+            "isWeb": false,
+            "awards": [
+                {
+                    "value": 50557157,
+                    "untradeable": true,
+                    "halId": 100,
+                    "awardType": "item",
+                    "assetId": 0,
+                    "count": 1,
+                    "setId": 334387,
+                    "itemData": null,
+                    "itemDataReduced": {
+                        "id": 0,
+                        "untradeable": true,
+                        "assetId": 225509,
+                        "rating": 60,
+                        "itemType": "player",
+                        "resourceId": 50557157,
+                        "discardValue": 0,
+                        "cardsubtypeid": 3,
+                        "preferredPosition": "ST",
+                        "attributeArray": [
+                            79,
+                            58,
+                            42,
+                            60,
+                            28,
+                            64
+                        ],
+                        "teamId": 561,
+                        "rareflag": 94,
+                        "leagueId": 0,
+                        "nation": 50
+                    }
+                },
+                {
+                    "value": 300,
+                    "untradeable": true,
+                    "halId": 0,
+                    "awardType": "xp",
+                    "assetId": 0,
+                    "count": 1,
+                    "setId": 334387,
+                    "itemData": null
+                }
+            ],
+            "multiplier": 4,
+            "priority": 2
+        },
+        {
+            "objectiveId": 25019,
+            "name": "Serie A",
+            "description": "Win 4 Rivals matches using 9 First Owned Serie A players in your starting squad",
+            "takeMeThereLink": "GotoOnlineRivals",
+            "gameArea": 1,
+            "isWeb": false,
+            "awards": [
+                {
+                    "value": 50577244,
+                    "untradeable": true,
+                    "halId": 100,
+                    "awardType": "item",
+                    "assetId": 0,
+                    "count": 1,
+                    "setId": 334388,
+                    "itemData": null,
+                    "itemDataReduced": {
+                        "id": 0,
+                        "untradeable": true,
+                        "assetId": 245596,
+                        "rating": 60,
+                        "itemType": "player",
+                        "resourceId": 50577244,
+                        "discardValue": 0,
+                        "cardsubtypeid": 2,
+                        "preferredPosition": "RM",
+                        "attributeArray": [
+                            63,
+                            60,
+                            57,
+                            62,
+                            32,
+                            51
+                        ],
+                        "teamId": 1968,
+                        "rareflag": 94,
+                        "leagueId": 0,
+                        "nation": 45
+                    }
+                },
+                {
+                    "value": 300,
+                    "untradeable": true,
+                    "halId": 0,
+                    "awardType": "xp",
+                    "assetId": 0,
+                    "count": 1,
+                    "setId": 334388,
+                    "itemData": null
+                }
+            ],
+            "multiplier": 4,
+            "priority": 3
+        },
+        {
+            "objectiveId": 25020,
+            "name": "Bundesliga",
+            "description": "Win 4 Rivals matches using 9 First Owned Bundesliga players in your starting squad",
+            "takeMeThereLink": "GotoOnlineRivals",
+            "gameArea": 1,
+            "isWeb": false,
+            "awards": [
+                {
+                    "value": 50571539,
+                    "untradeable": true,
+                    "halId": 100,
+                    "awardType": "item",
+                    "assetId": 0,
+                    "count": 1,
+                    "setId": 334389,
+                    "itemData": null,
+                    "itemDataReduced": {
+                        "id": 0,
+                        "untradeable": true,
+                        "assetId": 239891,
+                        "rating": 60,
+                        "itemType": "player",
+                        "resourceId": 50571539,
+                        "discardValue": 0,
+                        "cardsubtypeid": 2,
+                        "preferredPosition": "CDM",
+                        "attributeArray": [
+                            48,
+                            42,
+                            54,
+                            55,
+                            60,
+                            59
+                        ],
+                        "teamId": 325,
+                        "rareflag": 94,
+                        "leagueId": 0,
+                        "nation": 48
+                    }
+                },
+                {
+                    "value": 300,
+                    "untradeable": true,
+                    "halId": 0,
+                    "awardType": "xp",
+                    "assetId": 0,
+                    "count": 1,
+                    "setId": 334389,
+                    "itemData": null
+                }
+            ],
+            "multiplier": 4,
+            "priority": 4
+        },
+        {
+            "objectiveId": 25021,
+            "name": "LaLiga",
+            "description": "Win 4 Rivals matches using 9 First Owned LaLiga players in your starting squad",
+            "takeMeThereLink": "GotoOnlineRivals",
+            "gameArea": 1,
+            "isWeb": false,
+            "awards": [
+                {
+                    "value": 50578379,
+                    "untradeable": true,
+                    "halId": 0,
+                    "awardType": "item",
+                    "assetId": 0,
+                    "count": 1,
+                    "setId": 334390,
+                    "itemData": null,
+                    "itemDataReduced": {
+                        "id": 0,
+                        "untradeable": true,
+                        "assetId": 246731,
+                        "rating": 60,
+                        "itemType": "player",
+                        "resourceId": 50578379,
+                        "discardValue": 0,
+                        "cardsubtypeid": 3,
+                        "preferredPosition": "ST",
+                        "attributeArray": [
+                            58,
+                            62,
+                            45,
+                            52,
+                            21,
+                            57
+                        ],
+                        "teamId": 110152,
+                        "rareflag": 94,
+                        "leagueId": 0,
+                        "nation": 83
+                    }
+                },
+                {
+                    "value": 300,
+                    "untradeable": true,
+                    "halId": 0,
+                    "awardType": "xp",
+                    "assetId": 0,
+                    "count": 1,
+                    "setId": 334390,
+                    "itemData": null
+                }
+            ],
+            "multiplier": 4,
+            "priority": 5
+        },
+        {
+            "objectiveId": 25022,
+            "name": "World Beaters",
+            "description": "Win 5 Rivals matches using at least 2 players from PL, Ligue 1, Serie A, Bundesliga, and LaLiga in your starting squad",
+            "takeMeThereLink": "GotoOnlineRivals",
+            "gameArea": 1,
+            "isWeb": false,
+            "awards": [
+                {
+                    "value": 50579984,
+                    "untradeable": true,
+                    "halId": 0,
+                    "awardType": "item",
+                    "assetId": 0,
+                    "count": 1,
+                    "setId": 334391,
+                    "itemData": null,
+                    "itemDataReduced": {
+                        "id": 0,
+                        "untradeable": true,
+                        "assetId": 248336,
+                        "rating": 60,
+                        "itemType": "player",
+                        "resourceId": 50579984,
+                        "discardValue": 0,
+                        "cardsubtypeid": 2,
+                        "preferredPosition": "CAM",
+                        "attributeArray": [
+                            69,
+                            47,
+                            58,
+                            62,
+                            42,
+                            39
+                        ],
+                        "teamId": 112531,
+                        "rareflag": 94,
+                        "leagueId": 0,
+                        "nation": 55
+                    }
+                },
+                {
+                    "value": 300,
+                    "untradeable": true,
+                    "halId": 0,
+                    "awardType": "xp",
+                    "assetId": 0,
+                    "count": 1,
+                    "setId": 334391,
+                    "itemData": null
+                }
+            ],
+            "multiplier": 5,
+            "priority": 6
+        },
+        {
+            "objectiveId": 25023,
+            "name": "One Club Wonders",
+            "description": "Win 5 Rivals matches using 11 First Owned players in your starting squad",
+            "takeMeThereLink": "GotoOnlineRivals",
+            "gameArea": 1,
+            "isWeb": false,
+            "awards": [
+                {
+                    "value": 50534529,
+                    "untradeable": true,
+                    "halId": 100,
+                    "awardType": "item",
+                    "assetId": 0,
+                    "count": 1,
+                    "setId": 334392,
+                    "itemData": null,
+                    "itemDataReduced": {
+                        "id": 0,
+                        "untradeable": true,
+                        "assetId": 202881,
+                        "rating": 60,
+                        "itemType": "player",
+                        "resourceId": 50534529,
+                        "discardValue": 0,
+                        "cardsubtypeid": 2,
+                        "preferredPosition": "CDM",
+                        "attributeArray": [
+                            55,
+                            55,
+                            57,
+                            58,
+                            57,
+                            67
+                        ],
+                        "teamId": 305,
+                        "rareflag": 94,
+                        "leagueId": 0,
+                        "nation": 25
+                    }
+                },
+                {
+                    "value": 300,
+                    "untradeable": true,
+                    "halId": 0,
+                    "awardType": "xp",
+                    "assetId": 0,
+                    "count": 1,
+                    "setId": 334392,
+                    "itemData": null
+                }
+            ],
+            "multiplier": 5,
+            "priority": 7
+        },
+        {
+            "objectiveId": 25024,
+            "name": "FUT Champions",
+            "description": "Win 12 games in FUT Champions",
+            "takeMeThereLink": "",
+            "gameArea": 1,
+            "isWeb": false,
+            "awards": [
+                {
+                    "value": 50584112,
+                    "untradeable": true,
+                    "halId": 100,
+                    "awardType": "item",
+                    "assetId": 0,
+                    "count": 1,
+                    "setId": 334393,
+                    "itemData": null,
+                    "itemDataReduced": {
+                        "id": 0,
+                        "untradeable": true,
+                        "assetId": 252464,
+                        "rating": 60,
+                        "itemType": "player",
+                        "resourceId": 50584112,
+                        "discardValue": 0,
+                        "cardsubtypeid": 3,
+                        "preferredPosition": "ST",
+                        "attributeArray": [
+                            81,
+                            57,
+                            44,
+                            58,
+                            28,
+                            59
+                        ],
+                        "teamId": 1944,
+                        "rareflag": 94,
+                        "leagueId": 0,
+                        "nation": 42
+                    }
+                },
+                {
+                    "value": 300,
+                    "untradeable": true,
+                    "halId": 0,
+                    "awardType": "xp",
+                    "assetId": 0,
+                    "count": 1,
+                    "setId": 334393,
+                    "itemData": null
+                }
+            ],
+            "multiplier": 12,
+            "priority": 8
+        }
+    ],
+    "objectivesNumber": 8
+},
+	{
 		"groupId": 47,
 		"priority": 1,
 		"title": "Squad Battles",
