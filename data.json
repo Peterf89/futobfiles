@@ -122,6 +122,7 @@
 				"objectiveId": 25074,
 				"name": "Premier Placement",
 				"description": "Assist a goal with a Cross in 5 separate Rivals wins using Premier League players",
+				"tip": "Use low driven crosses, since headers don't work well at all this FIFA.",
 				"takeMeThereLink": "GotoOnlineRivals",
 				"gameArea": 1,
 				"isWeb": false,
