@@ -1,5 +1,377 @@
 [
 	{
+		"groupId": 960,
+		"endTime": 1588957199,
+		"priority": 96,
+		"title": "TOTSSF Moments Pérez",
+		"subTitle": "Earn TOTSSF Moments Pérez celebrating a hat-trick in a Premier League record away win! All rewards Untradeable",
+		"groupType": 3,
+		"groupState": 0,
+		"awardsList": [
+			{
+				"value": 117656102,
+				"untradeable": true,
+				"halId": 0,
+				"awardType": "item",
+				"assetId": 0,
+				"count": 1,
+				"setId": 344307,
+				"itemData": null,
+				"itemDataReduced": {
+					"id": 0,
+					"untradeable": true,
+					"assetId": 215590,
+					"rating": 89,
+					"itemType": "player",
+					"resourceId": 117656102,
+					"discardValue": 0,
+					"cardsubtypeid": 3,
+					"preferredPosition": "RW",
+					"attributeArray": [
+						88,
+						88,
+						81,
+						89,
+						65,
+						75
+					],
+					"teamId": 95,
+					"rareflag": 65,
+					"leagueId": 0,
+					"nation": 45,
+					"guidAssetId": "10a288624cf5452aa21946d1bcf435b9"
+				}
+			},
+			{
+				"value": 300,
+				"untradeable": true,
+				"halId": 0,
+				"awardType": "xp",
+				"assetId": 0,
+				"count": 1,
+				"setId": 344307,
+				"itemData": null
+			}
+		],
+		"objectives": [
+			{
+				"objectiveId": 25219,
+				"name": "Tenerife Talent",
+				"description": "Score 3 goals in 2 separate Squad Battles matches on min. Professional difficulty (or Rivals) using Spanish players",
+				"takeMeThereLink": "GotoSquadBattle",
+				"gameArea": 1,
+				"isWeb": false,
+				"awards": [
+					{
+						"value": 511,
+						"untradeable": true,
+						"halId": 4,
+						"awardType": "pack",
+						"assetId": 4,
+						"count": 1,
+						"setId": 343160,
+						"itemData": null
+					},
+					{
+						"value": 300,
+						"untradeable": true,
+						"halId": 0,
+						"awardType": "xp",
+						"assetId": 0,
+						"count": 1,
+						"setId": 343160,
+						"itemData": null
+					}
+				],
+				"multiplier": 2,
+				"priority": 4
+			},
+			{
+				"objectiveId": 25220,
+				"name": "Premier League Performer",
+				"description": "Assist and Score in 4 separate Squad Battles matches on min. World Class difficulty (or Rivals) using Premier League players",
+				"takeMeThereLink": "GotoSquadBattle",
+				"gameArea": 1,
+				"isWeb": false,
+				"awards": [
+					{
+						"value": 300,
+						"untradeable": true,
+						"halId": 3,
+						"awardType": "pack",
+						"assetId": 3,
+						"count": 1,
+						"setId": 343161,
+						"itemData": null
+					},
+					{
+						"value": 300,
+						"untradeable": true,
+						"halId": 0,
+						"awardType": "xp",
+						"assetId": 0,
+						"count": 1,
+						"setId": 343161,
+						"itemData": null
+					}
+				],
+				"multiplier": 4,
+				"priority": 3
+			},
+			{
+				"objectiveId": 25221,
+				"name": "World Class Win",
+				"description": "Win by at least 3 goals in Squad Battles on min. World Class difficulty (or Rivals)",
+				"takeMeThereLink": "GotoSquadBattle",
+				"gameArea": 1,
+				"isWeb": false,
+				"awards": [
+					{
+						"value": 519,
+						"untradeable": true,
+						"halId": 4,
+						"awardType": "pack",
+						"assetId": 4,
+						"count": 1,
+						"setId": 343162,
+						"itemData": null
+					},
+					{
+						"value": 300,
+						"untradeable": true,
+						"halId": 0,
+						"awardType": "xp",
+						"assetId": 0,
+						"count": 1,
+						"setId": 343162,
+						"itemData": null
+					}
+				],
+				"multiplier": 1,
+				"priority": 2
+			},
+			{
+				"objectiveId": 25222,
+				"name": "Fine Finishing",
+				"description": "Score a Finesse goal in 7 separate Squad Battles wins on min. World Class difficulty (or Rivals)",
+				"takeMeThereLink": "GotoSquadBattle",
+				"gameArea": 1,
+				"isWeb": false,
+				"awards": [
+					{
+						"value": 515,
+						"untradeable": true,
+						"halId": 4,
+						"awardType": "pack",
+						"assetId": 4,
+						"count": 1,
+						"setId": 343163,
+						"itemData": null
+					},
+					{
+						"value": 300,
+						"untradeable": true,
+						"halId": 0,
+						"awardType": "xp",
+						"assetId": 0,
+						"count": 1,
+						"setId": 343163,
+						"itemData": null
+					}
+				],
+				"multiplier": 7,
+				"priority": 1
+			}
+		],
+		"objectivesNumber": 4
+	},
+	{
+		"groupId": 959,
+		"endTime": 1588957199,
+		"priority": 97,
+		"title": "TOTSSF Jiménez",
+		"subTitle": "Premier League TOTSSF is here! Complete these objectives to earn TOTSSF Jiménez! All rewards Untradeable",
+		"groupType": 3,
+		"groupState": 0,
+		"awardsList": [
+			{
+				"value": 134422566,
+				"untradeable": true,
+				"halId": 0,
+				"awardType": "item",
+				"assetId": 0,
+				"count": 1,
+				"setId": 344306,
+				"itemData": null,
+				"itemDataReduced": {
+					"id": 0,
+					"untradeable": true,
+					"assetId": 204838,
+					"rating": 91,
+					"itemType": "player",
+					"resourceId": 134422566,
+					"discardValue": 0,
+					"cardsubtypeid": 3,
+					"preferredPosition": "ST",
+					"attributeArray": [
+						91,
+						92,
+						89,
+						91,
+						59,
+						91
+					],
+					"teamId": 110,
+					"rareflag": 66,
+					"leagueId": 0,
+					"nation": 83,
+					"guidAssetId": "41c1becda12f4daab4f7c2c4fb1c3e7f"
+				}
+			},
+			{
+				"value": 300,
+				"untradeable": true,
+				"halId": 0,
+				"awardType": "xp",
+				"assetId": 0,
+				"count": 1,
+				"setId": 344306,
+				"itemData": null
+			}
+		],
+		"objectives": [
+			{
+				"objectiveId": 25215,
+				"name": "Made in Mexico",
+				"description": "Assist with a Through Ball in 2 separate Squad Battles matches on min. World Class difficulty (or Rivals) using Mexican players",
+				"takeMeThereLink": "GotoSquadBattle",
+				"gameArea": 1,
+				"isWeb": false,
+				"awards": [
+					{
+						"value": 511,
+						"untradeable": true,
+						"halId": 4,
+						"awardType": "pack",
+						"assetId": 4,
+						"count": 1,
+						"setId": 343150,
+						"itemData": null
+					},
+					{
+						"value": 300,
+						"untradeable": true,
+						"halId": 0,
+						"awardType": "xp",
+						"assetId": 0,
+						"count": 1,
+						"setId": 343150,
+						"itemData": null
+					}
+				],
+				"multiplier": 2,
+				"priority": 4
+			},
+			{
+				"objectiveId": 25216,
+				"name": "Leap to LaLiga",
+				"description": "Score in 3 separate Rivals matches using LaLiga Forwards",
+				"takeMeThereLink": "GotoOnlineRivals",
+				"gameArea": 1,
+				"isWeb": false,
+				"awards": [
+					{
+						"value": 300,
+						"untradeable": true,
+						"halId": 3,
+						"awardType": "pack",
+						"assetId": 3,
+						"count": 1,
+						"setId": 343151,
+						"itemData": null
+					},
+					{
+						"value": 300,
+						"untradeable": true,
+						"halId": 0,
+						"awardType": "xp",
+						"assetId": 0,
+						"count": 1,
+						"setId": 343151,
+						"itemData": null
+					}
+				],
+				"multiplier": 3,
+				"priority": 3
+			},
+			{
+				"objectiveId": 25217,
+				"name": "Eagle Eye",
+				"description": "Score a Finesse goal in 5 separate Rivals matches using Liga NOS players",
+				"takeMeThereLink": "GotoOnlineRivals",
+				"gameArea": 1,
+				"isWeb": false,
+				"awards": [
+					{
+						"value": 519,
+						"untradeable": true,
+						"halId": 4,
+						"awardType": "pack",
+						"assetId": 4,
+						"count": 1,
+						"setId": 343152,
+						"itemData": null
+					},
+					{
+						"value": 300,
+						"untradeable": true,
+						"halId": 0,
+						"awardType": "xp",
+						"assetId": 0,
+						"count": 1,
+						"setId": 343152,
+						"itemData": null
+					}
+				],
+				"multiplier": 5,
+				"priority": 2
+			},
+			{
+				"objectiveId": 25218,
+				"name": "Wolf Pack Attack",
+				"description": "Score and Assist in 8 separate Rivals wins using Premier League players with min. 4* Weak Foot",
+				"takeMeThereLink": "GotoOnlineRivals",
+				"gameArea": 1,
+				"isWeb": false,
+				"awards": [
+					{
+						"value": 515,
+						"untradeable": true,
+						"halId": 4,
+						"awardType": "pack",
+						"assetId": 4,
+						"count": 1,
+						"setId": 343153,
+						"itemData": null
+					},
+					{
+						"value": 300,
+						"untradeable": true,
+						"halId": 0,
+						"awardType": "xp",
+						"assetId": 0,
+						"count": 1,
+						"setId": 343153,
+						"itemData": null
+					}
+				],
+				"multiplier": 8,
+				"priority": 1
+			}
+		],
+		"objectivesNumber": 4
+	}
+	,{
 		"groupId": 913,
 		"endTime": 1588438799,
 		"priority": 93,
