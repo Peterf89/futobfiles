@@ -1,5 +1,117 @@
 [
 	{
+		"groupId": 955,
+		"endTime": 1589561999,
+		"priority": 32,
+		"title": "Week 2 - Bronze",
+		"subTitle": "Week 2 begins",
+		"groupType": 3,
+		"groupState": 0,
+		"awardsList": [
+			{
+				"value": 200,
+				"untradeable": true,
+				"halId": 0,
+				"awardType": "xp",
+				"assetId": 0,
+				"count": 1,
+				"setId": 346307,
+				"itemData": null
+			}
+		],
+		"objectives": [
+			{
+				"objectiveId": 25199,
+				"name": "Play 2",
+				"description": "Play 2 matches in any FUT game mode",
+				"takeMeThereLink": "",
+				"gameArea": 1,
+				"isWeb": false,
+				"awards": [
+					{
+						"value": 300,
+						"untradeable": true,
+						"halId": 0,
+						"awardType": "xp",
+						"assetId": 0,
+						"count": 1,
+						"setId": 343170,
+						"itemData": null
+					}
+				],
+				"multiplier": 2,
+				"priority": 4
+			},
+			{
+				"objectiveId": 25200,
+				"name": "Finesse Shot",
+				"description": "Score with Finesse Shot in any FUT game mode",
+				"takeMeThereLink": "",
+				"gameArea": 1,
+				"isWeb": false,
+				"awards": [
+					{
+						"value": 500,
+						"untradeable": true,
+						"halId": 0,
+						"awardType": "xp",
+						"assetId": 0,
+						"count": 1,
+						"setId": 343171,
+						"itemData": null
+					}
+				],
+				"multiplier": 1,
+				"priority": 3
+			},
+			{
+				"objectiveId": 25201,
+				"name": "Midfield Scorer",
+				"description": "Score using a Midfielder in any FUT game mode",
+				"takeMeThereLink": "",
+				"gameArea": 1,
+				"isWeb": false,
+				"awards": [
+					{
+						"value": 500,
+						"untradeable": true,
+						"halId": 0,
+						"awardType": "xp",
+						"assetId": 0,
+						"count": 1,
+						"setId": 343172,
+						"itemData": null
+					}
+				],
+				"multiplier": 1,
+				"priority": 2
+			},
+			{
+				"objectiveId": 25202,
+				"name": "Assist in 2",
+				"description": "Assist in 2 separate matches in any FUT game mode",
+				"takeMeThereLink": "",
+				"gameArea": 1,
+				"isWeb": false,
+				"awards": [
+					{
+						"value": 500,
+						"untradeable": true,
+						"halId": 0,
+						"awardType": "xp",
+						"assetId": 0,
+						"count": 1,
+						"setId": 343173,
+						"itemData": null
+					}
+				],
+				"multiplier": 2,
+				"priority": 1
+			}
+		],
+		"objectivesNumber": 4
+	},
+	{
 		"groupId": 960,
 		"endTime": 1588957199,
 		"priority": 96,
@@ -1274,6 +1386,7 @@
 		"subTitle": "Assist some goals to level up",
 		"groupType": 3,
 		"groupState": 0,
+		"stackable": true,
 		"awardsList": [
 			{
 				"value": 400,
