@@ -1,5 +1,191 @@
 [
 	{
+		"groupId": 961,
+		"endTime": 1589216399,
+		"priority": 52,
+		"title": "TOTSSF Romarinho",
+		"subTitle": "Saudi Pro League TOTSSF is here! Complete these objectives to earn TOTSSF Romarinho! All rewards Untradeable",
+		"groupType": 3,
+		"groupState": 0,
+		"awardsList": [
+			{
+				"value": 50541088,
+				"untradeable": true,
+				"halId": 0,
+				"awardType": "item",
+				"assetId": 0,
+				"count": 1,
+				"setId": 346301,
+				"itemData": null,
+				"itemDataReduced": {
+					"id": 0,
+					"untradeable": true,
+					"assetId": 209440,
+					"rating": 89,
+					"itemType": "player",
+					"resourceId": 50541088,
+					"discardValue": 0,
+					"cardsubtypeid": 3,
+					"preferredPosition": "ST",
+					"attributeArray": [
+						92,
+						88,
+						82,
+						89,
+						45,
+						79
+					],
+					"teamId": 607,
+					"rareflag": 66,
+					"leagueId": 0,
+					"nation": 54,
+					"guidAssetId": "5fda0dd7026848c7a6806d47e057df64"
+				}
+			},
+			{
+				"value": 300,
+				"untradeable": true,
+				"halId": 0,
+				"awardType": "xp",
+				"assetId": 0,
+				"count": 1,
+				"setId": 346301,
+				"itemData": null
+			}
+		],
+		"objectives": [
+			{
+				"objectiveId": 25227,
+				"name": "Saudi Pro Scorer",
+				"description": "Score in 3 separate Squad Battles matches on min. Professional difficulty (or Rivals) using Saudi Pro League players",
+				"takeMeThereLink": "GotoSquadBattle",
+				"gameArea": 1,
+				"isWeb": false,
+				"awards": [
+					{
+						"value": 511,
+						"untradeable": true,
+						"halId": 4,
+						"awardType": "pack",
+						"assetId": 4,
+						"count": 1,
+						"setId": 345182,
+						"itemData": null
+					},
+					{
+						"value": 300,
+						"untradeable": true,
+						"halId": 0,
+						"awardType": "xp",
+						"assetId": 0,
+						"count": 1,
+						"setId": 345182,
+						"itemData": null
+					}
+				],
+				"multiplier": 3,
+				"priority": 4
+			},
+			{
+				"objectiveId": 25228,
+				"name": "Pacey Poacher",
+				"description": "Score 2 goals in 2 separate Squad Battles matches on min. World Class difficulty (or Rivals) using players with min. 85 PAC",
+				"takeMeThereLink": "GotoSquadBattle",
+				"gameArea": 1,
+				"isWeb": false,
+				"awards": [
+					{
+						"value": 300,
+						"untradeable": true,
+						"halId": 3,
+						"awardType": "pack",
+						"assetId": 3,
+						"count": 1,
+						"setId": 345183,
+						"itemData": null
+					},
+					{
+						"value": 300,
+						"untradeable": true,
+						"halId": 0,
+						"awardType": "xp",
+						"assetId": 0,
+						"count": 1,
+						"setId": 345183,
+						"itemData": null
+					}
+				],
+				"multiplier": 2,
+				"priority": 3
+			},
+			{
+				"objectiveId": 25229,
+				"name": "Skillful Setup",
+				"description": "Assist a goal in 3 separate Rivals matches using players with min. 4* Skill Moves",
+				"takeMeThereLink": "GotoOnlineRivals",
+				"gameArea": 1,
+				"isWeb": false,
+				"awards": [
+					{
+						"value": 519,
+						"untradeable": true,
+						"halId": 4,
+						"awardType": "pack",
+						"assetId": 4,
+						"count": 1,
+						"setId": 345184,
+						"itemData": null
+					},
+					{
+						"value": 300,
+						"untradeable": true,
+						"halId": 0,
+						"awardType": "xp",
+						"assetId": 0,
+						"count": 1,
+						"setId": 345184,
+						"itemData": null
+					}
+				],
+				"multiplier": 3,
+				"priority": 2
+			},
+			{
+				"objectiveId": 25230,
+				"name": "Samba in Saudi",
+				"description": "Score and Assist in 4 Rivals wins using Brazilian players",
+				"takeMeThereLink": "GotoOnlineRivals",
+				"gameArea": 1,
+				"isWeb": false,
+				"awards": [
+					{
+						"value": 515,
+						"untradeable": true,
+						"halId": 4,
+						"awardType": "pack",
+						"assetId": 4,
+						"count": 1,
+						"setId": 345185,
+						"itemData": null
+					},
+					{
+						"value": 300,
+						"untradeable": true,
+						"halId": 0,
+						"awardType": "xp",
+						"assetId": 0,
+						"count": 1,
+						"setId": 345185,
+						"itemData": null
+					}
+				],
+				"multiplier": 4,
+				"priority": 1
+			}
+		],
+		"objectivesNumber": 4
+	},
+	{
 		"groupId": 955,
 		"endTime": 1589561999,
 		"priority": 32,
@@ -482,8 +668,8 @@
 			}
 		],
 		"objectivesNumber": 4
-	}
-	,{
+	},
+	{
 		"groupId": 913,
 		"endTime": 1588438799,
 		"priority": 93,
