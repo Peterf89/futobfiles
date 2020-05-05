@@ -1,5 +1,105 @@
 [
 	{
+		"groupId": 962,
+		"endTime": 1589302799,
+		"priority": 49,
+		"title": "Cinco De Mayo",
+		"subTitle": "Celebrate Cinco De Mayo by completing these objectives to earn an Untradeable Premium Gold Players Pack",
+		"groupType": 3,
+		"groupState": 0,
+		"awardsList": [
+			{
+				"value": 305,
+				"untradeable": true,
+				"halId": 4,
+				"awardType": "pack",
+				"assetId": 55,
+				"count": 1,
+				"setId": 348373,
+				"itemData": null
+			},
+			{
+				"value": 300,
+				"untradeable": true,
+				"halId": 0,
+				"awardType": "xp",
+				"assetId": 0,
+				"count": 1,
+				"setId": 348373,
+				"itemData": null
+			}
+		],
+		"objectives": [
+			{
+				"objectiveId": 25231,
+				"name": "Battle Ready",
+				"description": "Assist in 3 Squad Battles matches on min. Professional difficulty using Liga MX players",
+				"takeMeThereLink": "GotoSquadBattle",
+				"gameArea": 1,
+				"isWeb": false,
+				"awards": [
+					{
+						"value": 300,
+						"untradeable": true,
+						"halId": 0,
+						"awardType": "xp",
+						"assetId": 0,
+						"count": 1,
+						"setId": 347255,
+						"itemData": null
+					}
+				],
+				"multiplier": 3,
+				"priority": 3
+			},
+			{
+				"objectiveId": 25232,
+				"name": "Fireworks!",
+				"description": "Score 2 Volleys using Mexican players in any FUT game mode",
+				"takeMeThereLink": "",
+				"gameArea": 1,
+				"isWeb": false,
+				"awards": [
+					{
+						"value": 300,
+						"untradeable": true,
+						"halId": 0,
+						"awardType": "xp",
+						"assetId": 0,
+						"count": 1,
+						"setId": 347256,
+						"itemData": null
+					}
+				],
+				"multiplier": 2,
+				"priority": 2
+			},
+			{
+				"objectiveId": 25233,
+				"name": "Parading Play",
+				"description": "Play 5 matches in any FUT game mode using at least 3 Mexican players in your starting squad",
+				"takeMeThereLink": "",
+				"gameArea": 1,
+				"isWeb": false,
+				"awards": [
+					{
+						"value": 300,
+						"untradeable": true,
+						"halId": 0,
+						"awardType": "xp",
+						"assetId": 0,
+						"count": 1,
+						"setId": 347257,
+						"itemData": null
+					}
+				],
+				"multiplier": 5,
+				"priority": 1
+			}
+		],
+		"objectivesNumber": 3
+	},
+	{
 		"groupId": 907,
 		"endTime": 1588957199,
 		"priority": 33,
