@@ -1,5 +1,139 @@
 [
 	{
+		"groupId": 957,
+		"endTime": 1589561999,
+		"priority": 30,
+		"title": "Week 2 - Gold",
+		"subTitle": "Lineup and compete using different league combos in this week's challenge!",
+		"groupType": 3,
+		"groupState": 0,
+		"awardsList": [
+			{
+				"value": 733,
+				"untradeable": true,
+				"halId": 0,
+				"awardType": "xp",
+				"assetId": 0,
+				"count": 1,
+				"setId": 348381,
+				"itemData": null
+			}
+		],
+		"objectives": [
+			{
+				"objectiveId": 25207,
+				"name": "3 League Lineup",
+				"description": "Win a Rivals match using a starting squad containing at least 2 players from each of the following leagues: Premier League, Serie A, Bundesliga",
+				"takeMeThereLink": "GotoOnlineRivals",
+				"gameArea": 1,
+				"isWeb": false,
+				"awards": [
+					{
+						"value": 1200,
+						"untradeable": true,
+						"halId": 0,
+						"awardType": "xp",
+						"assetId": 0,
+						"count": 1,
+						"setId": 343178,
+						"itemData": null
+					}
+				],
+				"multiplier": 1,
+				"priority": 5
+			},
+			{
+				"objectiveId": 25208,
+				"name": "5 League Lineup",
+				"description": "Assist 2 goals in Squad Battles on min. Professional difficulty using a starting squad containing at least 1 player from each of the following leagues: Eredivisie, Liga NOS, Süper Lig, La Liga, Ligue 1",
+				"takeMeThereLink": "GotoSquadBattle",
+				"gameArea": 1,
+				"isWeb": false,
+				"awards": [
+					{
+						"value": 1000,
+						"untradeable": true,
+						"halId": 0,
+						"awardType": "xp",
+						"assetId": 0,
+						"count": 1,
+						"setId": 343179,
+						"itemData": null
+					}
+				],
+				"multiplier": 2,
+				"priority": 4
+			},
+			{
+				"objectiveId": 25209,
+				"name": "Winning Formula",
+				"description": "Win 2 Rivals matches using a starting squad containing at least 1 player from each of the following leagues: Serie A, Bundesliga, La Liga, Ligue 1",
+				"takeMeThereLink": "GotoOnlineRivals",
+				"gameArea": 1,
+				"isWeb": false,
+				"awards": [
+					{
+						"value": 1500,
+						"untradeable": true,
+						"halId": 0,
+						"awardType": "xp",
+						"assetId": 0,
+						"count": 1,
+						"setId": 343180,
+						"itemData": null
+					}
+				],
+				"multiplier": 2,
+				"priority": 3
+			},
+			{
+				"objectiveId": 25210,
+				"name": "Score and Assist",
+				"description": "Score using a Serie A player and Assist using a La Liga player in the same Rivals match",
+				"takeMeThereLink": "GotoOnlineRivals",
+				"gameArea": 1,
+				"isWeb": false,
+				"awards": [
+					{
+						"value": 1300,
+						"untradeable": true,
+						"halId": 0,
+						"awardType": "xp",
+						"assetId": 0,
+						"count": 1,
+						"setId": 343181,
+						"itemData": null
+					}
+				],
+				"multiplier": 1,
+				"priority": 2
+			},
+			{
+				"objectiveId": 25211,
+				"name": "Making Progress",
+				"description": "Earn 3,500 Rivals points",
+				"takeMeThereLink": "GotoOnlineRivals",
+				"gameArea": 1,
+				"isWeb": false,
+				"awards": [
+					{
+						"value": 1600,
+						"untradeable": true,
+						"halId": 0,
+						"awardType": "xp",
+						"assetId": 0,
+						"count": 1,
+						"setId": 343182,
+						"itemData": null
+					}
+				],
+				"multiplier": 3500,
+				"priority": 1
+			}
+		],
+		"objectivesNumber": 5
+	},
+	{
 		"groupId": 906,
 		"endTime": 1588957199,
 		"priority": 34,
