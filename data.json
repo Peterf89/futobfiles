@@ -1728,6 +1728,7 @@
 		"subTitle": "Level up for playing Rivals (or Champions)",
 		"groupType": 3,
 		"groupState": 0,
+		"stackable": true,
 		"awardsList": [
 			{
 				"value": 400,
@@ -1840,6 +1841,7 @@
 		"subTitle": "Level up for playing Squad Battles",
 		"groupType": 3,
 		"groupState": 0,
+		"stackable": true,
 		"awardsList": [
 			{
 				"value": 400,
@@ -3117,6 +3119,7 @@
 		"subTitle": "Keep battling over the year to prove you are the Battle Master. All rewards are Untradeable",
 		"groupType": 4,
 		"groupState": 1,
+		"stackable": true,
 		"awardsList": [
 			{
 				"value": 6500089,
@@ -3299,6 +3302,7 @@
 		"subTitle": "Beat your Rivals to prove you are the G.O.A.T. All rewards are Untradeable",
 		"groupType": 4,
 		"groupState": 1,
+		"stackable": true,
 		"awardsList": [
 			{
 				"value": 6500067,
@@ -3481,6 +3485,7 @@
 		"subTitle": "Show everyone you have what it takes to be the Golden G.O.A.T. All rewards are Untradeable",
 		"groupType": 4,
 		"groupState": 1,
+		"stackable": true,
 		"awardsList": [
 			{
 				"value": 6500068,
