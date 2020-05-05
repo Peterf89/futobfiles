@@ -1,5 +1,117 @@
 [
 	{
+		"groupId": 906,
+		"endTime": 1588957199,
+		"priority": 34,
+		"title": "Week 1 - Silver",
+		"subTitle": "Jump into the action and play some FUT!",
+		"groupType": 3,
+		"groupState": 0,
+		"awardsList": [
+			{
+				"value": 400,
+				"untradeable": true,
+				"halId": 0,
+				"awardType": "xp",
+				"assetId": 0,
+				"count": 1,
+				"setId": 348377,
+				"itemData": null
+			}
+		],
+		"objectives": [
+			{
+				"objectiveId": 25041,
+				"name": "3 Lions",
+				"description": "Score 3 goals using English players in any FUT game mode",
+				"takeMeThereLink": "",
+				"gameArea": 1,
+				"isWeb": false,
+				"awards": [
+					{
+						"value": 500,
+						"untradeable": true,
+						"halId": 0,
+						"awardType": "xp",
+						"assetId": 0,
+						"count": 1,
+						"setId": 334438,
+						"itemData": null
+					}
+				],
+				"multiplier": 3,
+				"priority": 4
+			},
+			{
+				"objectiveId": 25042,
+				"name": "2 Goal Cushion",
+				"description": "Win by at least 2 goals in Squad Battles on min. Semi-Pro difficulty",
+				"takeMeThereLink": "GotoSquadBattle",
+				"gameArea": 1,
+				"isWeb": false,
+				"awards": [
+					{
+						"value": 1000,
+						"untradeable": true,
+						"halId": 0,
+						"awardType": "xp",
+						"assetId": 0,
+						"count": 1,
+						"setId": 334439,
+						"itemData": null
+					}
+				],
+				"multiplier": 1,
+				"priority": 3
+			},
+			{
+				"objectiveId": 25043,
+				"name": "Key Crosser",
+				"description": "Assist 3 goals with Crosses in Squad Battles on min. Semi-Pro difficulty",
+				"takeMeThereLink": "GotoSquadBattle",
+				"gameArea": 1,
+				"isWeb": false,
+				"awards": [
+					{
+						"value": 1200,
+						"untradeable": true,
+						"halId": 0,
+						"awardType": "xp",
+						"assetId": 0,
+						"count": 1,
+						"setId": 334440,
+						"itemData": null
+					}
+				],
+				"multiplier": 3,
+				"priority": 2
+			},
+			{
+				"objectiveId": 25044,
+				"name": "Sweet Spot",
+				"description": "Score a Volley in 2 separate matches in any FUT game mode",
+				"takeMeThereLink": "",
+				"gameArea": 1,
+				"isWeb": false,
+				"awards": [
+					{
+						"value": 900,
+						"untradeable": true,
+						"halId": 0,
+						"awardType": "xp",
+						"assetId": 0,
+						"count": 1,
+						"setId": 334441,
+						"itemData": null
+					}
+				],
+				"multiplier": 2,
+				"priority": 1
+			}
+		],
+		"objectivesNumber": 4
+	},
+	{
 		"groupId": 956,
 		"endTime": 1589561999,
 		"priority": 31,
