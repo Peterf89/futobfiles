@@ -1,5 +1,139 @@
 [
 	{
+		"groupId": 907,
+		"endTime": 1588957199,
+		"priority": 33,
+		"title": "Week 1 - Gold",
+		"subTitle": "Become a complete Midfield player in this week's challenge!",
+		"groupType": 3,
+		"groupState": 0,
+		"awardsList": [
+			{
+				"value": 733,
+				"untradeable": true,
+				"halId": 0,
+				"awardType": "xp",
+				"assetId": 0,
+				"count": 1,
+				"setId": 348378,
+				"itemData": null
+			}
+		],
+		"objectives": [
+			{
+				"objectiveId": 25045,
+				"name": "Attack Minded",
+				"description": "Assist 2 goals in Rivals using Midfielders with min. 4* Skill Moves",
+				"takeMeThereLink": "GotoOnlineRivals",
+				"gameArea": 1,
+				"isWeb": false,
+				"awards": [
+					{
+						"value": 1400,
+						"untradeable": true,
+						"halId": 0,
+						"awardType": "xp",
+						"assetId": 0,
+						"count": 1,
+						"setId": 334442,
+						"itemData": null
+					}
+				],
+				"multiplier": 2,
+				"priority": 5
+			},
+			{
+				"objectiveId": 25046,
+				"name": "Midfield Brace",
+				"description": "Score 2 goals using Midfielders in the same match in Squad Battles on min. Professional difficulty",
+				"takeMeThereLink": "GotoSquadBattle",
+				"gameArea": 1,
+				"isWeb": false,
+				"awards": [
+					{
+						"value": 1200,
+						"untradeable": true,
+						"halId": 0,
+						"awardType": "xp",
+						"assetId": 0,
+						"count": 1,
+						"setId": 334443,
+						"itemData": null
+					}
+				],
+				"multiplier": 1,
+				"priority": 4
+			},
+			{
+				"objectiveId": 25047,
+				"name": "All Rounder",
+				"description": "Assist and Score using Midfielders in the same Rivals match",
+				"takeMeThereLink": "GotoOnlineRivals",
+				"gameArea": 1,
+				"isWeb": false,
+				"awards": [
+					{
+						"value": 1350,
+						"untradeable": true,
+						"halId": 0,
+						"awardType": "xp",
+						"assetId": 0,
+						"count": 1,
+						"setId": 334444,
+						"itemData": null
+					}
+				],
+				"multiplier": 1,
+				"priority": 3
+			},
+			{
+				"objectiveId": 25048,
+				"name": "Engine Room",
+				"description": "Win in Rivals using at least 5 Midfielders in your starting squad",
+				"takeMeThereLink": "GotoOnlineRivals",
+				"gameArea": 1,
+				"isWeb": false,
+				"awards": [
+					{
+						"value": 1300,
+						"untradeable": true,
+						"halId": 0,
+						"awardType": "xp",
+						"assetId": 0,
+						"count": 1,
+						"setId": 334445,
+						"itemData": null
+					}
+				],
+				"multiplier": 1,
+				"priority": 2
+			},
+			{
+				"objectiveId": 25049,
+				"name": "Left and Right",
+				"description": "Score a goal in 2 separate Rivals matches using Midfielders with min. 4* Weak Foot",
+				"takeMeThereLink": "GotoOnlineRivals",
+				"gameArea": 1,
+				"isWeb": false,
+				"awards": [
+					{
+						"value": 1350,
+						"untradeable": true,
+						"halId": 0,
+						"awardType": "xp",
+						"assetId": 0,
+						"count": 1,
+						"setId": 334446,
+						"itemData": null
+					}
+				],
+				"multiplier": 2,
+				"priority": 1
+			}
+		],
+		"objectivesNumber": 5
+	},
+	{
 		"groupId": 957,
 		"endTime": 1589561999,
 		"priority": 30,
