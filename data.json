@@ -1,5 +1,170 @@
 [
 	{
+		"groupId": 963,
+		"endTime": 1590278400,
+		"priority": 48,
+		"title": "Ramadan Kit",
+		"subTitle": "Observe Ramadan in style with the new Ramadan Kit! Complete these objectives to earn Untradeable rewards",
+		"groupType": 3,
+		"groupState": 0,
+		"awardsList": [
+			{
+				"value": 6308283,
+				"untradeable": true,
+				"halId": 0,
+				"awardType": "item",
+				"assetId": 0,
+				"count": 1,
+				"setId": 350694,
+				"itemData": null,
+				"itemDataReduced": {
+					"id": 0,
+					"untradeable": true,
+					"assetId": 14,
+					"rating": 99,
+					"itemType": "kit",
+					"resourceId": 6308283,
+					"discardValue": 0,
+					"cardsubtypeid": 9,
+					"attributeList": [],
+					"teamId": 113693,
+					"rareflag": 1,
+					"leagueId": 0,
+					"category": 2
+				}
+			},
+			{
+				"value": 300,
+				"untradeable": true,
+				"halId": 0,
+				"awardType": "xp",
+				"assetId": 0,
+				"count": 1,
+				"setId": 350694,
+				"itemData": null
+			}
+		],
+		"objectives": [
+			{
+				"objectiveId": 25234,
+				"name": "Score 10",
+				"description": "Score 10 goals in any FUT game mode",
+				"takeMeThereLink": "",
+				"gameArea": 1,
+				"isWeb": false,
+				"awards": [
+					{
+						"value": 6600255,
+						"untradeable": true,
+						"halId": 0,
+						"awardType": "item",
+						"assetId": 0,
+						"count": 1,
+						"setId": 349575,
+						"itemData": null,
+						"itemDataReduced": {
+							"id": 0,
+							"untradeable": true,
+							"assetId": 6600255,
+							"rating": 80,
+							"itemType": "banner",
+							"resourceId": 6600255,
+							"discardValue": 0,
+							"cardsubtypeid": 14,
+							"attributeList": [],
+							"teamId": 0,
+							"rareflag": 0,
+							"leagueId": 0,
+							"cardassetid": 66
+						}
+					},
+					{
+						"value": 300,
+						"untradeable": true,
+						"halId": 0,
+						"awardType": "xp",
+						"assetId": 0,
+						"count": 1,
+						"setId": 349575,
+						"itemData": null
+					}
+				],
+				"multiplier": 10,
+				"priority": 3
+			},
+			{
+				"objectiveId": 25235,
+				"name": "Assist 8",
+				"description": "Assist 8 goals in any FUT game mode",
+				"takeMeThereLink": "",
+				"gameArea": 1,
+				"isWeb": false,
+				"awards": [
+					{
+						"value": 6500255,
+						"untradeable": true,
+						"halId": 0,
+						"awardType": "item",
+						"assetId": 0,
+						"count": 1,
+						"setId": 349576,
+						"itemData": null,
+						"itemDataReduced": {
+							"id": 0,
+							"untradeable": true,
+							"assetId": 6500255,
+							"rating": 80,
+							"itemType": "tifo",
+							"resourceId": 6500255,
+							"discardValue": 0,
+							"cardsubtypeid": 13,
+							"attributeList": [],
+							"teamId": 0,
+							"rareflag": 0,
+							"leagueId": 0,
+							"cardassetid": 65
+						}
+					},
+					{
+						"value": 300,
+						"untradeable": true,
+						"halId": 0,
+						"awardType": "xp",
+						"assetId": 0,
+						"count": 1,
+						"setId": 349576,
+						"itemData": null
+					}
+				],
+				"multiplier": 8,
+				"priority": 2
+			},
+			{
+				"objectiveId": 25236,
+				"name": "Play 5",
+				"description": "Play 5 matches in any FUT game mode",
+				"takeMeThereLink": "",
+				"gameArea": 1,
+				"isWeb": false,
+				"awards": [
+					{
+						"value": 300,
+						"untradeable": true,
+						"halId": 0,
+						"awardType": "xp",
+						"assetId": 0,
+						"count": 1,
+						"setId": 349577,
+						"itemData": null
+					}
+				],
+				"multiplier": 5,
+				"priority": 1
+			}
+		],
+		"objectivesNumber": 3
+	},
+	{
 		"groupId": 962,
 		"endTime": 1589302799,
 		"priority": 49,
