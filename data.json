@@ -584,6 +584,7 @@
 				"objectiveId": 25258,
 				"name": "Scoring Spaniard",
 				"description": "Score a Finesse goal in 4 separate Rivals matches using Spanish players with max. 3* Weak Foot",
+				"tip": "Use Rodrigo (Valencia) and/or Inaki Williams to combine this objective with 'LaLiga Lightning'.",
 				"takeMeThereLink": "GotoOnlineRivals",
 				"gameArea": 1,
 				"isWeb": false,
@@ -615,7 +616,8 @@
 			{
 				"objectiveId": 25259,
 				"name": "LaLiga Lightning",
-				"description": "Score and Assist in 8 separate Rivals wins using LaLiga players with min. 86 PAC",
+				"description": "Score and Assist in 8 separate Rivals wins using LaLiga players with min. 86 PAC",				
+				"tip": "Use Rodrigo (Valencia) and/or Inaki Williams to combine this objective with 'Scoring Spaniard'.",
 				"takeMeThereLink": "GotoOnlineRivals",
 				"gameArea": 1,
 				"isWeb": false,
