@@ -1,5 +1,768 @@
 [
 	{
+		"groupId": 958,
+		"endTime": 1591376399,
+		"priority": 51,
+		"title": "TOTSSF Kit",
+		"subTitle": "Celebrate TOTSSF in style with the new TOTSSF Kit! Complete these objectives to earn Untradeable rewards",
+		"groupType": 3,
+		"groupState": 0,
+		"awardsList": [
+			{
+				"value": 6307614,
+				"untradeable": true,
+				"halId": 0,
+				"awardType": "item",
+				"assetId": 0,
+				"count": 1,
+				"setId": 357262,
+				"itemData": null,
+				"itemDataReduced": {
+					"id": 0,
+					"untradeable": true,
+					"assetId": 14,
+					"rating": 99,
+					"itemType": "kit",
+					"resourceId": 6307614,
+					"discardValue": 0,
+					"cardsubtypeid": 9,
+					"attributeList": [],
+					"teamId": 113285,
+					"rareflag": 1,
+					"leagueId": 0,
+					"category": 2
+				}
+			},
+			{
+				"value": 300,
+				"untradeable": true,
+				"halId": 0,
+				"awardType": "xp",
+				"assetId": 0,
+				"count": 1,
+				"setId": 357262,
+				"itemData": null
+			}
+		],
+		"objectives": [
+			{
+				"objectiveId": 25212,
+				"name": "Rival 5",
+				"description": "Play 5 Rivals matches",
+				"takeMeThereLink": "GotoOnlineRivals",
+				"gameArea": 1,
+				"isWeb": false,
+				"awards": [
+					{
+						"value": 6600251,
+						"untradeable": true,
+						"halId": 0,
+						"awardType": "item",
+						"assetId": 0,
+						"count": 1,
+						"setId": 356970,
+						"itemData": null,
+						"itemDataReduced": {
+							"id": 0,
+							"untradeable": true,
+							"assetId": 6600251,
+							"rating": 80,
+							"itemType": "banner",
+							"resourceId": 6600251,
+							"discardValue": 0,
+							"cardsubtypeid": 14,
+							"attributeList": [],
+							"teamId": 0,
+							"rareflag": 0,
+							"leagueId": 0,
+							"cardassetid": 66
+						}
+					},
+					{
+						"value": 300,
+						"untradeable": true,
+						"halId": 0,
+						"awardType": "xp",
+						"assetId": 0,
+						"count": 1,
+						"setId": 356970,
+						"itemData": null
+					}
+				],
+				"multiplier": 5,
+				"priority": 3
+			},
+			{
+				"objectiveId": 25213,
+				"name": "Friendly 5",
+				"description": "Play 5 Online Friendly matches",
+				"takeMeThereLink": "GotoHouseRules",
+				"gameArea": 1,
+				"isWeb": false,
+				"awards": [
+					{
+						"value": 300,
+						"untradeable": true,
+						"halId": 0,
+						"awardType": "xp",
+						"assetId": 0,
+						"count": 1,
+						"setId": 356971,
+						"itemData": null
+					}
+				],
+				"multiplier": 5,
+				"priority": 2
+			},
+			{
+				"objectiveId": 25214,
+				"name": "Battle 5",
+				"description": "Play 5 Squad Battles matches",
+				"takeMeThereLink": "GotoSquadBattle",
+				"gameArea": 1,
+				"isWeb": false,
+				"awards": [
+					{
+						"value": 300,
+						"untradeable": true,
+						"halId": 0,
+						"awardType": "xp",
+						"assetId": 0,
+						"count": 1,
+						"setId": 356972,
+						"itemData": null
+					}
+				],
+				"multiplier": 5,
+				"priority": 1
+			}
+		],
+		"objectivesNumber": 3
+	},
+	{
+		"groupId": 965,
+		"endTime": 1590166799,
+		"priority": 29,
+		"title": "Week 3 - Bronze",
+		"subTitle": "Week 3 begins",
+		"groupType": 3,
+		"groupState": 0,
+		"awardsList": [
+			{
+				"value": 6500249,
+				"untradeable": true,
+				"halId": 0,
+				"awardType": "item",
+				"assetId": 0,
+				"count": 1,
+				"setId": 357274,
+				"itemData": null,
+				"itemDataReduced": {
+					"id": 0,
+					"untradeable": true,
+					"assetId": 6500249,
+					"rating": 70,
+					"itemType": "tifo",
+					"resourceId": 6500249,
+					"discardValue": 0,
+					"cardsubtypeid": 13,
+					"attributeList": [],
+					"teamId": 0,
+					"rareflag": 0,
+					"leagueId": 0,
+					"cardassetid": 65
+				}
+			},
+			{
+				"value": 200,
+				"untradeable": true,
+				"halId": 0,
+				"awardType": "xp",
+				"assetId": 0,
+				"count": 1,
+				"setId": 357274,
+				"itemData": null
+			}
+		],
+		"objectives": [
+			{
+				"objectiveId": 25243,
+				"name": "Assist 3",
+				"description": "Assist 3 goals in any FUT game mode",
+				"takeMeThereLink": "",
+				"gameArea": 1,
+				"isWeb": false,
+				"awards": [
+					{
+						"value": 450,
+						"untradeable": true,
+						"halId": 0,
+						"awardType": "xp",
+						"assetId": 0,
+						"count": 1,
+						"setId": 356112,
+						"itemData": null
+					}
+				],
+				"multiplier": 3,
+				"priority": 4
+			},
+			{
+				"objectiveId": 25244,
+				"name": "Play 4",
+				"description": "Play 4 matches in any FUT game mode",
+				"takeMeThereLink": "",
+				"gameArea": 1,
+				"isWeb": false,
+				"awards": [
+					{
+						"value": 450,
+						"untradeable": true,
+						"halId": 0,
+						"awardType": "xp",
+						"assetId": 0,
+						"count": 1,
+						"setId": 356113,
+						"itemData": null
+					}
+				],
+				"multiplier": 4,
+				"priority": 3
+			},
+			{
+				"objectiveId": 25245,
+				"name": "Sweet Spot",
+				"description": "Score a volley in any FUT game mode",
+				"takeMeThereLink": "",
+				"gameArea": 1,
+				"isWeb": false,
+				"awards": [
+					{
+						"value": 450,
+						"untradeable": true,
+						"halId": 0,
+						"awardType": "xp",
+						"assetId": 0,
+						"count": 1,
+						"setId": 356114,
+						"itemData": null
+					}
+				],
+				"multiplier": 1,
+				"priority": 2
+			},
+			{
+				"objectiveId": 25246,
+				"name": "Score 3",
+				"description": "Score 3 goals in any FUT game mode",
+				"takeMeThereLink": "",
+				"gameArea": 1,
+				"isWeb": false,
+				"awards": [
+					{
+						"value": 450,
+						"untradeable": true,
+						"halId": 0,
+						"awardType": "xp",
+						"assetId": 0,
+						"count": 1,
+						"setId": 356115,
+						"itemData": null
+					}
+				],
+				"multiplier": 3,
+				"priority": 1
+			}
+		],
+		"objectivesNumber": 4
+	},
+	{
+		"groupId": 969,
+		"endTime": 1589561999,
+		"priority": 54,
+		"title": "TOTSSF Moments Mariano",
+		"subTitle": "Earn TOTSSF Moments Mariano celebrating his super sub impact in El Clásico! All rewards Untradeable",
+		"groupType": 3,
+		"groupState": 0,
+		"awardsList": [
+			{
+				"value": 67330503,
+				"untradeable": true,
+				"halId": 0,
+				"awardType": "item",
+				"assetId": 0,
+				"count": 1,
+				"setId": 357260,
+				"itemData": null,
+				"itemDataReduced": {
+					"id": 0,
+					"untradeable": true,
+					"assetId": 221639,
+					"rating": 89,
+					"itemType": "player",
+					"resourceId": 67330503,
+					"discardValue": 0,
+					"cardsubtypeid": 3,
+					"preferredPosition": "ST",
+					"attributeArray": [
+						91,
+						93,
+						80,
+						88,
+						55,
+						87
+					],
+					"teamId": 243,
+					"rareflag": 65,
+					"leagueId": 0,
+					"nation": 207,
+					"guidAssetId": "ab40a9e5157c4c7daeef19aaca542901"
+				}
+			},
+			{
+				"value": 300,
+				"untradeable": true,
+				"halId": 0,
+				"awardType": "xp",
+				"assetId": 0,
+				"count": 1,
+				"setId": 357260,
+				"itemData": null
+			}
+		],
+		"objectives": [
+			{
+				"objectiveId": 25260,
+				"name": "LaLiga Liftoff",
+				"description": "Score 3 goals in 2 separate Squad Battles matches on min. Professional difficulty (or Rivals) using LaLiga players",
+				"takeMeThereLink": "GotoSquadBattle",
+				"gameArea": 1,
+				"isWeb": false,
+				"awards": [
+					{
+						"value": 511,
+						"untradeable": true,
+						"halId": 4,
+						"awardType": "pack",
+						"assetId": 4,
+						"count": 1,
+						"setId": 356088,
+						"itemData": null
+					},
+					{
+						"value": 300,
+						"untradeable": true,
+						"halId": 0,
+						"awardType": "xp",
+						"assetId": 0,
+						"count": 1,
+						"setId": 356088,
+						"itemData": null
+					}
+				],
+				"multiplier": 2,
+				"priority": 4
+			},
+			{
+				"objectiveId": 25261,
+				"name": "Physical Forward",
+				"description": "Assist and Score in 4 separate Squad Battles matches on min. World Class difficulty (or Rivals) using Forwards with min. 80 PHY",
+				"takeMeThereLink": "GotoSquadBattle",
+				"gameArea": 1,
+				"isWeb": false,
+				"awards": [
+					{
+						"value": 300,
+						"untradeable": true,
+						"halId": 3,
+						"awardType": "pack",
+						"assetId": 3,
+						"count": 1,
+						"setId": 356089,
+						"itemData": null
+					},
+					{
+						"value": 300,
+						"untradeable": true,
+						"halId": 0,
+						"awardType": "xp",
+						"assetId": 0,
+						"count": 1,
+						"setId": 356089,
+						"itemData": null
+					}
+				],
+				"multiplier": 4,
+				"priority": 3
+			},
+			{
+				"objectiveId": 25262,
+				"name": "Clean Sheet Success",
+				"description": "Win by at least 2 goals and keep a Clean Sheet in Squad Battles on min. World Class difficulty (or Rivals)",
+				"takeMeThereLink": "GotoSquadBattle",
+				"gameArea": 1,
+				"isWeb": false,
+				"awards": [
+					{
+						"value": 519,
+						"untradeable": true,
+						"halId": 4,
+						"awardType": "pack",
+						"assetId": 4,
+						"count": 1,
+						"setId": 356090,
+						"itemData": null
+					},
+					{
+						"value": 300,
+						"untradeable": true,
+						"halId": 0,
+						"awardType": "xp",
+						"assetId": 0,
+						"count": 1,
+						"setId": 356090,
+						"itemData": null
+					}
+				],
+				"multiplier": 1,
+				"priority": 2
+			},
+			{
+				"objectiveId": 25263,
+				"name": "Magic Mariano",
+				"description": "Score a Finesse goal in 6 separate Squad Battles wins on min. World Class difficulty (or Rivals) using players with min. 4* Weak Foot",
+				"takeMeThereLink": "GotoSquadBattle",
+				"gameArea": 1,
+				"isWeb": false,
+				"awards": [
+					{
+						"value": 515,
+						"untradeable": true,
+						"halId": 4,
+						"awardType": "pack",
+						"assetId": 4,
+						"count": 1,
+						"setId": 356091,
+						"itemData": null
+					},
+					{
+						"value": 300,
+						"untradeable": true,
+						"halId": 0,
+						"awardType": "xp",
+						"assetId": 0,
+						"count": 1,
+						"setId": 356091,
+						"itemData": null
+					}
+				],
+				"multiplier": 6,
+				"priority": 1
+			}
+		],
+		"objectivesNumber": 4
+	},
+	{
+		"groupId": 968,
+		"endTime": 1590166799,
+		"priority": 55,
+		"title": "TOTSSF Reguilón",
+		"subTitle": "LaLiga TOTSSF is here! Complete these objectives to earn TOTSSF Reguilón! All rewards Untradeable",
+		"groupType": 3,
+		"groupState": 0,
+		"awardsList": [
+			{
+				"value": 84131359,
+				"untradeable": true,
+				"halId": 0,
+				"awardType": "item",
+				"assetId": 0,
+				"count": 1,
+				"setId": 357259,
+				"itemData": null,
+				"itemDataReduced": {
+					"id": 0,
+					"untradeable": true,
+					"assetId": 245279,
+					"rating": 92,
+					"itemType": "player",
+					"resourceId": 84131359,
+					"discardValue": 0,
+					"cardsubtypeid": 1,
+					"preferredPosition": "LB",
+					"attributeArray": [
+						96,
+						65,
+						88,
+						91,
+						90,
+						88
+					],
+					"teamId": 481,
+					"rareflag": 66,
+					"leagueId": 0,
+					"nation": 45
+				}
+			},
+			{
+				"value": 300,
+				"untradeable": true,
+				"halId": 0,
+				"awardType": "xp",
+				"assetId": 0,
+				"count": 1,
+				"setId": 357259,
+				"itemData": null
+			}
+		],
+		"objectives": [
+			{
+				"objectiveId": 25256,
+				"name": "Castilla Creator",
+				"description": "Assist with a Through Ball in 2 separate Rivals matches using Spanish players",
+				"takeMeThereLink": "GotoOnlineRivals",
+				"gameArea": 1,
+				"isWeb": false,
+				"awards": [
+					{
+						"value": 511,
+						"untradeable": true,
+						"halId": 4,
+						"awardType": "pack",
+						"assetId": 4,
+						"count": 1,
+						"setId": 356084,
+						"itemData": null
+					},
+					{
+						"value": 300,
+						"untradeable": true,
+						"halId": 0,
+						"awardType": "xp",
+						"assetId": 0,
+						"count": 1,
+						"setId": 356084,
+						"itemData": null
+					}
+				],
+				"multiplier": 2,
+				"priority": 4
+			},
+			{
+				"objectiveId": 25257,
+				"name": "Defensive Delivery",
+				"description": "Assist in 3 separate Rivals matches using LaLiga Defenders",
+				"takeMeThereLink": "GotoOnlineRivals",
+				"gameArea": 1,
+				"isWeb": false,
+				"awards": [
+					{
+						"value": 300,
+						"untradeable": true,
+						"halId": 3,
+						"awardType": "pack",
+						"assetId": 3,
+						"count": 1,
+						"setId": 356085,
+						"itemData": null
+					},
+					{
+						"value": 300,
+						"untradeable": true,
+						"halId": 0,
+						"awardType": "xp",
+						"assetId": 0,
+						"count": 1,
+						"setId": 356085,
+						"itemData": null
+					}
+				],
+				"multiplier": 3,
+				"priority": 3
+			},
+			{
+				"objectiveId": 25258,
+				"name": "Scoring Spaniard",
+				"description": "Score a Finesse goal in 4 separate Rivals matches using Spanish players with max. 3* Weak Foot",
+				"takeMeThereLink": "GotoOnlineRivals",
+				"gameArea": 1,
+				"isWeb": false,
+				"awards": [
+					{
+						"value": 519,
+						"untradeable": true,
+						"halId": 4,
+						"awardType": "pack",
+						"assetId": 4,
+						"count": 1,
+						"setId": 356086,
+						"itemData": null
+					},
+					{
+						"value": 300,
+						"untradeable": true,
+						"halId": 0,
+						"awardType": "xp",
+						"assetId": 0,
+						"count": 1,
+						"setId": 356086,
+						"itemData": null
+					}
+				],
+				"multiplier": 4,
+				"priority": 2
+			},
+			{
+				"objectiveId": 25259,
+				"name": "LaLiga Lightning",
+				"description": "Score and Assist in 8 separate Rivals wins using LaLiga players with min. 86 PAC",
+				"takeMeThereLink": "GotoOnlineRivals",
+				"gameArea": 1,
+				"isWeb": false,
+				"awards": [
+					{
+						"value": 515,
+						"untradeable": true,
+						"halId": 4,
+						"awardType": "pack",
+						"assetId": 4,
+						"count": 1,
+						"setId": 356087,
+						"itemData": null
+					},
+					{
+						"value": 300,
+						"untradeable": true,
+						"halId": 0,
+						"awardType": "xp",
+						"assetId": 0,
+						"count": 1,
+						"setId": 356087,
+						"itemData": null
+					}
+				],
+				"multiplier": 8,
+				"priority": 1
+			}
+		],
+		"objectivesNumber": 4
+	},
+	{
+		"groupId": 964,
+		"endTime": 1589475599,
+		"priority": 47,
+		"title": "PSG Retro Kit",
+		"subTitle": "Roll back the years in style with the PSG Retro Kit! Complete these objectives to earn Untradeable rewards",
+		"groupType": 3,
+		"groupState": 0,
+		"awardsList": [
+			{
+				"value": 6310859,
+				"untradeable": true,
+				"halId": 0,
+				"awardType": "item",
+				"assetId": 0,
+				"count": 1,
+				"setId": 357265,
+				"itemData": null,
+				"itemDataReduced": {
+					"id": 0,
+					"untradeable": true,
+					"assetId": 14,
+					"rating": 99,
+					"itemType": "kit",
+					"resourceId": 6310859,
+					"discardValue": 0,
+					"cardsubtypeid": 9,
+					"attributeList": [],
+					"teamId": 114684,
+					"rareflag": 1,
+					"leagueId": 0,
+					"category": 2
+				}
+			},
+			{
+				"value": 300,
+				"untradeable": true,
+				"halId": 0,
+				"awardType": "xp",
+				"assetId": 0,
+				"count": 1,
+				"setId": 357265,
+				"itemData": null
+			}
+		],
+		"objectives": [
+			{
+				"objectiveId": 25240,
+				"name": "French Finishers",
+				"description": "Score 5 goals in Squad Battles on min. Semi-Pro difficulty using French players",
+				"takeMeThereLink": "GotoSquadBattle",
+				"gameArea": 1,
+				"isWeb": false,
+				"awards": [
+					{
+						"value": 300,
+						"untradeable": true,
+						"halId": 0,
+						"awardType": "xp",
+						"assetId": 0,
+						"count": 1,
+						"setId": 352033,
+						"itemData": null
+					}
+				],
+				"multiplier": 5,
+				"priority": 3
+			},
+			{
+				"objectiveId": 25241,
+				"name": "Ligue 1 Legacy",
+				"description": "Assist in 4 separate matches in any FUT game mode using Ligue 1 players",
+				"takeMeThereLink": "",
+				"gameArea": 1,
+				"isWeb": false,
+				"awards": [
+					{
+						"value": 300,
+						"untradeable": true,
+						"halId": 0,
+						"awardType": "xp",
+						"assetId": 0,
+						"count": 1,
+						"setId": 352034,
+						"itemData": null
+					}
+				],
+				"multiplier": 4,
+				"priority": 2
+			},
+			{
+				"objectiveId": 25242,
+				"name": "Parisian Pals",
+				"description": "Score in 3 separate Friendly matches using PSG players",
+				"takeMeThereLink": "GotoHouseRules",
+				"gameArea": 1,
+				"isWeb": false,
+				"awards": [
+					{
+						"value": 300,
+						"untradeable": true,
+						"halId": 0,
+						"awardType": "xp",
+						"assetId": 0,
+						"count": 1,
+						"setId": 352035,
+						"itemData": null
+					}
+				],
+				"multiplier": 3,
+				"priority": 1
+			}
+		],
+		"objectivesNumber": 3
+	},
+	{
 		"groupId": 963,
 		"endTime": 1590278400,
 		"priority": 48,
