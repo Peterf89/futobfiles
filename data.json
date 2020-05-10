@@ -1,5 +1,139 @@
 [
 	{
+		"groupId": 967,
+		"endTime": 1590166799,
+		"priority": 27,
+		"title": "Week 3 - Gold",
+		"subTitle": "Score, Assist and Win to progress in this week's challenge!",
+		"groupType": 3,
+		"groupState": 0,
+		"awardsList": [
+			{
+				"value": 733,
+				"untradeable": true,
+				"halId": 0,
+				"awardType": "xp",
+				"assetId": 0,
+				"count": 1,
+				"setId": 359321,
+				"itemData": null
+			}
+		],
+		"objectives": [
+			{
+				"objectiveId": 25251,
+				"name": "Skillful Setup",
+				"description": "Assist and Score in the same match in 2 Rivals matches using players with a min. Skill Moves rating of 4*",
+				"takeMeThereLink": "GotoOnlineRivals",
+				"gameArea": 1,
+				"isWeb": false,
+				"awards": [
+					{
+						"value": 1200,
+						"untradeable": true,
+						"halId": 0,
+						"awardType": "xp",
+						"assetId": 0,
+						"count": 1,
+						"setId": 356120,
+						"itemData": null
+					}
+				],
+				"multiplier": 2,
+				"priority": 5
+			},
+			{
+				"objectiveId": 25252,
+				"name": "Magnificent Midfield",
+				"description": "Assist and Score in the same Rivals win using Midfielders",
+				"takeMeThereLink": "GotoOnlineRivals",
+				"gameArea": 1,
+				"isWeb": false,
+				"awards": [
+					{
+						"value": 1000,
+						"untradeable": true,
+						"halId": 0,
+						"awardType": "xp",
+						"assetId": 0,
+						"count": 1,
+						"setId": 356121,
+						"itemData": null
+					}
+				],
+				"multiplier": 1,
+				"priority": 3
+			},
+			{
+				"objectiveId": 25253,
+				"name": "Pass and Shoot",
+				"description": "Assist and Score in the same Rivals match using players with a min. SHO rating of 82",
+				"takeMeThereLink": "GotoOnlineRivals",
+				"gameArea": 1,
+				"isWeb": false,
+				"awards": [
+					{
+						"value": 1350,
+						"untradeable": true,
+						"halId": 0,
+						"awardType": "xp",
+						"assetId": 0,
+						"count": 1,
+						"setId": 356122,
+						"itemData": null
+					}
+				],
+				"multiplier": 1,
+				"priority": 2
+			},
+			{
+				"objectiveId": 25254,
+				"name": "Double-Double",
+				"description": "Assist 2 and Score 2 in the same Squad Battles match on min. Professional difficulty, using at least 4 Serie A players in your starting squad",
+				"takeMeThereLink": "GotoSquadBattle",
+				"gameArea": 1,
+				"isWeb": false,
+				"awards": [
+					{
+						"value": 1450,
+						"untradeable": true,
+						"halId": 0,
+						"awardType": "xp",
+						"assetId": 0,
+						"count": 1,
+						"setId": 356123,
+						"itemData": null
+					}
+				],
+				"multiplier": 1,
+				"priority": 1
+			},
+			{
+				"objectiveId": 25255,
+				"name": "Making Progress",
+				"description": "Earn 3,500 Rivals points",
+				"takeMeThereLink": "",
+				"gameArea": 1,
+				"isWeb": false,
+				"awards": [
+					{
+						"value": 1600,
+						"untradeable": true,
+						"halId": 0,
+						"awardType": "xp",
+						"assetId": 0,
+						"count": 1,
+						"setId": 356124,
+						"itemData": null
+					}
+				],
+				"multiplier": 3500,
+				"priority": 1
+			}
+		],
+		"objectivesNumber": 5
+	},
+	{
 		"groupId": 966,
 		"endTime": 1590166799,
 		"priority": 28,
