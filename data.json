@@ -1,5 +1,117 @@
 [
 	{
+		"groupId": 966,
+		"endTime": 1590166799,
+		"priority": 28,
+		"title": "Week 3 - Silver",
+		"subTitle": "Jump into the action and play some FUT!",
+		"groupType": 3,
+		"groupState": 0,
+		"awardsList": [
+			{
+				"value": 400,
+				"untradeable": true,
+				"halId": 0,
+				"awardType": "xp",
+				"assetId": 0,
+				"count": 1,
+				"setId": 359320,
+				"itemData": null
+			}
+		],
+		"objectives": [
+			{
+				"objectiveId": 25247,
+				"name": "Squad Battler",
+				"description": "Play 2 Squad Battles matches on min. Semi-Pro difficulty",
+				"takeMeThereLink": "GotoSquadBattle",
+				"gameArea": 1,
+				"isWeb": false,
+				"awards": [
+					{
+						"value": 900,
+						"untradeable": true,
+						"halId": 0,
+						"awardType": "xp",
+						"assetId": 0,
+						"count": 1,
+						"setId": 356116,
+						"itemData": null
+					}
+				],
+				"multiplier": 2,
+				"priority": 4
+			},
+			{
+				"objectiveId": 25248,
+				"name": "In Behind",
+				"description": "Assist with a Through Ball in any FUT game mode",
+				"takeMeThereLink": "",
+				"gameArea": 1,
+				"isWeb": false,
+				"awards": [
+					{
+						"value": 700,
+						"untradeable": true,
+						"halId": 0,
+						"awardType": "xp",
+						"assetId": 0,
+						"count": 1,
+						"setId": 356117,
+						"itemData": null
+					}
+				],
+				"multiplier": 1,
+				"priority": 3
+			},
+			{
+				"objectiveId": 25249,
+				"name": "German Genius",
+				"description": "Assist 2 goals using German players in any FUT game mode",
+				"takeMeThereLink": "",
+				"gameArea": 1,
+				"isWeb": false,
+				"awards": [
+					{
+						"value": 900,
+						"untradeable": true,
+						"halId": 0,
+						"awardType": "xp",
+						"assetId": 0,
+						"count": 1,
+						"setId": 356118,
+						"itemData": null
+					}
+				],
+				"multiplier": 2,
+				"priority": 2
+			},
+			{
+				"objectiveId": 25250,
+				"name": "Win 4",
+				"description": "Win 4 matches in any FUT game mode",
+				"takeMeThereLink": "",
+				"gameArea": 1,
+				"isWeb": false,
+				"awards": [
+					{
+						"value": 1100,
+						"untradeable": true,
+						"halId": 0,
+						"awardType": "xp",
+						"assetId": 0,
+						"count": 1,
+						"setId": 356119,
+						"itemData": null
+					}
+				],
+				"multiplier": 4,
+				"priority": 1
+			}
+		],
+		"objectivesNumber": 4
+	},
+	{
 		"groupId": 958,
 		"endTime": 1591376399,
 		"priority": 51,
@@ -616,7 +728,7 @@
 			{
 				"objectiveId": 25259,
 				"name": "LaLiga Lightning",
-				"description": "Score and Assist in 8 separate Rivals wins using LaLiga players with min. 86 PAC",				
+				"description": "Score and Assist in 8 separate Rivals wins using LaLiga players with min. 86 PAC",
 				"tip": "Use Rodrigo (Valencia) and/or Inaki Williams to combine this objective with 'Scoring Spaniard'.",
 				"takeMeThereLink": "GotoOnlineRivals",
 				"gameArea": 1,
