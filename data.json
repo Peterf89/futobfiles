@@ -1,5 +1,191 @@
 [
 	{
+		"groupId": 970,
+		"endTime": 1589821199,
+		"priority": 53,
+		"title": "TOTSSF Falcao",
+		"subTitle": "Süper Lig TOTSSF is here! Complete these objectives to earn TOTSSF Falcao! All rewards Untradeable",
+		"groupType": 3,
+		"groupState": 0,
+		"awardsList": [
+			{
+				"value": 84053477,
+				"untradeable": true,
+				"halId": 0,
+				"awardType": "item",
+				"assetId": 0,
+				"count": 1,
+				"setId": 359305,
+				"itemData": null,
+				"itemDataReduced": {
+					"id": 0,
+					"untradeable": true,
+					"assetId": 167397,
+					"rating": 90,
+					"itemType": "player",
+					"resourceId": 84053477,
+					"discardValue": 0,
+					"cardsubtypeid": 3,
+					"preferredPosition": "ST",
+					"attributeArray": [
+						92,
+						90,
+						80,
+						89,
+						49,
+						88
+					],
+					"teamId": 325,
+					"rareflag": 66,
+					"leagueId": 0,
+					"nation": 56,
+					"guidAssetId": "916a270935014674b80603ba11c231b1"
+				}
+			},
+			{
+				"value": 300,
+				"untradeable": true,
+				"halId": 0,
+				"awardType": "xp",
+				"assetId": 0,
+				"count": 1,
+				"setId": 359305,
+				"itemData": null
+			}
+		],
+		"objectives": [
+			{
+				"objectiveId": 25264,
+				"name": "Süper Lig Scorer",
+				"description": "Score in 3 separate Squad Battles matches on min. Professional difficulty (or Rivals) using Süper Lig League players",
+				"takeMeThereLink": "GotoSquadBattle",
+				"gameArea": 1,
+				"isWeb": false,
+				"awards": [
+					{
+						"value": 511,
+						"untradeable": true,
+						"halId": 4,
+						"awardType": "pack",
+						"assetId": 4,
+						"count": 1,
+						"setId": 359012,
+						"itemData": null
+					},
+					{
+						"value": 300,
+						"untradeable": true,
+						"halId": 0,
+						"awardType": "xp",
+						"assetId": 0,
+						"count": 1,
+						"setId": 359012,
+						"itemData": null
+					}
+				],
+				"multiplier": 3,
+				"priority": 4
+			},
+			{
+				"objectiveId": 25265,
+				"name": "Sharp Shooter",
+				"description": "Score 2 goals in 2 separate Squad Battles matches on min. World Class difficulty (or Rivals) using players with min. 85 SHO",
+				"takeMeThereLink": "GotoSquadBattle",
+				"gameArea": 1,
+				"isWeb": false,
+				"awards": [
+					{
+						"value": 300,
+						"untradeable": true,
+						"halId": 3,
+						"awardType": "pack",
+						"assetId": 3,
+						"count": 1,
+						"setId": 359013,
+						"itemData": null
+					},
+					{
+						"value": 300,
+						"untradeable": true,
+						"halId": 0,
+						"awardType": "xp",
+						"assetId": 0,
+						"count": 1,
+						"setId": 359013,
+						"itemData": null
+					}
+				],
+				"multiplier": 2,
+				"priority": 3
+			},
+			{
+				"objectiveId": 25266,
+				"name": "Colombian Class",
+				"description": "Assist a goal in 3 separate Rivals matches using Colombian players",
+				"takeMeThereLink": "GotoOnlineRivals",
+				"gameArea": 1,
+				"isWeb": false,
+				"awards": [
+					{
+						"value": 519,
+						"untradeable": true,
+						"halId": 4,
+						"awardType": "pack",
+						"assetId": 4,
+						"count": 1,
+						"setId": 359014,
+						"itemData": null
+					},
+					{
+						"value": 300,
+						"untradeable": true,
+						"halId": 0,
+						"awardType": "xp",
+						"assetId": 0,
+						"count": 1,
+						"setId": 359014,
+						"itemData": null
+					}
+				],
+				"multiplier": 3,
+				"priority": 2
+			},
+			{
+				"objectiveId": 25267,
+				"name": "Weak Foot Wizardry",
+				"description": "Score and Assist in 4 Rivals wins using Forwards with min. 4* Weak Foot",
+				"takeMeThereLink": "GotoOnlineRivals",
+				"gameArea": 1,
+				"isWeb": false,
+				"awards": [
+					{
+						"value": 515,
+						"untradeable": true,
+						"halId": 4,
+						"awardType": "pack",
+						"assetId": 4,
+						"count": 1,
+						"setId": 359015,
+						"itemData": null
+					},
+					{
+						"value": 300,
+						"untradeable": true,
+						"halId": 0,
+						"awardType": "xp",
+						"assetId": 0,
+						"count": 1,
+						"setId": 359015,
+						"itemData": null
+					}
+				],
+				"multiplier": 4,
+				"priority": 1
+			}
+		],
+		"objectivesNumber": 4
+	},
+	{
 		"groupId": 967,
 		"endTime": 1590166799,
 		"priority": 27,
