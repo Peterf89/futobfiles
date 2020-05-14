@@ -1,5 +1,120 @@
 [
 	{
+		"groupId": 971,
+		"endTime": 1590080399,
+		"priority": 46,
+		"title": "Chelsea Retro Kit",
+		"subTitle": "Roll back the years in style with the Chelsea Retro Kit! Complete these objectives to earn Untradeable rewards",
+		"groupType": 3,
+		"groupState": 0,
+		"awardsList": [
+			{
+				"value": 6310851,
+				"untradeable": true,
+				"halId": 0,
+				"awardType": "item",
+				"assetId": 0,
+				"count": 1,
+				"setId": 361451,
+				"itemData": null,
+				"itemDataReduced": {
+					"id": 0,
+					"untradeable": true,
+					"assetId": 14,
+					"rating": 99,
+					"itemType": "kit",
+					"resourceId": 6310851,
+					"discardValue": 0,
+					"cardsubtypeid": 9,
+					"attributeList": [],
+					"teamId": 114685,
+					"rareflag": 1,
+					"leagueId": 0,
+					"category": 2
+				}
+			},
+			{
+				"value": 150,
+				"untradeable": true,
+				"halId": 0,
+				"awardType": "xp",
+				"assetId": 0,
+				"count": 1,
+				"setId": 361451,
+				"itemData": null
+			}
+		],
+		"objectives": [
+			{
+				"objectiveId": 25271,
+				"name": "English Excellence",
+				"description": "Score 5 goals in Squad Battles on min. Semi-Pro difficulty using English players",
+				"takeMeThereLink": "GotoSquadBattle",
+				"gameArea": 1,
+				"isWeb": false,
+				"awards": [
+					{
+						"value": 150,
+						"untradeable": true,
+						"halId": 0,
+						"awardType": "xp",
+						"assetId": 0,
+						"count": 1,
+						"setId": 360306,
+						"itemData": null
+					}
+				],
+				"multiplier": 5,
+				"priority": 3
+			},
+			{
+				"objectiveId": 25272,
+				"name": "Premier League Provider",
+				"description": "Assist in 4 separate matches in any FUT game mode using Premier League players",
+				"takeMeThereLink": "",
+				"gameArea": 1,
+				"isWeb": false,
+				"awards": [
+					{
+						"value": 150,
+						"untradeable": true,
+						"halId": 0,
+						"awardType": "xp",
+						"assetId": 0,
+						"count": 1,
+						"setId": 360307,
+						"itemData": null
+					}
+				],
+				"multiplier": 4,
+				"priority": 2
+			},
+			{
+				"objectiveId": 25273,
+				"name": "Chelsea Chums",
+				"description": "Score an Outside the Box goal in 3 separate Friendly matches using Chelsea players",
+				"takeMeThereLink": "GotoHouseRules",
+				"gameArea": 1,
+				"isWeb": false,
+				"awards": [
+					{
+						"value": 150,
+						"untradeable": true,
+						"halId": 0,
+						"awardType": "xp",
+						"assetId": 0,
+						"count": 1,
+						"setId": 360308,
+						"itemData": null
+					}
+				],
+				"multiplier": 3,
+				"priority": 1
+			}
+		],
+		"objectivesNumber": 3
+	},
+	{
 		"groupId": 970,
 		"endTime": 1589821199,
 		"priority": 53,
