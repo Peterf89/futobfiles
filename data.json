@@ -1,5 +1,489 @@
 [
 	{
+		"groupId": 976,
+		"endTime": 1590771599,
+		"priority": 26,
+		"title": "Week 4 - Bronze",
+		"subTitle": "Week 4 begins",
+		"groupType": 3,
+		"groupState": 0,
+		"awardsList": [
+			{
+				"value": 200,
+				"untradeable": true,
+				"halId": 0,
+				"awardType": "xp",
+				"assetId": 0,
+				"count": 1,
+				"setId": 366459,
+				"itemData": null
+			}
+		],
+		"objectives": [
+			{
+				"objectiveId": 25290,
+				"name": "Play 3",
+				"description": "Play 3 matches in any FUT game mode",
+				"takeMeThereLink": "",
+				"gameArea": 1,
+				"isWeb": false,
+				"awards": [
+					{
+						"value": 400,
+						"untradeable": true,
+						"halId": 0,
+						"awardType": "xp",
+						"assetId": 0,
+						"count": 1,
+						"setId": 363240,
+						"itemData": null
+					}
+				],
+				"multiplier": 3,
+				"priority": 4
+			},
+			{
+				"objectiveId": 25291,
+				"name": "Win 2",
+				"description": "Win 2 matches in any game mode",
+				"takeMeThereLink": "",
+				"gameArea": 1,
+				"isWeb": false,
+				"awards": [
+					{
+						"value": 500,
+						"untradeable": true,
+						"halId": 0,
+						"awardType": "xp",
+						"assetId": 0,
+						"count": 1,
+						"setId": 363241,
+						"itemData": null
+					}
+				],
+				"multiplier": 2,
+				"priority": 3
+			},
+			{
+				"objectiveId": 25292,
+				"name": "Assist 2",
+				"description": "Assist 2 goals in any FUT game mode",
+				"takeMeThereLink": "",
+				"gameArea": 1,
+				"isWeb": false,
+				"awards": [
+					{
+						"value": 500,
+						"untradeable": true,
+						"halId": 0,
+						"awardType": "xp",
+						"assetId": 0,
+						"count": 1,
+						"setId": 363242,
+						"itemData": null
+					}
+				],
+				"multiplier": 2,
+				"priority": 2
+			},
+			{
+				"objectiveId": 25293,
+				"name": "Finesse 2",
+				"description": "Score 2 Finesse goals in any FUT game mode",
+				"takeMeThereLink": "",
+				"gameArea": 1,
+				"isWeb": false,
+				"awards": [
+					{
+						"value": 400,
+						"untradeable": true,
+						"halId": 0,
+						"awardType": "xp",
+						"assetId": 0,
+						"count": 1,
+						"setId": 363243,
+						"itemData": null
+					}
+				],
+				"multiplier": 2,
+				"priority": 1
+			}
+		],
+		"objectivesNumber": 4
+	},
+	{
+		"groupId": 974,
+		"endTime": 1590771599,
+		"priority": 58,
+		"title": "TOTSSF Sabitzer",
+		"subTitle": "Bundesliga TOTSSF is here! Complete these objectives to earn TOTSSF Sabitzer! All rewards Untradeable",
+		"groupType": 3,
+		"groupState": 0,
+		"awardsList": [
+			{
+				"value": 117645435,
+				"untradeable": true,
+				"halId": 0,
+				"awardType": "item",
+				"assetId": 0,
+				"count": 1,
+				"setId": 366435,
+				"itemData": null,
+				"itemDataReduced": {
+					"id": 0,
+					"untradeable": true,
+					"assetId": 204923,
+					"rating": 92,
+					"itemType": "player",
+					"resourceId": 117645435,
+					"discardValue": 0,
+					"cardsubtypeid": 2,
+					"preferredPosition": "CM",
+					"attributeArray": [
+						86,
+						90,
+						91,
+						89,
+						86,
+						87
+					],
+					"teamId": 112172,
+					"rareflag": 66,
+					"leagueId": 0,
+					"nation": 4,
+					"guidAssetId": "3b0790ef00594fcc8c76f2de90a2cdb5"
+				}
+			},
+			{
+				"value": 300,
+				"untradeable": true,
+				"halId": 0,
+				"awardType": "xp",
+				"assetId": 0,
+				"count": 1,
+				"setId": 366435,
+				"itemData": null
+			}
+		],
+		"objectives": [
+			{
+				"objectiveId": 25282,
+				"name": "Ranged Rocket",
+				"description": "Score an Outside of the Box goal in 2 separate Rivals matches using Midfielders with min. 80 SHO",
+				"takeMeThereLink": "GotoOnlineRivals",
+				"gameArea": 1,
+				"isWeb": false,
+				"awards": [
+					{
+						"value": 511,
+						"untradeable": true,
+						"halId": 4,
+						"awardType": "pack",
+						"assetId": 4,
+						"count": 1,
+						"setId": 365306,
+						"itemData": null
+					},
+					{
+						"value": 300,
+						"untradeable": true,
+						"halId": 0,
+						"awardType": "xp",
+						"assetId": 0,
+						"count": 1,
+						"setId": 365306,
+						"itemData": null
+					}
+				],
+				"multiplier": 2,
+				"priority": 4
+			},
+			{
+				"objectiveId": 25283,
+				"name": "Austrian Assistance",
+				"description": "Assist in 3 separate Rivals matches using Austrian players",
+				"takeMeThereLink": "GotoOnlineRivals",
+				"gameArea": 1,
+				"isWeb": false,
+				"awards": [
+					{
+						"value": 300,
+						"untradeable": true,
+						"halId": 3,
+						"awardType": "pack",
+						"assetId": 3,
+						"count": 1,
+						"setId": 365307,
+						"itemData": null
+					},
+					{
+						"value": 300,
+						"untradeable": true,
+						"halId": 0,
+						"awardType": "xp",
+						"assetId": 0,
+						"count": 1,
+						"setId": 365307,
+						"itemData": null
+					}
+				],
+				"multiplier": 3,
+				"priority": 3
+			},
+			{
+				"objectiveId": 25284,
+				"name": "Leipzig Link",
+				"description": "Assist with a Through Ball in 4 separate Rivals matches using players with max. 3* Skill Moves",
+				"takeMeThereLink": "GotoOnlineRivals",
+				"gameArea": 1,
+				"isWeb": false,
+				"awards": [
+					{
+						"value": 519,
+						"untradeable": true,
+						"halId": 4,
+						"awardType": "pack",
+						"assetId": 4,
+						"count": 1,
+						"setId": 365308,
+						"itemData": null
+					},
+					{
+						"value": 300,
+						"untradeable": true,
+						"halId": 0,
+						"awardType": "xp",
+						"assetId": 0,
+						"count": 1,
+						"setId": 365308,
+						"itemData": null
+					}
+				],
+				"multiplier": 4,
+				"priority": 2
+			},
+			{
+				"objectiveId": 25285,
+				"name": "Bundesliga Beast",
+				"description": "Score and Assist in 8 separate Rivals wins using Bundesliga players with min. 4* Weak Foot",
+				"takeMeThereLink": "GotoOnlineRivals",
+				"gameArea": 1,
+				"isWeb": false,
+				"awards": [
+					{
+						"value": 515,
+						"untradeable": true,
+						"halId": 4,
+						"awardType": "pack",
+						"assetId": 4,
+						"count": 1,
+						"setId": 365309,
+						"itemData": null
+					},
+					{
+						"value": 300,
+						"untradeable": true,
+						"halId": 0,
+						"awardType": "xp",
+						"assetId": 0,
+						"count": 1,
+						"setId": 365309,
+						"itemData": null
+					}
+				],
+				"multiplier": 8,
+				"priority": 1
+			}
+		],
+		"objectivesNumber": 4
+	},
+	{
+		"groupId": 981,
+		"endTime": 1590166799,
+		"priority": 57,
+		"title": "TOTSSF Moments Dilrosun",
+		"subTitle": "Earn TOTSSF Moments Dilrosun celebrating his mazy solo goal against Paderborn! All rewards Untradeable",
+		"groupType": 3,
+		"groupState": 0,
+		"awardsList": [
+			{
+				"value": 67333813,
+				"untradeable": true,
+				"halId": 0,
+				"awardType": "item",
+				"assetId": 0,
+				"count": 1,
+				"setId": 366436,
+				"itemData": null,
+				"itemDataReduced": {
+					"id": 0,
+					"untradeable": true,
+					"assetId": 224949,
+					"rating": 89,
+					"itemType": "player",
+					"resourceId": 67333813,
+					"discardValue": 0,
+					"cardsubtypeid": 2,
+					"preferredPosition": "LM",
+					"attributeArray": [
+						95,
+						84,
+						87,
+						94,
+						54,
+						81
+					],
+					"teamId": 166,
+					"rareflag": 65,
+					"leagueId": 0,
+					"nation": 34,
+					"guidAssetId": "64bbad94ee1343549028dc4055423e90"
+				}
+			},
+			{
+				"value": 300,
+				"untradeable": true,
+				"halId": 0,
+				"awardType": "xp",
+				"assetId": 0,
+				"count": 1,
+				"setId": 366436,
+				"itemData": null
+			}
+		],
+		"objectives": [
+			{
+				"objectiveId": 25309,
+				"name": "Academy Action",
+				"description": "Score using Ajax players and Assist using Manchester City players in 2 separate Squad Battles matches on min. Professional difficulty (or Rivals)",
+				"takeMeThereLink": "GotoSquadBattle",
+				"gameArea": 1,
+				"isWeb": false,
+				"awards": [
+					{
+						"value": 511,
+						"untradeable": true,
+						"halId": 4,
+						"awardType": "pack",
+						"assetId": 4,
+						"count": 1,
+						"setId": 365310,
+						"itemData": null
+					},
+					{
+						"value": 300,
+						"untradeable": true,
+						"halId": 0,
+						"awardType": "xp",
+						"assetId": 0,
+						"count": 1,
+						"setId": 365310,
+						"itemData": null
+					}
+				],
+				"multiplier": 2,
+				"priority": 4
+			},
+			{
+				"objectiveId": 25310,
+				"name": "Blaze a Trail",
+				"description": "Assist and Score in 4 separate Squad Battles matches on min. World Class difficulty (or Rivals) using players with min. 89 PAC",
+				"takeMeThereLink": "GotoSquadBattle",
+				"gameArea": 1,
+				"isWeb": false,
+				"awards": [
+					{
+						"value": 300,
+						"untradeable": true,
+						"halId": 3,
+						"awardType": "pack",
+						"assetId": 3,
+						"count": 1,
+						"setId": 365311,
+						"itemData": null
+					},
+					{
+						"value": 300,
+						"untradeable": true,
+						"halId": 0,
+						"awardType": "xp",
+						"assetId": 0,
+						"count": 1,
+						"setId": 365311,
+						"itemData": null
+					}
+				],
+				"multiplier": 4,
+				"priority": 3
+			},
+			{
+				"objectiveId": 25311,
+				"name": "Dutch Delivery",
+				"description": "Assist 2 goals with Crosses in 2 separate Squad separate Squad Battles matches on min. World Class difficulty (or Rivals) using Dutch players",
+				"takeMeThereLink": "GotoSquadBattle",
+				"gameArea": 1,
+				"isWeb": false,
+				"awards": [
+					{
+						"value": 519,
+						"untradeable": true,
+						"halId": 4,
+						"awardType": "pack",
+						"assetId": 4,
+						"count": 1,
+						"setId": 365312,
+						"itemData": null
+					},
+					{
+						"value": 300,
+						"untradeable": true,
+						"halId": 0,
+						"awardType": "xp",
+						"assetId": 0,
+						"count": 1,
+						"setId": 365312,
+						"itemData": null
+					}
+				],
+				"multiplier": 2,
+				"priority": 2
+			},
+			{
+				"objectiveId": 25312,
+				"name": "Dynamic Dilrosun",
+				"description": "Score a Finesse goal in 6 separate Squad Battles wins on min. World Class difficulty (or Rivals) using Bundesliga Midfielders with min. 4* Skill Moves",
+				"takeMeThereLink": "GotoSquadBattle",
+				"gameArea": 1,
+				"isWeb": false,
+				"awards": [
+					{
+						"value": 515,
+						"untradeable": true,
+						"halId": 4,
+						"awardType": "pack",
+						"assetId": 4,
+						"count": 1,
+						"setId": 365313,
+						"itemData": null
+					},
+					{
+						"value": 300,
+						"untradeable": true,
+						"halId": 0,
+						"awardType": "xp",
+						"assetId": 0,
+						"count": 1,
+						"setId": 365313,
+						"itemData": null
+					}
+				],
+				"multiplier": 6,
+				"priority": 1
+			}
+		],
+		"objectivesNumber": 4
+	},
+	{
 		"groupId": 971,
 		"endTime": 1590080399,
 		"priority": 46,
