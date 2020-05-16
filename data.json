@@ -1,5 +1,117 @@
 [
 	{
+		"groupId": 977,
+		"endTime": 1590771599,
+		"priority": 25,
+		"title": "Week 4 - Silver",
+		"subTitle": "Jump into the action and play some FUT!",
+		"groupType": 3,
+		"groupState": 0,
+		"awardsList": [
+			{
+				"value": 400,
+				"untradeable": true,
+				"halId": 0,
+				"awardType": "xp",
+				"assetId": 0,
+				"count": 1,
+				"setId": 368526,
+				"itemData": null
+			}
+		],
+		"objectives": [
+			{
+				"objectiveId": 25294,
+				"name": "Play 4",
+				"description": "Play 4 matches in any FUT game mode",
+				"takeMeThereLink": "",
+				"gameArea": 1,
+				"isWeb": false,
+				"awards": [
+					{
+						"value": 900,
+						"untradeable": true,
+						"halId": 0,
+						"awardType": "xp",
+						"assetId": 0,
+						"count": 1,
+						"setId": 363244,
+						"itemData": null
+					}
+				],
+				"multiplier": 4,
+				"priority": 4
+			},
+			{
+				"objectiveId": 25295,
+				"name": "Visionary",
+				"description": "Assist in 4 separate matches in any FUT game mode",
+				"takeMeThereLink": "",
+				"gameArea": 1,
+				"isWeb": false,
+				"awards": [
+					{
+						"value": 900,
+						"untradeable": true,
+						"halId": 0,
+						"awardType": "xp",
+						"assetId": 0,
+						"count": 1,
+						"setId": 363245,
+						"itemData": null
+					}
+				],
+				"multiplier": 4,
+				"priority": 3
+			},
+			{
+				"objectiveId": 25296,
+				"name": "Featured Battle",
+				"description": "Play a match against this week's Featured Squad in Squad Battles on min. Semi-Pro difficulty",
+				"takeMeThereLink": "GotoSquadBattle",
+				"gameArea": 1,
+				"isWeb": false,
+				"awards": [
+					{
+						"value": 900,
+						"untradeable": true,
+						"halId": 0,
+						"awardType": "xp",
+						"assetId": 0,
+						"count": 1,
+						"setId": 363246,
+						"itemData": null
+					}
+				],
+				"multiplier": 1,
+				"priority": 2
+			},
+			{
+				"objectiveId": 25297,
+				"name": "Goals",
+				"description": "Score 4 goals in one match in any FUT game mode",
+				"takeMeThereLink": "",
+				"gameArea": 1,
+				"isWeb": false,
+				"awards": [
+					{
+						"value": 900,
+						"untradeable": true,
+						"halId": 0,
+						"awardType": "xp",
+						"assetId": 0,
+						"count": 1,
+						"setId": 363247,
+						"itemData": null
+					}
+				],
+				"multiplier": 1,
+				"priority": 1
+			}
+		],
+		"objectivesNumber": 4
+	},
+	{
 		"groupId": 976,
 		"endTime": 1590771599,
 		"priority": 26,
