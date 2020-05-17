@@ -1,5 +1,139 @@
 [
 	{
+		"groupId": 978,
+		"endTime": 1590771599,
+		"priority": 24,
+		"title": "Week 4 - Gold",
+		"subTitle": "Reunite old footballing foes in this week's challenge!",
+		"groupType": 3,
+		"groupState": 0,
+		"awardsList": [
+			{
+				"value": 733,
+				"untradeable": true,
+				"halId": 0,
+				"awardType": "xp",
+				"assetId": 0,
+				"count": 1,
+				"setId": 368527,
+				"itemData": null
+			}
+		],
+		"objectives": [
+			{
+				"objectiveId": 25298,
+				"name": "Germany & Netherlands",
+				"description": "Win by at least 2 goals in Squad Battles on min. Professional difficulty with at least 5 Germany players and 5 Dutch players in your starting squad",
+				"takeMeThereLink": "GotoSquadBattle",
+				"gameArea": 1,
+				"isWeb": false,
+				"awards": [
+					{
+						"value": 1000,
+						"untradeable": true,
+						"halId": 0,
+						"awardType": "xp",
+						"assetId": 0,
+						"count": 1,
+						"setId": 363248,
+						"itemData": null
+					}
+				],
+				"multiplier": 1,
+				"priority": 5
+			},
+			{
+				"objectiveId": 25299,
+				"name": "France & Italy",
+				"description": "Score 2 Finesse goals using French players and Assist using Italian players in the same Rivals match",
+				"takeMeThereLink": "GotoOnlineRivals",
+				"gameArea": 1,
+				"isWeb": false,
+				"awards": [
+					{
+						"value": 1350,
+						"untradeable": true,
+						"halId": 0,
+						"awardType": "xp",
+						"assetId": 0,
+						"count": 1,
+						"setId": 363249,
+						"itemData": null
+					}
+				],
+				"multiplier": 1,
+				"priority": 4
+			},
+			{
+				"objectiveId": 25300,
+				"name": "Argentina & Brazil",
+				"description": "Assist using Argentinian players and Score using Brazilian players in the same Rivals match",
+				"takeMeThereLink": "GotoOnlineRivals",
+				"gameArea": 1,
+				"isWeb": false,
+				"awards": [
+					{
+						"value": 1200,
+						"untradeable": true,
+						"halId": 0,
+						"awardType": "xp",
+						"assetId": 0,
+						"count": 1,
+						"setId": 363250,
+						"itemData": null
+					}
+				],
+				"multiplier": 1,
+				"priority": 3
+			},
+			{
+				"objectiveId": 25301,
+				"name": "Spain & Portugal",
+				"description": "Win 2 Rivals matches with at least 4 Spanish players and at least 4 Portuguese players in your starting squad",
+				"takeMeThereLink": "GotoOnlineRivals",
+				"gameArea": 1,
+				"isWeb": false,
+				"awards": [
+					{
+						"value": 1450,
+						"untradeable": true,
+						"halId": 0,
+						"awardType": "xp",
+						"assetId": 0,
+						"count": 1,
+						"setId": 363251,
+						"itemData": null
+					}
+				],
+				"multiplier": 2,
+				"priority": 2
+			},
+			{
+				"objectiveId": 25302,
+				"name": "Making Progress",
+				"description": "Earn 3,500 Rivals points",
+				"takeMeThereLink": "GotoOnlineRivals",
+				"gameArea": 1,
+				"isWeb": false,
+				"awards": [
+					{
+						"value": 1600,
+						"untradeable": true,
+						"halId": 0,
+						"awardType": "xp",
+						"assetId": 0,
+						"count": 1,
+						"setId": 363252,
+						"itemData": null
+					}
+				],
+				"multiplier": 3500,
+				"priority": 1
+			}
+		],
+		"objectivesNumber": 5
+	},
+	{
 		"groupId": 977,
 		"endTime": 1590771599,
 		"priority": 25,
