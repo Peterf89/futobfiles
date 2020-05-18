@@ -1,5 +1,291 @@
 [
 	{
+		"groupId": 975,
+		"endTime": 1590425999,
+		"priority": 56,
+		"title": "TOTSSF Mathieu",
+		"subTitle": "Liga NOS TOTSSF is here! Complete these objectives to earn TOTSSF Mathieu! All rewards Untradeable",
+		"groupType": 3,
+		"groupState": 0,
+		"awardsList": [
+			{
+				"value": 50443964,
+				"untradeable": true,
+				"halId": 0,
+				"awardType": "item",
+				"assetId": 0,
+				"count": 1,
+				"setId": 368502,
+				"itemData": null,
+				"itemDataReduced": {
+					"id": 0,
+					"untradeable": true,
+					"assetId": 112316,
+					"rating": 91,
+					"itemType": "player",
+					"resourceId": 50443964,
+					"discardValue": 0,
+					"cardsubtypeid": 1,
+					"preferredPosition": "CB",
+					"attributeArray": [
+						78,
+						75,
+						80,
+						84,
+						93,
+						91
+					],
+					"teamId": 237,
+					"rareflag": 66,
+					"leagueId": 0,
+					"nation": 18,
+					"guidAssetId": "879b909a1e934862bc8ee34317a8c697"
+				}
+			},
+			{
+				"value": 300,
+				"untradeable": true,
+				"halId": 0,
+				"awardType": "xp",
+				"assetId": 0,
+				"count": 1,
+				"setId": 368502,
+				"itemData": null
+			}
+		],
+		"objectives": [
+			{
+				"objectiveId": 25286,
+				"name": "LaLiga Libero",
+				"description": "Score 2 goals in 2 separate Squad Battles matches on min. World Class difficulty (or Rivals) using LaLiga players with min. 80 PHY",
+				"takeMeThereLink": "GotoSquadBattle",
+				"gameArea": 1,
+				"isWeb": false,
+				"awards": [
+					{
+						"value": 511,
+						"untradeable": true,
+						"halId": 4,
+						"awardType": "pack",
+						"assetId": 4,
+						"count": 1,
+						"setId": 367381,
+						"itemData": null
+					},
+					{
+						"value": 300,
+						"untradeable": true,
+						"halId": 0,
+						"awardType": "xp",
+						"assetId": 0,
+						"count": 1,
+						"setId": 367381,
+						"itemData": null
+					}
+				],
+				"multiplier": 2,
+				"priority": 4
+			},
+			{
+				"objectiveId": 25287,
+				"name": "Defensive Detail",
+				"description": "Assist in 3 separate Squad Battles matches on min. World Class difficulty (or Rivals) using Defenders",
+				"takeMeThereLink": "GotoSquadBattle",
+				"gameArea": 1,
+				"isWeb": false,
+				"awards": [
+					{
+						"value": 300,
+						"untradeable": true,
+						"halId": 3,
+						"awardType": "pack",
+						"assetId": 3,
+						"count": 1,
+						"setId": 367382,
+						"itemData": null
+					},
+					{
+						"value": 300,
+						"untradeable": true,
+						"halId": 0,
+						"awardType": "xp",
+						"assetId": 0,
+						"count": 1,
+						"setId": 367382,
+						"itemData": null
+					}
+				],
+				"multiplier": 3,
+				"priority": 3
+			},
+			{
+				"objectiveId": 25288,
+				"name": "Providing in Portugal",
+				"description": "Assist with a Through Ball in 3 separate Rivals matches using Liga NOS players",
+				"takeMeThereLink": "GotoOnlineRivals",
+				"gameArea": 1,
+				"isWeb": false,
+				"awards": [
+					{
+						"value": 519,
+						"untradeable": true,
+						"halId": 4,
+						"awardType": "pack",
+						"assetId": 4,
+						"count": 1,
+						"setId": 367383,
+						"itemData": null
+					},
+					{
+						"value": 300,
+						"untradeable": true,
+						"halId": 0,
+						"awardType": "xp",
+						"assetId": 0,
+						"count": 1,
+						"setId": 367383,
+						"itemData": null
+					}
+				],
+				"multiplier": 3,
+				"priority": 2
+			},
+			{
+				"objectiveId": 25289,
+				"name": "Formed in France",
+				"description": "Score a Finesse goal in 4 separate Rivals wins using French players",
+				"takeMeThereLink": "GotoOnlineRivals",
+				"gameArea": 1,
+				"isWeb": false,
+				"awards": [
+					{
+						"value": 515,
+						"untradeable": true,
+						"halId": 4,
+						"awardType": "pack",
+						"assetId": 4,
+						"count": 1,
+						"setId": 367384,
+						"itemData": null
+					},
+					{
+						"value": 300,
+						"untradeable": true,
+						"halId": 0,
+						"awardType": "xp",
+						"assetId": 0,
+						"count": 1,
+						"setId": 367384,
+						"itemData": null
+					}
+				],
+				"multiplier": 4,
+				"priority": 1
+			}
+		],
+		"objectivesNumber": 4
+	},
+	{
+		"groupId": 980,
+		"endTime": 1590080399,
+		"priority": 44,
+		"title": "FUT Draft Token Online",
+		"subTitle": "Prime Icons and select SBC players have been added to Draft mode for a limited time! Earn a Draft token here!",
+		"groupType": 3,
+		"groupState": 0,
+		"awardsList": [
+			{
+				"value": 500,
+				"untradeable": true,
+				"halId": 4,
+				"awardType": "pack",
+				"assetId": 4,
+				"count": 1,
+				"setId": 368513,
+				"itemData": null
+			},
+			{
+				"value": 50,
+				"untradeable": true,
+				"halId": 0,
+				"awardType": "xp",
+				"assetId": 0,
+				"count": 1,
+				"setId": 368513,
+				"itemData": null
+			}
+		],
+		"objectives": [
+			{
+				"objectiveId": 25306,
+				"name": "Win 2",
+				"description": "Win 2 Rivals matches",
+				"takeMeThereLink": "GotoOnlineRivals",
+				"gameArea": 1,
+				"isWeb": false,
+				"awards": [
+					{
+						"value": 50,
+						"untradeable": true,
+						"halId": 0,
+						"awardType": "xp",
+						"assetId": 0,
+						"count": 1,
+						"setId": 363275,
+						"itemData": null
+					}
+				],
+				"multiplier": 2,
+				"priority": 3
+			},
+			{
+				"objectiveId": 25307,
+				"name": "Rivals Scorer",
+				"description": "Score in 2 separate Rivals matches using Liga NOS players",
+				"takeMeThereLink": "GotoOnlineRivals",
+				"gameArea": 1,
+				"isWeb": false,
+				"awards": [
+					{
+						"value": 50,
+						"untradeable": true,
+						"halId": 0,
+						"awardType": "xp",
+						"assetId": 0,
+						"count": 1,
+						"setId": 363276,
+						"itemData": null
+					}
+				],
+				"multiplier": 2,
+				"priority": 2
+			},
+			{
+				"objectiveId": 25308,
+				"name": "Assistance Required",
+				"description": "Assist in 2 separate Rivals matches using Bundesliga players",
+				"takeMeThereLink": "GotoOnlineRivals",
+				"gameArea": 1,
+				"isWeb": false,
+				"awards": [
+					{
+						"value": 50,
+						"untradeable": true,
+						"halId": 0,
+						"awardType": "xp",
+						"assetId": 0,
+						"count": 1,
+						"setId": 363277,
+						"itemData": null
+					}
+				],
+				"multiplier": 2,
+				"priority": 1
+			}
+		],
+		"objectivesNumber": 3
+	},
+	{
 		"groupId": 978,
 		"endTime": 1590771599,
 		"priority": 24,
