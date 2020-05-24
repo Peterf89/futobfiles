@@ -1,5 +1,139 @@
 [
 	{
+		"groupId": 986,
+		"endTime": 1591376399,
+		"priority": 21,
+		"title": "Week 5 - Gold",
+		"subTitle": "Convert your goal chances in this week's challenge!",
+		"groupType": 3,
+		"groupState": 0,
+		"awardsList": [
+			{
+				"value": 733,
+				"untradeable": true,
+				"halId": 0,
+				"awardType": "xp",
+				"assetId": 0,
+				"count": 1,
+				"setId": 375513,
+				"itemData": null
+			}
+		],
+		"objectives": [
+			{
+				"objectiveId": 25330,
+				"name": "A Forward's Finish",
+				"description": "Score using Forwards in 2 separate Rivals wins",
+				"takeMeThereLink": "GotoOnlineRivals",
+				"gameArea": 1,
+				"isWeb": false,
+				"awards": [
+					{
+						"value": 1450,
+						"untradeable": true,
+						"halId": 0,
+						"awardType": "xp",
+						"assetId": 0,
+						"count": 1,
+						"setId": 372254,
+						"itemData": null
+					}
+				],
+				"multiplier": 2,
+				"priority": 5
+			},
+			{
+				"objectiveId": 25331,
+				"name": "Squad Goals",
+				"description": "Score a goal in 2 separate Squad Battles wins on min. Professional difficulty",
+				"takeMeThereLink": "GotoSquadBattle",
+				"gameArea": 1,
+				"isWeb": false,
+				"awards": [
+					{
+						"value": 1000,
+						"untradeable": true,
+						"halId": 0,
+						"awardType": "xp",
+						"assetId": 0,
+						"count": 1,
+						"setId": 372255,
+						"itemData": null
+					}
+				],
+				"multiplier": 2,
+				"priority": 4
+			},
+			{
+				"objectiveId": 25332,
+				"name": "Long Shot",
+				"description": "Score a goal from outside of the box in Rivals",
+				"takeMeThereLink": "GotoOnlineRivals",
+				"gameArea": 1,
+				"isWeb": false,
+				"awards": [
+					{
+						"value": 1200,
+						"untradeable": true,
+						"halId": 0,
+						"awardType": "xp",
+						"assetId": 0,
+						"count": 1,
+						"setId": 372256,
+						"itemData": null
+					}
+				],
+				"multiplier": 1,
+				"priority": 3
+			},
+			{
+				"objectiveId": 25333,
+				"name": "Diamonds in the Rough",
+				"description": "Score 2 goals in Rivals using players bought for less than 5,000 coins",
+				"takeMeThereLink": "GotoOnlineRivals",
+				"gameArea": 1,
+				"isWeb": false,
+				"awards": [
+					{
+						"value": 1350,
+						"untradeable": true,
+						"halId": 0,
+						"awardType": "xp",
+						"assetId": 0,
+						"count": 1,
+						"setId": 372257,
+						"itemData": null
+					}
+				],
+				"multiplier": 2,
+				"priority": 2
+			},
+			{
+				"objectiveId": 25334,
+				"name": "Making Progress",
+				"description": "Earn 3,500 Rivals points",
+				"takeMeThereLink": "GotoOnlineRivals",
+				"gameArea": 1,
+				"isWeb": false,
+				"awards": [
+					{
+						"value": 1600,
+						"untradeable": true,
+						"halId": 0,
+						"awardType": "xp",
+						"assetId": 0,
+						"count": 1,
+						"setId": 372258,
+						"itemData": null
+					}
+				],
+				"multiplier": 3500,
+				"priority": 1
+			}
+		],
+		"objectivesNumber": 5
+	},
+	{
 		"groupId": 985,
 		"endTime": 1591376399,
 		"priority": 22,
