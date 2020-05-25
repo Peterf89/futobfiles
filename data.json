@@ -1,5 +1,191 @@
 [
 	{
+		"groupId": 989,
+		"endTime": 1591030799,
+		"priority": 59,
+		"title": "TOTSSF Martínez",
+		"subTitle": "Eredivisie TOTSSF is here! Complete these objectives to earn TOTSSF Martínez! All rewards Untradeable",
+		"groupType": 3,
+		"groupState": 0,
+		"awardsList": [
+			{
+				"value": 84125381,
+				"untradeable": true,
+				"halId": 0,
+				"awardType": "item",
+				"assetId": 0,
+				"count": 1,
+				"setId": 375481,
+				"itemData": null,
+				"itemDataReduced": {
+					"id": 0,
+					"untradeable": true,
+					"assetId": 239301,
+					"rating": 91,
+					"itemType": "player",
+					"resourceId": 84125381,
+					"discardValue": 0,
+					"cardsubtypeid": 2,
+					"preferredPosition": "CDM",
+					"attributeArray": [
+						88,
+						70,
+						87,
+						88,
+						92,
+						91
+					],
+					"teamId": 245,
+					"rareflag": 66,
+					"leagueId": 0,
+					"nation": 52,
+					"guidAssetId": "4657bcf526cb4b3db45908defeceb946"
+				}
+			},
+			{
+				"value": 300,
+				"untradeable": true,
+				"halId": 0,
+				"awardType": "xp",
+				"assetId": 0,
+				"count": 1,
+				"setId": 375481,
+				"itemData": null
+			}
+		],
+		"objectives": [
+			{
+				"objectiveId": 25343,
+				"name": "Justified Defence",
+				"description": "Assist in 2 separate Squad Battles matches on min. Professional difficulty (or Rivals) using players with min. 77 DEF",
+				"takeMeThereLink": "GotoSquadBattle",
+				"gameArea": 1,
+				"isWeb": false,
+				"awards": [
+					{
+						"value": 511,
+						"untradeable": true,
+						"halId": 4,
+						"awardType": "pack",
+						"assetId": 4,
+						"count": 1,
+						"setId": 375180,
+						"itemData": null
+					},
+					{
+						"value": 300,
+						"untradeable": true,
+						"halId": 0,
+						"awardType": "xp",
+						"assetId": 0,
+						"count": 1,
+						"setId": 375180,
+						"itemData": null
+					}
+				],
+				"multiplier": 2,
+				"priority": 4
+			},
+			{
+				"objectiveId": 25344,
+				"name": "Ajax Architect",
+				"description": "Assist and Score in 4 separate Squad Battles matches on min. World Class difficulty (or Rivals) using Ajax players",
+				"takeMeThereLink": "GotoSquadBattle",
+				"gameArea": 1,
+				"isWeb": false,
+				"awards": [
+					{
+						"value": 300,
+						"untradeable": true,
+						"halId": 3,
+						"awardType": "pack",
+						"assetId": 3,
+						"count": 1,
+						"setId": 375181,
+						"itemData": null
+					},
+					{
+						"value": 300,
+						"untradeable": true,
+						"halId": 0,
+						"awardType": "xp",
+						"assetId": 0,
+						"count": 1,
+						"setId": 375181,
+						"itemData": null
+					}
+				],
+				"multiplier": 4,
+				"priority": 3
+			},
+			{
+				"objectiveId": 25345,
+				"name": "Eredivisie Enforcer",
+				"description": "Assist with a Through Ball in 3 separate Rivals matches using Eredivisie players",
+				"takeMeThereLink": "GotoOnlineRivals",
+				"gameArea": 1,
+				"isWeb": false,
+				"awards": [
+					{
+						"value": 519,
+						"untradeable": true,
+						"halId": 4,
+						"awardType": "pack",
+						"assetId": 4,
+						"count": 1,
+						"setId": 375182,
+						"itemData": null
+					},
+					{
+						"value": 300,
+						"untradeable": true,
+						"halId": 0,
+						"awardType": "xp",
+						"assetId": 0,
+						"count": 1,
+						"setId": 375182,
+						"itemData": null
+					}
+				],
+				"multiplier": 3,
+				"priority": 2
+			},
+			{
+				"objectiveId": 25346,
+				"name": "Argentine Anchor",
+				"description": "Score a Finesse goal in 4 separate Rivals wins using Argentinian Midfielders",
+				"takeMeThereLink": "GotoOnlineRivals",
+				"gameArea": 1,
+				"isWeb": false,
+				"awards": [
+					{
+						"value": 515,
+						"untradeable": true,
+						"halId": 4,
+						"awardType": "pack",
+						"assetId": 4,
+						"count": 1,
+						"setId": 375183,
+						"itemData": null
+					},
+					{
+						"value": 300,
+						"untradeable": true,
+						"halId": 0,
+						"awardType": "xp",
+						"assetId": 0,
+						"count": 1,
+						"setId": 375183,
+						"itemData": null
+					}
+				],
+				"multiplier": 4,
+				"priority": 1
+			}
+		],
+		"objectivesNumber": 4
+	},
+	{
 		"groupId": 986,
 		"endTime": 1591376399,
 		"priority": 21,
