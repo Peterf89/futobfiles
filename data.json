@@ -1,5 +1,628 @@
 [
-	{"groupId":983,"endTime":1591289999,"priority":42,"title":"Manchester City Retro Kit","subTitle":"Roll back the years in style with the Manchester City Retro Kit! Complete these objectives to earn Untradeable rewards","groupType":3,"groupState":0,"awardsList":[{"value":6310866,"untradeable":true,"halId":0,"awardType":"item","assetId":0,"count":1,"setId":378328,"itemData":null,"itemDataReduced":{"id":0,"untradeable":true,"assetId":14,"rating":99,"itemType":"kit","resourceId":6310866,"discardValue":0,"cardsubtypeid":9,"attributeList":[],"teamId":114593,"rareflag":1,"leagueId":0,"category":2}},{"value":150,"untradeable":true,"halId":0,"awardType":"xp","assetId":0,"count":1,"setId":378328,"itemData":null}],"objectives":[{"objectiveId":25319,"name":"English Excellence","description":"Score 5 goals in Squad Battles on min. Semi-Pro difficulty using English players","takeMeThereLink":"GotoSquadBattle","gameArea":1,"isWeb":false,"awards":[{"value":150,"untradeable":true,"halId":0,"awardType":"xp","assetId":0,"count":1,"setId":377193,"itemData":null}],"multiplier":5,"priority":3},{"objectiveId":25320,"name":"Premier League Provider","description":"Assist in 4 separate matches in any FUT game mode using Premier League players","takeMeThereLink":"","gameArea":1,"isWeb":false,"awards":[{"value":150,"untradeable":true,"halId":0,"awardType":"xp","assetId":0,"count":1,"setId":377194,"itemData":null}],"multiplier":4,"priority":2},{"objectiveId":25321,"name":"Manchester Mates","description":"Score in 3 separate Friendly matches using Manchester City players","takeMeThereLink":"GotoHouseRules","gameArea":1,"isWeb":false,"awards":[{"value":150,"untradeable":true,"halId":0,"awardType":"xp","assetId":0,"count":1,"setId":377195,"itemData":null}],"multiplier":3,"priority":1}],"objectivesNumber":3},
+	{
+		"groupId": 992,
+		"endTime": 1591376399,
+		"priority": 64,
+		"title": "TOTSSF Gueye",
+		"subTitle": "Ligue 1 TOTSSF is here! Complete these objectives to earn TOTSSF Gueye! All rewards Untradeable",
+		"groupType": 3,
+		"groupState": 0,
+		"awardsList": [
+			{
+				"value": 100856770,
+				"untradeable": true,
+				"halId": 0,
+				"awardType": "item",
+				"assetId": 0,
+				"count": 1,
+				"setId": 380479,
+				"itemData": null,
+				"itemDataReduced": {
+					"id": 0,
+					"untradeable": true,
+					"assetId": 193474,
+					"rating": 93,
+					"itemType": "player",
+					"resourceId": 100856770,
+					"discardValue": 0,
+					"cardsubtypeid": 2,
+					"preferredPosition": "CM",
+					"attributeArray": [
+						88,
+						80,
+						87,
+						92,
+						93,
+						92
+					],
+					"teamId": 73,
+					"rareflag": 66,
+					"leagueId": 0,
+					"nation": 136,
+					"guidAssetId": "1f2fb641a85247efbf7ecfc248afa926"
+				}
+			},
+			{
+				"value": 300,
+				"untradeable": true,
+				"halId": 0,
+				"awardType": "xp",
+				"assetId": 0,
+				"count": 1,
+				"setId": 380479,
+				"itemData": null
+			}
+		],
+		"objectives": [
+			{
+				"objectiveId": 25354,
+				"name": "Senegal Sentinel",
+				"description": "Score a goal in 2 separate Rivals matches using Senegalese players",
+				"takeMeThereLink": "GotoOnlineRivals",
+				"gameArea": 1,
+				"isWeb": false,
+				"awards": [
+					{
+						"value": 511,
+						"untradeable": true,
+						"halId": 4,
+						"awardType": "pack",
+						"assetId": 4,
+						"count": 1,
+						"setId": 379299,
+						"itemData": null
+					},
+					{
+						"value": 300,
+						"untradeable": true,
+						"halId": 0,
+						"awardType": "xp",
+						"assetId": 0,
+						"count": 1,
+						"setId": 379299,
+						"itemData": null
+					}
+				],
+				"multiplier": 2,
+				"priority": 4
+			},
+			{
+				"objectiveId": 25355,
+				"name": "Past PL Protector",
+				"description": "Assist with a Through Ball in 3 separate Rivals matches using Premier League players with max. 3* Skill Moves",
+				"takeMeThereLink": "GotoOnlineRivals",
+				"gameArea": 1,
+				"isWeb": false,
+				"awards": [
+					{
+						"value": 300,
+						"untradeable": true,
+						"halId": 3,
+						"awardType": "pack",
+						"assetId": 3,
+						"count": 1,
+						"setId": 379300,
+						"itemData": null
+					},
+					{
+						"value": 300,
+						"untradeable": true,
+						"halId": 0,
+						"awardType": "xp",
+						"assetId": 0,
+						"count": 1,
+						"setId": 379300,
+						"itemData": null
+					}
+				],
+				"multiplier": 3,
+				"priority": 3
+			},
+			{
+				"objectiveId": 25356,
+				"name": "Midfield Maker",
+				"description": "Assist 10 goals in Rivals using Midfielders with max. 3* Weak Foot",
+				"takeMeThereLink": "GotoOnlineRivals",
+				"gameArea": 1,
+				"isWeb": false,
+				"awards": [
+					{
+						"value": 519,
+						"untradeable": true,
+						"halId": 4,
+						"awardType": "pack",
+						"assetId": 4,
+						"count": 1,
+						"setId": 379301,
+						"itemData": null
+					},
+					{
+						"value": 300,
+						"untradeable": true,
+						"halId": 0,
+						"awardType": "xp",
+						"assetId": 0,
+						"count": 1,
+						"setId": 379301,
+						"itemData": null
+					}
+				],
+				"multiplier": 10,
+				"priority": 2
+			},
+			{
+				"objectiveId": 25357,
+				"name": "Ligue 1 Leader",
+				"description": "Score and Assist in 6 separate Rivals wins using Ligue 1 Midfielders",
+				"takeMeThereLink": "GotoOnlineRivals",
+				"gameArea": 1,
+				"isWeb": false,
+				"awards": [
+					{
+						"value": 515,
+						"untradeable": true,
+						"halId": 4,
+						"awardType": "pack",
+						"assetId": 4,
+						"count": 1,
+						"setId": 379302,
+						"itemData": null
+					},
+					{
+						"value": 300,
+						"untradeable": true,
+						"halId": 0,
+						"awardType": "xp",
+						"assetId": 0,
+						"count": 1,
+						"setId": 379302,
+						"itemData": null
+					}
+				],
+				"multiplier": 6,
+				"priority": 1
+			}
+		],
+		"objectivesNumber": 4
+	},
+	{
+		"groupId": 996,
+		"endTime": 1591376399,
+		"priority": 63,
+		"title": "TOTSSF Moments Golovin",
+		"subTitle": "Complete these objectives to earn TOTSSF Moments Golovin for his complete performance vs OGC Nice! All rewards Untradeable",
+		"groupType": 3,
+		"groupState": 0,
+		"awardsList": [
+			{
+				"value": 84111743,
+				"untradeable": true,
+				"halId": 0,
+				"awardType": "item",
+				"assetId": 0,
+				"count": 1,
+				"setId": 380480,
+				"itemData": null,
+				"itemDataReduced": {
+					"id": 0,
+					"untradeable": true,
+					"assetId": 225663,
+					"rating": 89,
+					"itemType": "player",
+					"resourceId": 84111743,
+					"discardValue": 0,
+					"cardsubtypeid": 2,
+					"preferredPosition": "CM",
+					"attributeArray": [
+						91,
+						90,
+						92,
+						91,
+						76,
+						80
+					],
+					"teamId": 69,
+					"rareflag": 65,
+					"leagueId": 0,
+					"nation": 40,
+					"guidAssetId": "5559cf9007db4cbd9f7f33b9f979e4fd"
+				}
+			},
+			{
+				"value": 300,
+				"untradeable": true,
+				"halId": 0,
+				"awardType": "xp",
+				"assetId": 0,
+				"count": 1,
+				"setId": 380480,
+				"itemData": null
+			}
+		],
+		"objectives": [
+			{
+				"objectiveId": 25371,
+				"name": "Moulded in Moscow",
+				"description": "Assist in 4 separate Squad Battles matches on min. Professional difficulty (or Rivals) using League of Russia players",
+				"takeMeThereLink": "GotoSquadBattle",
+				"gameArea": 1,
+				"isWeb": false,
+				"awards": [
+					{
+						"value": 300,
+						"untradeable": true,
+						"halId": 3,
+						"awardType": "pack",
+						"assetId": 3,
+						"count": 1,
+						"setId": 379303,
+						"itemData": null
+					},
+					{
+						"value": 300,
+						"untradeable": true,
+						"halId": 0,
+						"awardType": "xp",
+						"assetId": 0,
+						"count": 1,
+						"setId": 379303,
+						"itemData": null
+					}
+				],
+				"multiplier": 4,
+				"priority": 4
+			},
+			{
+				"objectiveId": 25372,
+				"name": "Finesse in France",
+				"description": "Score 5 Finesse goals in Squad Battles on min. Professional difficulty (or Rivals) using Ligue 1 players",
+				"takeMeThereLink": "GotoSquadBattle",
+				"gameArea": 1,
+				"isWeb": false,
+				"awards": [
+					{
+						"value": 511,
+						"untradeable": true,
+						"halId": 4,
+						"awardType": "pack",
+						"assetId": 4,
+						"count": 1,
+						"setId": 379304,
+						"itemData": null
+					},
+					{
+						"value": 300,
+						"untradeable": true,
+						"halId": 0,
+						"awardType": "xp",
+						"assetId": 0,
+						"count": 1,
+						"setId": 379304,
+						"itemData": null
+					}
+				],
+				"multiplier": 5,
+				"priority": 3
+			},
+			{
+				"objectiveId": 25373,
+				"name": "Precision Passer",
+				"description": "Assist 2 goals in 2 separate Squad Battles matches on min. World Class difficulty (or Rivals) using Midfielders with min. 4* Weak Foot",
+				"takeMeThereLink": "GotoSquadBattle",
+				"gameArea": 1,
+				"isWeb": false,
+				"awards": [
+					{
+						"value": 519,
+						"untradeable": true,
+						"halId": 4,
+						"awardType": "pack",
+						"assetId": 4,
+						"count": 1,
+						"setId": 379305,
+						"itemData": null
+					},
+					{
+						"value": 300,
+						"untradeable": true,
+						"halId": 0,
+						"awardType": "xp",
+						"assetId": 0,
+						"count": 1,
+						"setId": 379305,
+						"itemData": null
+					}
+				],
+				"multiplier": 2,
+				"priority": 2
+			},
+			{
+				"objectiveId": 25374,
+				"name": "GOALovin!",
+				"description": "Score in 6 separate Squad Battles wins on min. Professional difficulty (or Rivals) using Ligue 1 Midfielders with min. 4* Skill Moves",
+				"takeMeThereLink": "GotoSquadBattle",
+				"gameArea": 1,
+				"isWeb": false,
+				"awards": [
+					{
+						"value": 515,
+						"untradeable": true,
+						"halId": 4,
+						"awardType": "pack",
+						"assetId": 4,
+						"count": 1,
+						"setId": 379306,
+						"itemData": null
+					},
+					{
+						"value": 300,
+						"untradeable": true,
+						"halId": 0,
+						"awardType": "xp",
+						"assetId": 0,
+						"count": 1,
+						"setId": 379306,
+						"itemData": null
+					}
+				],
+				"multiplier": 6,
+				"priority": 1
+			}
+		],
+		"objectivesNumber": 4
+	},
+	{
+		"groupId": 993,
+		"endTime": 1591376399,
+		"priority": 20,
+		"title": "Week 6 - Bronze",
+		"subTitle": "Week 6 begins",
+		"groupType": 3,
+		"groupState": 0,
+		"awardsList": [
+			{
+				"value": 6307780,
+				"untradeable": true,
+				"halId": 0,
+				"awardType": "item",
+				"assetId": 0,
+				"count": 1,
+				"setId": 380518,
+				"itemData": null,
+				"itemDataReduced": {
+					"id": 0,
+					"untradeable": true,
+					"assetId": 14,
+					"rating": 99,
+					"itemType": "kit",
+					"resourceId": 6307780,
+					"discardValue": 0,
+					"cardsubtypeid": 9,
+					"attributeList": [],
+					"teamId": 113329,
+					"rareflag": 1,
+					"leagueId": 0,
+					"category": 2
+				}
+			},
+			{
+				"value": 200,
+				"untradeable": true,
+				"halId": 0,
+				"awardType": "xp",
+				"assetId": 0,
+				"count": 1,
+				"setId": 380518,
+				"itemData": null
+			}
+		],
+		"objectives": [
+			{
+				"objectiveId": 25358,
+				"name": "Play 3",
+				"description": "Play 3 matches in any FUT game mode",
+				"takeMeThereLink": "",
+				"gameArea": 1,
+				"isWeb": false,
+				"awards": [
+					{
+						"value": 500,
+						"untradeable": true,
+						"halId": 0,
+						"awardType": "xp",
+						"assetId": 0,
+						"count": 1,
+						"setId": 379332,
+						"itemData": null
+					}
+				],
+				"multiplier": 3,
+				"priority": 4
+			},
+			{
+				"objectiveId": 25359,
+				"name": "Score 5",
+				"description": "Score 5 goals in any FUT game mode",
+				"takeMeThereLink": "",
+				"gameArea": 1,
+				"isWeb": false,
+				"awards": [
+					{
+						"value": 400,
+						"untradeable": true,
+						"halId": 0,
+						"awardType": "xp",
+						"assetId": 0,
+						"count": 1,
+						"setId": 379333,
+						"itemData": null
+					}
+				],
+				"multiplier": 5,
+				"priority": 3
+			},
+			{
+				"objectiveId": 25360,
+				"name": "Win 4",
+				"description": "Win 4 matches in any FUT game mode",
+				"takeMeThereLink": "",
+				"gameArea": 1,
+				"isWeb": false,
+				"awards": [
+					{
+						"value": 600,
+						"untradeable": true,
+						"halId": 0,
+						"awardType": "xp",
+						"assetId": 0,
+						"count": 1,
+						"setId": 379334,
+						"itemData": null
+					}
+				],
+				"multiplier": 4,
+				"priority": 2
+			},
+			{
+				"objectiveId": 25361,
+				"name": "Sweet Spot",
+				"description": "Score a volley in any FUT game mode",
+				"takeMeThereLink": "",
+				"gameArea": 1,
+				"isWeb": false,
+				"awards": [
+					{
+						"value": 300,
+						"untradeable": true,
+						"halId": 0,
+						"awardType": "xp",
+						"assetId": 0,
+						"count": 1,
+						"setId": 379335,
+						"itemData": null
+					}
+				],
+				"multiplier": 1,
+				"priority": 1
+			}
+		],
+		"objectivesNumber": 4
+	},
+	{
+		"groupId": 983,
+		"endTime": 1591289999,
+		"priority": 42,
+		"title": "Manchester City Retro Kit",
+		"subTitle": "Roll back the years in style with the Manchester City Retro Kit! Complete these objectives to earn Untradeable rewards",
+		"groupType": 3,
+		"groupState": 0,
+		"awardsList": [
+			{
+				"value": 6310866,
+				"untradeable": true,
+				"halId": 0,
+				"awardType": "item",
+				"assetId": 0,
+				"count": 1,
+				"setId": 378328,
+				"itemData": null,
+				"itemDataReduced": {
+					"id": 0,
+					"untradeable": true,
+					"assetId": 14,
+					"rating": 99,
+					"itemType": "kit",
+					"resourceId": 6310866,
+					"discardValue": 0,
+					"cardsubtypeid": 9,
+					"attributeList": [],
+					"teamId": 114593,
+					"rareflag": 1,
+					"leagueId": 0,
+					"category": 2
+				}
+			},
+			{
+				"value": 150,
+				"untradeable": true,
+				"halId": 0,
+				"awardType": "xp",
+				"assetId": 0,
+				"count": 1,
+				"setId": 378328,
+				"itemData": null
+			}
+		],
+		"objectives": [
+			{
+				"objectiveId": 25319,
+				"name": "English Excellence",
+				"description": "Score 5 goals in Squad Battles on min. Semi-Pro difficulty using English players",
+				"takeMeThereLink": "GotoSquadBattle",
+				"gameArea": 1,
+				"isWeb": false,
+				"awards": [
+					{
+						"value": 150,
+						"untradeable": true,
+						"halId": 0,
+						"awardType": "xp",
+						"assetId": 0,
+						"count": 1,
+						"setId": 377193,
+						"itemData": null
+					}
+				],
+				"multiplier": 5,
+				"priority": 3
+			},
+			{
+				"objectiveId": 25320,
+				"name": "Premier League Provider",
+				"description": "Assist in 4 separate matches in any FUT game mode using Premier League players",
+				"takeMeThereLink": "",
+				"gameArea": 1,
+				"isWeb": false,
+				"awards": [
+					{
+						"value": 150,
+						"untradeable": true,
+						"halId": 0,
+						"awardType": "xp",
+						"assetId": 0,
+						"count": 1,
+						"setId": 377194,
+						"itemData": null
+					}
+				],
+				"multiplier": 4,
+				"priority": 2
+			},
+			{
+				"objectiveId": 25321,
+				"name": "Manchester Mates",
+				"description": "Score in 3 separate Friendly matches using Manchester City players",
+				"takeMeThereLink": "GotoHouseRules",
+				"gameArea": 1,
+				"isWeb": false,
+				"awards": [
+					{
+						"value": 150,
+						"untradeable": true,
+						"halId": 0,
+						"awardType": "xp",
+						"assetId": 0,
+						"count": 1,
+						"setId": 377195,
+						"itemData": null
+					}
+				],
+				"multiplier": 3,
+				"priority": 1
+			}
+		],
+		"objectivesNumber": 3
+	},
 	{
 		"groupId": 989,
 		"endTime": 1591030799,
