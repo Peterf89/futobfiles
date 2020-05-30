@@ -343,6 +343,7 @@
 				"takeMeThereLink": "GotoSquadBattle",
 				"gameArea": 1,
 				"isWeb": false,
+				"tip": "Players have reported this only works on World Class and above difficulty levels!",
 				"awards": [
 					{
 						"value": 515,
