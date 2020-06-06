@@ -1,5 +1,259 @@
 [
 	{
+		"groupId": 1035,
+		"endTime": 1592582705,
+		"priority": 33,
+		"title": "Week 1 - Gold",
+		"subTitle": "Show your flair in this week's Assist themed objectives",
+		"groupType": 3,
+		"groupState": 0,
+		"awardsList": [
+			{
+				"value": 733,
+				"untradeable": true,
+				"halId": 0,
+				"awardType": "xp",
+				"assetId": 0,
+				"count": 1,
+				"setId": 388477,
+				"itemData": null
+			}
+		],
+		"objectives": [
+			{
+				"objectiveId": 25732,
+				"name": "On the Deck",
+				"description": "Assist 3 goals using Through Balls in Squad Battles on min. Professional difficulty",
+				"takeMeThereLink": "GotoSquadBattle",
+				"gameArea": 1,
+				"isWeb": false,
+				"awards": [
+					{
+						"value": 1000,
+						"untradeable": true,
+						"halId": 0,
+						"awardType": "xp",
+						"assetId": 0,
+						"count": 1,
+						"setId": 384800,
+						"itemData": null
+					}
+				],
+				"multiplier": 3,
+				"priority": 5
+			},
+			{
+				"objectiveId": 25733,
+				"name": "Passing Rivals",
+				"description": "Assist 5 goals in Rivals",
+				"takeMeThereLink": "GotoOnlineRivals",
+				"gameArea": 1,
+				"isWeb": false,
+				"awards": [
+					{
+						"value": 1400,
+						"untradeable": true,
+						"halId": 0,
+						"awardType": "xp",
+						"assetId": 0,
+						"count": 1,
+						"setId": 384801,
+						"itemData": null
+					}
+				],
+				"multiplier": 5,
+				"priority": 4
+			},
+			{
+				"objectiveId": 25734,
+				"name": "Pass to Win",
+				"description": "Assist a goal using Midfielders in 2 separate Rivals wins",
+				"takeMeThereLink": "GotoOnlineRivals",
+				"gameArea": 1,
+				"isWeb": false,
+				"awards": [
+					{
+						"value": 1550,
+						"untradeable": true,
+						"halId": 0,
+						"awardType": "xp",
+						"assetId": 0,
+						"count": 1,
+						"setId": 384802,
+						"itemData": null
+					}
+				],
+				"multiplier": 2,
+				"priority": 3
+			},
+			{
+				"objectiveId": 25735,
+				"name": "Back to Front",
+				"description": "Assist a goal using a Defender in Rivals",
+				"takeMeThereLink": "GotoOnlineRivals",
+				"gameArea": 1,
+				"isWeb": false,
+				"awards": [
+					{
+						"value": 1300,
+						"untradeable": true,
+						"halId": 0,
+						"awardType": "xp",
+						"assetId": 0,
+						"count": 1,
+						"setId": 384803,
+						"itemData": null
+					}
+				],
+				"multiplier": 1,
+				"priority": 2
+			},
+			{
+				"objectiveId": 25736,
+				"name": "Making Progress",
+				"description": "Earn 3,500 Rivals points",
+				"takeMeThereLink": "GotoOnlineRivals",
+				"gameArea": 1,
+				"isWeb": false,
+				"awards": [
+					{
+						"value": 1350,
+						"untradeable": true,
+						"halId": 0,
+						"awardType": "xp",
+						"assetId": 0,
+						"count": 1,
+						"setId": 384804,
+						"itemData": null
+					}
+				],
+				"multiplier": 3500,
+				"priority": 1
+			}
+		],
+		"objectivesNumber": 5
+	},
+	{
+		"groupId": 1034,
+		"endTime": 1592585999,
+		"priority": 34,
+		"title": "Week 1 - Silver",
+		"subTitle": "Jump into the action and play some FUT!",
+		"groupType": 3,
+		"groupState": 4,
+		"awardsList": [
+			{
+				"value": 400,
+				"untradeable": true,
+				"halId": 0,
+				"awardType": "xp",
+				"assetId": 0,
+				"count": 1,
+				"setId": 388476,
+				"itemData": null
+			}
+		],
+		"objectives": [
+			{
+				"objectiveId": 25728,
+				"name": "Assist Three",
+				"description": "Assist 3 goals in Friendlies",
+				"takeMeThereLink": "GotoHouseRules",
+				"gameArea": 1,
+				"isWeb": false,
+				"awards": [
+					{
+						"value": 500,
+						"untradeable": true,
+						"halId": 0,
+						"awardType": "xp",
+						"assetId": 0,
+						"count": 1,
+						"setId": 384796,
+						"itemData": null
+					}
+				],
+				"state": "REDEEMED",
+				"currentProgress": 3,
+				"multiplier": 3,
+				"priority": 4
+			},
+			{
+				"objectiveId": 25729,
+				"name": "Score Three",
+				"description": "Score a goal in 3 separate matches in any FUT game mode",
+				"takeMeThereLink": "",
+				"gameArea": 1,
+				"isWeb": false,
+				"awards": [
+					{
+						"value": 1000,
+						"untradeable": true,
+						"halId": 0,
+						"awardType": "xp",
+						"assetId": 0,
+						"count": 1,
+						"setId": 384797,
+						"itemData": null
+					}
+				],
+				"state": "REDEEMED",
+				"currentProgress": 3,
+				"multiplier": 3,
+				"priority": 3
+			},
+			{
+				"objectiveId": 25730,
+				"name": "Play Three",
+				"description": "Play 3 Squad Battles matches",
+				"takeMeThereLink": "GotoSquadBattle",
+				"gameArea": 1,
+				"isWeb": false,
+				"awards": [
+					{
+						"value": 1200,
+						"untradeable": true,
+						"halId": 0,
+						"awardType": "xp",
+						"assetId": 0,
+						"count": 1,
+						"setId": 384798,
+						"itemData": null
+					}
+				],
+				"state": "REDEEMED",
+				"currentProgress": 3,
+				"multiplier": 3,
+				"priority": 2
+			},
+			{
+				"objectiveId": 25731,
+				"name": "Midfield Passer",
+				"description": "Assist 2 goals with Midfielders in any FUT game mode",
+				"takeMeThereLink": "",
+				"gameArea": 1,
+				"isWeb": false,
+				"awards": [
+					{
+						"value": 900,
+						"untradeable": true,
+						"halId": 0,
+						"awardType": "xp",
+						"assetId": 0,
+						"count": 1,
+						"setId": 384799,
+						"itemData": null
+					}
+				],
+				"state": "REDEEMED",
+				"currentProgress": 2,
+				"multiplier": 2,
+				"priority": 1
+			}
+		],
+		"objectivesNumber": 4
+	},
+	{
 		"groupId": 1033,
 		"endTime": 1592585999,
 		"priority": 35,
