@@ -1,5 +1,275 @@
 [
 	{
+		"groupId": 1099,
+		"endTime": 1594400399,
+		"priority": 24,
+		"title": "Week 4 - Gold",
+		"subTitle": "Become a complete Midfield player in this week's challenge!",
+		"groupType": 3,
+		"groupState": 1,
+		"awardsList": [
+			{
+				"value": 733,
+				"untradeable": true,
+				"halId": 0,
+				"awardType": "xp",
+				"assetId": 0,
+				"count": 1,
+				"setId": 413419,
+				"itemData": null
+			}
+		],
+		"objectives": [
+			{
+				"objectiveId": 25964,
+				"name": "Attack Minded",
+				"description": "Assist 2 goals in Rivals using Midfielders with min. 4* Skill Moves",
+				"takeMeThereLink": "GotoOnlineRivals",
+				"gameArea": 1,
+				"isWeb": false,
+				"awards": [
+					{
+						"value": 1250,
+						"untradeable": true,
+						"halId": 0,
+						"awardType": "xp",
+						"assetId": 0,
+						"count": 1,
+						"setId": 405113,
+						"itemData": null
+					}
+				],
+				"multiplier": 2,
+				"priority": 5
+			},
+			{
+				"objectiveId": 25965,
+				"name": "Midfield Brace",
+				"description": "Score 2 goals using Midfielders in the same match in Squad Battles on min. Professional difficulty",
+				"takeMeThereLink": "GotoSquadBattle",
+				"gameArea": 1,
+				"isWeb": false,
+				"awards": [
+					{
+						"value": 1000,
+						"untradeable": true,
+						"halId": 0,
+						"awardType": "xp",
+						"assetId": 0,
+						"count": 1,
+						"setId": 405114,
+						"itemData": null
+					}
+				],
+				"state": "REDEEMED",
+				"currentProgress": 1,
+				"multiplier": 1,
+				"priority": 4
+			},
+			{
+				"objectiveId": 25966,
+				"name": "All Rounder",
+				"description": "Assist and Score using Midfielders in the same Rivals match",
+				"takeMeThereLink": "GotoOnlineRivals",
+				"gameArea": 1,
+				"isWeb": false,
+				"awards": [
+					{
+						"value": 1300,
+						"untradeable": true,
+						"halId": 0,
+						"awardType": "xp",
+						"assetId": 0,
+						"count": 1,
+						"setId": 405115,
+						"itemData": null
+					}
+				],
+				"multiplier": 1,
+				"priority": 3
+			},
+			{
+				"objectiveId": 25967,
+				"name": "Engine Room",
+				"description": "Win in Rivals using at least 5 Midfielders in your starting squad",
+				"takeMeThereLink": "GotoOnlineRivals",
+				"gameArea": 1,
+				"isWeb": false,
+				"awards": [
+					{
+						"value": 1450,
+						"untradeable": true,
+						"halId": 0,
+						"awardType": "xp",
+						"assetId": 0,
+						"count": 1,
+						"setId": 405116,
+						"itemData": null
+					}
+				],
+				"multiplier": 1,
+				"priority": 2
+			},
+			{
+				"objectiveId": 25968,
+				"name": "Left and Right",
+				"description": "Score a goal in 2 separate Rivals matches using Midfielders with min. 4* Weak Foot",
+				"takeMeThereLink": "GotoOnlineRivals",
+				"gameArea": 1,
+				"isWeb": false,
+				"awards": [
+					{
+						"value": 1600,
+						"untradeable": true,
+						"halId": 0,
+						"awardType": "xp",
+						"assetId": 0,
+						"count": 1,
+						"setId": 405117,
+						"itemData": null
+					}
+				],
+				"multiplier": 2,
+				"priority": 1
+			}
+		],
+		"objectivesNumber": 5
+	},
+	{
+		"groupId": 1092,
+		"endTime": 1593795599,
+		"priority": 27,
+		"title": "Week 3 - Gold",
+		"subTitle": "Pacey players are the key to this week's objectives!",
+		"groupType": 3,
+		"groupState": 0,
+		"awardsList": [
+			{
+				"value": 733,
+				"untradeable": true,
+				"halId": 0,
+				"awardType": "xp",
+				"assetId": 0,
+				"count": 1,
+				"setId": 413416,
+				"itemData": null
+			}
+		],
+		"objectives": [
+			{
+				"objectiveId": 25932,
+				"name": "Rapid Fire",
+				"description": "Score in 2 separate Squad Battles matches on min. Professional difficulty using a player with a min. PAC rating of 85",
+				"takeMeThereLink": "GotoSquadBattle",
+				"gameArea": 1,
+				"isWeb": false,
+				"awards": [
+					{
+						"value": 1200,
+						"untradeable": true,
+						"halId": 0,
+						"awardType": "xp",
+						"assetId": 0,
+						"count": 1,
+						"setId": 399870,
+						"itemData": null
+					}
+				],
+				"multiplier": 2,
+				"priority": 5
+			},
+			{
+				"objectiveId": 25933,
+				"name": "Fast Finish",
+				"description": "Score in Rivals with a Low Driven Shot using a player with a min. PAC rating of 85",
+				"takeMeThereLink": "GotoOnlineRivals",
+				"gameArea": 1,
+				"isWeb": false,
+				"awards": [
+					{
+						"value": 1200,
+						"untradeable": true,
+						"halId": 0,
+						"awardType": "xp",
+						"assetId": 0,
+						"count": 1,
+						"setId": 399871,
+						"itemData": null
+					}
+				],
+				"multiplier": 1,
+				"priority": 5
+			},
+			{
+				"objectiveId": 25934,
+				"name": "Pacey Passer",
+				"description": "Assist 2 goals in the same Squad Battles match on min. Professional difficulty using a player with a min. PAC rating of 85",
+				"takeMeThereLink": "GotoSquadBattle",
+				"gameArea": 1,
+				"isWeb": false,
+				"awards": [
+					{
+						"value": 1100,
+						"untradeable": true,
+						"halId": 0,
+						"awardType": "xp",
+						"assetId": 0,
+						"count": 1,
+						"setId": 399872,
+						"itemData": null
+					}
+				],
+				"multiplier": 1,
+				"priority": 3
+			},
+			{
+				"objectiveId": 25935,
+				"name": "Winning Rush",
+				"description": "Win 2 Rivals matches using at least 3 players with a min. PAC rating of 85 in your starting squad",
+				"takeMeThereLink": "GotoOnlineRivals",
+				"gameArea": 1,
+				"isWeb": false,
+				"awards": [
+					{
+						"value": 1500,
+						"untradeable": true,
+						"halId": 0,
+						"awardType": "xp",
+						"assetId": 0,
+						"count": 1,
+						"setId": 399873,
+						"itemData": null
+					}
+				],
+				"multiplier": 2,
+				"priority": 2
+			},
+			{
+				"objectiveId": 25936,
+				"name": "Making Progress",
+				"description": "Earn 3,500 Rivals points",
+				"takeMeThereLink": "GotoOnlineRivals",
+				"gameArea": 1,
+				"isWeb": false,
+				"awards": [
+					{
+						"value": 1600,
+						"untradeable": true,
+						"halId": 0,
+						"awardType": "xp",
+						"assetId": 0,
+						"count": 1,
+						"setId": 399874,
+						"itemData": null
+					}
+				],
+				"multiplier": 3500,
+				"priority": 1
+			}
+		],
+		"objectivesNumber": 5
+	},
+	{
 		"groupId": 1100,
 		"endTime": 1594227599,
 		"priority": 56,
